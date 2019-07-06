@@ -72,3 +72,5 @@ function navActive() {
         document.getElementById("nav-publications").classList.add("nav-active");
     }
 };
+
+document.body.addEventListener('touchstart', function () { });
