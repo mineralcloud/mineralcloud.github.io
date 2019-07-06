@@ -1,0 +1,28 @@
+- year: 2019
+  publications_this_year:
+  - title: Mass-dependent dynamics of terrestrial exoplanets using ab initio mineral properties
+    yyyy-mm-dd: 2019-01-01
+    author: A. P. van den Berg, D. A. Yuen, K. Umemoto, M. Jacobs, and R. M. Wentzcovitch
+    journal: Icarus
+    pdf_url:
+    doi: 10.1016/j.icarus.2018.08.016
+    online_url: https://www.sciencedirect.com/science/article/pii/S0019103517306516
+  
+
+- year: 2018
+  publications_this_year:
+  - title: "EPAW-1.0 code for evolutionary optimization of PAW datasets especially for high-pressure application"
+    yyyy-mm-dd: 2018-12-20
+    author: Kanchan Sarkar, N.A.W. Holzwarth, R.M.Wentzcovitch
+    journal: Computer Physics Communications
+    pdf_url:
+    doi: doi.org/10.1016/j.cpc.2018.05.019
+    online_url: https://www.sciencedirect.com/science/article/pii/S0010465518301826
+
+  - title: "qha: A Python package for quasiharmonic free energy calculation for multi-configuration systems"
+    yyyy-mm-dd: 2018-12-20
+    author: Tian Qin, Qi Zhang, Renata M. Wentzcovitch, Koichiro Umemoto
+    journal: Computer Physics Communications
+    pdf_url:
+    doi: doi.org/10.1016/j.cpc.2018.11.003
+    online_url: https://www.sciencedirect.com/science/article/pii/S0010465518303953?via%3Dihub#!

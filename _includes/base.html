@@ -1,0 +1,76 @@
+{% load cache %}
+{% load static %}
+{% load pipeline %}
+
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<html lang="en">
+<head>
+    
+    {% stylesheet 'base' %}
+    {% stylesheet 'colors' %}
+    {% stylesheet 'main' %}
+    
+    
+    
+    
+    
+    <title>{% block header %}{% endblock %} - Renata Wentzcovitch</title>
+   
+
+
+</head>
+
+<body>
+
+        {% include 'layouts/nav.html' %}
+        {% block headbar %}
+        {% endblock %}
+
+    {% block showcase %}
+    {% endblock %}
+
+
+    <div class="container">
+        <div class="row">
+        
+        {% block content %}
+        {% endblock %}
+        
+        
+        {% block sidebar %}
+        {% endblock %}
+
+        </div>
+        
+    </div>
+
+
+
+</body>
+
+<footer>
+
+
+    {% javascript 'basic' %}
+    {% javascript 'nav' %}
+    
+    <script>
+        AOS.init({
+                offset: 50,
+                duration: 600,
+                easing: 'ease-in-sine',
+                delay: 100,
+                once:true
+            });
+    </script>
+
+    {% block footer %}
+    {% endblock %}
+
+    {% include 'layouts/footer.html' %}
+
+    {% block js %}
+    {% endblock %}
+</footer>
+</html>

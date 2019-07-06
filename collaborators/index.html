@@ -1,0 +1,45 @@
+---
+layout: page
+title: "Collaborators"
+permalink: /collaborators/
+description: "with Wentzcovitch Group"
+header-img: static/img/header1.jpg
+---
+
+
+<div class="container">
+
+{% for people in site.data.collaborators %}
+<div class="people-case ">
+    <div class="row">
+        <ul>
+            <div class="col-lg-3 col-md-3  col-sm-8 col-xs-8">
+
+                <li class="people-name">{{people.name}}</li>
+                <li class="people-name">{{people.position}}</li>
+                <li class="people-department">{{people.department}}</li>
+                <li class="people-university">{{people.university}}</li>
+                <li class="people-email">{{people.email}}</li>
+
+            </div>
+            <div class="col-lg-4 col-md-4  col-sm-4 col-xs-4">
+                <center>
+                    <li>
+                        <div class="people-portrait-cropper"><img
+                                src="{{ site.baseurl }}/{% if people.portrait %}{{ people.portrait}}{% else %}static/img/portrait_default.png{% endif %}">
+                        </div>
+                    </li>
+                </center>
+            </div>
+            <div class="col-lg-5 col-md-5  col-sm-10 col-xs-10 sidebar-container">
+                {{people.description}}
+            </div>
+        </ul>
+
+    </div>
+    
+</div>
+<hr>
+{% endfor %}
+
+</div>

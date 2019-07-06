@@ -1,0 +1,17 @@
+- name: David A. Yuen
+  position: Co-Founder
+  portrait: img/collaborators/Yuen.png
+  since: 2017
+  department: Department of Applied Physics and Applied Mathematics
+  university: Columbia University
+  # email: Quisque@ipsum.edu
+  description: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed nulla velit, malesuada quis consectetur at, mollis pulvinar nisl. Suspendisse sed ultrices metus. Nullam interdum, mi nec viverra malesuada, risus justo ornare diam, nec porta metus arcu sed purus. Mauris ultrices venenatis tortor, ac commodo ante laoreet eu. Nullam gravida tortor nunc.
+
+- name: Geoffrey Abers
+  position: 
+  portrait: img/collaborators/Geoffrey.png
+  since: 2017
+  department: Department of Earth and Atmospheric Sciences
+  university: Cornell University
+  # email: Quisque@ipsum.edu
+  description: Fusce bibendum placerat molestie. Praesent eget lorem quis dolor feugiat rutrum. Maecenas nibh ex, efficitur sit amet dolor non, accumsan rutrum lacus. Fusce in pharetra erat. Nam ut pretium ipsum. Sed luctus, neque quis euismod porttitor, magna nisl finibus risus, eu porttitor magna odio vitae diam.

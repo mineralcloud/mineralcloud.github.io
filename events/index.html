@@ -1,0 +1,62 @@
+---
+layout: page
+title: "Events"
+permalink: /events/
+description: "How I am distributing my time..."
+header-img: static/img/header1.jpg
+---
+
+<div class="container">
+{% for post in site.categories.events %}
+<div class="post-preview">
+    
+    <div class="row">
+        <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 sidebar-container">
+            <div class="event-img">
+                {% if post.logo %}<img src="{{ site.baseurl }}/{{ post.logo}}">{% endif %}
+            </div>
+        </div>
+        
+        <div class="col-lg-8  col-md-8 col-sm-12 col-xs-12 post-container">
+            <div class="event-post">
+                <a href="{{ post.url  }}">
+                    <h2 class="post-title">
+                        {{ post.title }}
+                    </h2>
+                    {% if post.subtitle %}
+                    <h3 class="post-subtitle">
+                        {{ post.subtitle }}
+                    </h3>
+                    {% endif %}
+                </a>
+                <div class="post-content-preview">
+                    {{ post.content }}
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    
+</div>
+<hr>
+
+{% endfor %}
+
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path  | replace: '//', '/' }}">&larr; Newer Posts</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path| replace: '//', '/' }}">Older Posts &rarr;</a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}
+
+</div>

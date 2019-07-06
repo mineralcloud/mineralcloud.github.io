@@ -1,0 +1,77 @@
+---
+layout: page
+title: "Publications"
+permalink: /publications/
+description: "Publications in Wentzcovitch Group"
+header-img: static/img/header1.jpg
+---
+
+<div class="container">
+
+<div class="col-lg-10 col-md-10  col-sm-12 col-xs-12  post-container">
+<div class="publication">
+    {% for item in site.data.publications %}
+    <ul class="publication-year">
+        <li>
+            <div id="{{item.year}}" class="publication-year-item">
+                <div class="pub-tab"></div>
+                <h2>
+                    <span>{{item.year}}</span>
+                    <span style="float: right">{{item.publications_this_year.size}} Articles</span>
+                </h2>
+
+            </div>
+            <hr>
+            {% for publication in item.publications_this_year %}
+            <ul class="publication-paper row">
+                <div class="col-lg-8 col-md-8  col-sm-8 col-xs-8">
+                    <li>
+                        <div class="publication-title"><span>{{publication.title}}</span></div>
+                    </li>
+                    <li><span class="publication-author">{{publication.author}}</span></li>
+                </div>
+                <div class="col-lg-4 col-md-4  col-sm-4 col-xs-4">
+                    <li>
+                        <span class="publication-journal-year">{{publication.yyyy-mm-dd|date:"%B, %Y"}}</span>
+                    </li>
+
+                    <li>
+                        <span class="publication-journal">{{publication.journal}}</span>
+                    </li>
+
+                    <li>
+                        <span class="publication-url"><a href="{{publication.online_url}}" target="_blank">
+                                {{site.data.svgbase.jumpout}}
+                                View Online</a></span>
+
+                    </li>
+                </div>
+
+                <!-- <li class="publication-abstract">
+                                <span>{{publication.abstract}}</span>
+                            </li> -->
+            </ul>
+            <hr>
+            {% endfor %}
+
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
+</div>
+
+<div class="col-lg-2  col-md-2  col-sm-12 col-xs-12">
+    <div class="sidebar-container" id="sidebar">
+        <div class="publication-year-list black">
+            <ul>
+                <h4>Year Archives</h4>
+                {% for item in site.data.publications %}
+                <li><a href="#{{item.year}}">{{item.year}} ({{item.publications_this_year.size}})</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+
+</div>
