@@ -10,8 +10,8 @@ header-img: static/img/header1.jpg
 
 <div class="col-lg-10 col-md-10  col-sm-12 col-xs-12  post-container">
 <div class="publication">
-    {% for item in site.data.publications %}
     <ul class="publication-year">
+    {% for item in site.data.publications %}
         <li>
             <div id="{{item.year}}" class="publication-year-item">
                 <div class="pub-tab"></div>
@@ -55,8 +55,8 @@ header-img: static/img/header1.jpg
             {% endfor %}
 
         </li>
-        {% endfor %}
     </ul>
+    {% endfor %}
 </div>
 
 </div>
