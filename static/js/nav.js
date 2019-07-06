@@ -66,9 +66,3 @@ $(document).ready(function () {
     scrollFunction()
 });
 
-function navActive() {
-    var myTitle = document.title;
-    if (myTitle.match("Publication")) {
-        document.getElementById("nav-publications").classList.add("nav-active");
-    }
-};

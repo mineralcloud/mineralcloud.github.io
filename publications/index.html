@@ -10,9 +10,8 @@ header-img: static/img/header1.jpg
 
 <div class="col-lg-10 col-md-10  col-sm-12 col-xs-12  post-container">
     <div class="publication">
-        <ul class="publication-year">
         {% for item in site.data.publications %}
-            <li>
+        <div class="publication-year">
                 <div id="{{item.year}}" class="publication-year-item">
                     <div class="pub-tab"></div>
                     <h2>
@@ -43,19 +42,15 @@ header-img: static/img/header1.jpg
                             <span class="publication-url"><a href="{{publication.online_url}}" target="_blank">
                                     {{site.data.svgbase.jumpout}}
                                     View Online</a></span>
-
                         </li>
                     </div>
 
-                    <!-- <li class="publication-abstract">
-                                    <span>{{publication.abstract}}</span>
-                                </li> -->
                 </ul>
                 <hr>
                 {% endfor %}
-            </li>
+        </div>
         {% endfor %}
-        </ul>
+       
     </div>
 
 </div>
