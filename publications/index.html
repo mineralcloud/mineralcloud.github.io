@@ -25,7 +25,7 @@ header-img: static/img/header1.jpg
                 <ul class="publication-paper row">
                     <div class="col-lg-8 col-md-8  col-sm-8 col-xs-8">
                         <li>
-                            <div class="publication-title"><span>{{publication.title}}</span></div>
+                            <div class="publication-title"><span>{{publication.title|markdownify}}</span></div>
                         </li>
                         <li><span class="publication-author">{{publication.author}}</span></li>
                     </div>
@@ -39,9 +39,10 @@ header-img: static/img/header1.jpg
                         </li>
 
                         <li>
-                            <span class="publication-url"><a href="{{publication.online_url}}" target="_blank">
+                            {% if publication.online_url %}<span class="publication-url"><a href="{{publication.online_url}}" target="_blank">
                                     {{site.data.svgbase.jumpout}}
                                     View Online</a></span>
+                            {% endif %}
                         </li>
                     </div>
 
@@ -56,10 +57,10 @@ header-img: static/img/header1.jpg
 </div>
 
 <div class="col-lg-2  col-md-2  col-sm-12 col-xs-12">
-    <div class="sidebar-container" id="sidebar">
+    <div class="sidebar-container" id="sidebar" style="min-width:200px;">
         <div class="publication-year-list black">
             <ul>
-                <h4>Year Archives</h4>
+                <h4>Year Archive</h4>
                 {% for item in site.data.publications %}
                 <li><a href="#{{item.year}}">{{item.year}} ({{item.publications_this_year.size}})</a></li>
                 {% endfor %}

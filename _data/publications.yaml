@@ -1,5 +1,83 @@
+- year: In preparation 
+  publications_this_year:
+  - title: Phonons in (Mg,Fe)O ferropericlase throughout the iron spin crossover
+    yyyy-mm-dd: 2019-12-30
+    author:	M. Marcondes and R. M. Wentzcovitch
+    journal: In preparation
+    pdf_url:
+    doi: #
+    online_url: 
+
+- year: Near submission 
+  publications_this_year:
+  - title: Effect of valence, spin state, and site on the iron isotope ratio in bridgmanite
+    yyyy-mm-dd: 2019-12-30
+    author: T. Qin, M. Marcondes, R. M. Wentzcovitch, G. Shukla
+    journal: In preparation
+    pdf_url:
+    doi: #
+    online_url: 
+    
+  - title: Seismic detection of the iron spin transition in Earth’s lower mantle
+    yyyy-mm-dd: 2019-12-30
+    author: J. Hernlund, G. Sheppard, R. M. Wentzcovitch, C. Houser, T. Reidar, and J. Valencia-Cardona
+    journal: In preparation
+    pdf_url:
+    doi: #
+    online_url: 
+
+- year: Under review
+  publications_this_year:
+  - title: Post-perovskite transition in Al- and Fe-bearing bridgmanite
+    yyyy-mm-dd: 2019-12-30
+    author: J. Valencia Cardona, G. Shukla, K. Sarkar, and R. M. Wentzcovitch
+    journal: Under submission
+    pdf_url:
+    doi: #
+    online_url: 
+  
+  - title: Velocity and density characteristics of subducted oceanic crust and the origin of seismic heterogeneity
+    yyyy-mm-dd: 2019-12-30
+    author: W. Wang, Y. Xu, D. Sun, S. Ni, R. M. Wentzcovitch, and Z. Wu
+    journal: Nature Geoscience, under review 
+    pdf_url:
+    doi: #
+    online_url: 
+  
+  - title: First principles investigation of post-PPV transitions in low-pressure analogs of \\( MgSiO_3 \\) 
+    yyyy-mm-dd: 2019-12-30
+    author: K. Umemoto and R. M. Wentzcovitch
+    journal: Earth & Planet Sc. Lett., under review 
+    pdf_url:
+    doi: #
+    online_url: 
+
 - year: 2019
   publications_this_year:
+  - title: "phq: A Fortran code to compute phonon quasiparticle properties and dispersions"
+    yyyy-mm-dd: 2019-10-01
+    author: Z. Zhang, D.-B. Zhang, T. Sun, and R. M. Wentzcovitch
+    journal: Computer Physics Communications
+    pdf_url:
+    doi: https://doi.org/10.1016/j.cpc.2019.05.003
+    online_url: https://www.sciencedirect.com/science/article/pii/S0010465519301523?via%3Dihub
+
+  - title: Thermoelasticity of Iron‐ and Aluminum‐Bearing \\( MgSiO_3 \\)  Postperovskite
+    yyyy-mm-dd: 2019-01-12
+    author: G. Shukla, K. Sarkar, and R. M. Wentzcovitch
+    journal: "Journal of Geophysical Research: Solid Earth"
+    pdf_url:
+    doi: https://doi.org/10.1029/2018JB016379
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2018JB016379
+
+  - title: "Effects of Induced Stress on Seismic Waves: Validation Based on Ab Initio Calculations"
+    yyyy-mm-dd: 2019-01-10
+    author: J. Tromp, M. L. Marcondes, R. M. Wentzcovitch, and J. Trampert
+    journal: "Journal of Geophysical Research: Solid Earth"
+    pdf_url:
+    doi: https://doi.org/10.1029/2018JB016778
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JB016778
+      
   - title: Mass-dependent dynamics of terrestrial exoplanets using ab initio mineral properties
     yyyy-mm-dd: 2019-01-01
     author: A. P. van den Berg, D. A. Yuen, K. Umemoto, M. Jacobs, and R. M. Wentzcovitch
@@ -8,9 +86,34 @@
     doi: 10.1016/j.icarus.2018.08.016
     online_url: https://www.sciencedirect.com/science/article/pii/S0019103517306516
   
+  - title: "Iron isotopic fractionation in mineral phases from Earth's lower mantle: Did terrestrial magma ocean crystallization fractionate iron isotopes?"
+    yyyy-mm-dd: 2019-01-15
+    author: H. Yang, J.-F. Lin, M. Y. Hu, M. Roskosz, W. Bi, J Zhao, E. E. Alp, J. Liu, T. Okuchi, R. M. Wentzcovitch, and N. Dauphas
+    journal: Earth and Planetary Science Letters
+    pdf_url:
+    doi: https://doi.org/10.1016/j.epsl.2018.10.034
+    online_url: https://www.sciencedirect.com/science/article/pii/S0012821X18306368
+
+  - title: "qha: A Python package for quasiharmonic free energy calculation for multi-configuration systems"
+    yyyy-mm-dd: 2019-04-20
+    author: Tian Qin, Qi Zhang, Renata M. Wentzcovitch, Koichiro Umemoto
+    journal: Computer Physics Communications
+    pdf_url:
+    doi: https://doi.org/10.1016/j.cpc.2018.11.003
+    online_url: https://www.sciencedirect.com/science/article/pii/S0010465518303953?via%3Dihub
+  
 
 - year: 2018
   publications_this_year:
+  
+  - title: "An Extended Semianalytical Approach for Thermoelasticity of Monoclinic Crystals: Application to Diopside"
+    yyyy-mm-dd: 2018-09-04
+    author: F. Zou, Z. Wu, W. Wang, and R. M. Wentzcovitch
+    journal: "Journal of Geophysical Research: Solid Earth"
+    pdf_url:
+    doi: https://doi.org/10.1029/2018JB016102
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JB016102
+  
   - title: "EPAW-1.0 code for evolutionary optimization of PAW datasets especially for high-pressure application"
     yyyy-mm-dd: 2018-12-20
     author: Kanchan Sarkar, N.A.W. Holzwarth, R.M.Wentzcovitch
@@ -19,10 +122,53 @@
     doi: doi.org/10.1016/j.cpc.2018.05.019
     online_url: https://www.sciencedirect.com/science/article/pii/S0010465518301826
 
-  - title: "qha: A Python package for quasiharmonic free energy calculation for multi-configuration systems"
-    yyyy-mm-dd: 2018-12-20
-    author: Tian Qin, Qi Zhang, Renata M. Wentzcovitch, Koichiro Umemoto
-    journal: Computer Physics Communications
+  - title: Electronic structure of \\( BaSnO3\\) investigated by high-energy-resolution electron energy-loss spectroscopy and ab initio calculations
+    yyyy-mm-dd: 2018-03-12
+    author: H. Yun, M. Topsakal, A. Prakash, K. Ganguly, C. Leighton, B. Jalan, R. M. Wentzcovitch, J. S. Jeong, and K. A. Mkhoyan
+    journal: Journal of Vacuum Science & Technology A
     pdf_url:
-    doi: doi.org/10.1016/j.cpc.2018.11.003
-    online_url: https://www.sciencedirect.com/science/article/pii/S0010465518303953?via%3Dihub#!
+    doi: https://dx.doi.org/10.1116/1.5026298
+    online_url: https://avs.scitation.org/doi/10.1116/1.5026298
+
+  - title: "Ab initio study of water speciation in forsterite: Importance of the entropic effect"
+    yyyy-mm-dd: 2018-05-01
+    author: T. Qin, R. M. Wentzcovitch, K. Umemoto, M. Hirschmann, and D. Kohlstedt
+    journal: American Mineralogist
+    pdf_url: 
+    doi: https://doi.org/10.2138/am-2018-6262
+    online_url: https://pubs.geoscienceworld.org/msa/ammin/article-abstract/103/5/692/530658/ab-initio-study-of-water-speciation-in-forsterite?redirectedFrom=fulltext
+  
+  - title: Importance of van der Waals interaction on structural, vibrational, and thermodynamic properties of NaCl
+    yyyy-mm-dd: 2018-05-01
+    author: M. L. Marcondes, R. M. Wentzcovitch, L. V. C. Assali
+    journal: Solid State Communications
+    pdf_url:
+    doi: https://dx.doi.org/10.1016/j.ssc.2018.01.008
+    online_url: https://www.sciencedirect.com/science/article/pii/S0038109818300140?via%3Dihub
+
+- year: 2017
+  publications_this_year:
+
+  - title: Bullen's Parameter as a Seismic Observable for Spin Crossovers in the Lower Mantle
+    yyyy-mm-dd: 2017-09-05
+    author: J. Valencia-Cardona, Q. Williams, G. Shukla, and R. Wentzcovitch
+    journal: Geophysical Research Letters
+    pdf_url:
+    doi: https://doi.org/10.1002/2017GL074666
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL074666
+
+  - title: Thermal conductivity from phonon quasiparticles with subminimal mean free path in the \\( MgSiO_3 \\) perovskite
+    yyyy-mm-dd: 2017-09-11
+    author: Dong-Bo Zhang, Philip B. Allen, Tao Sun, and Renata M. Wentzcovitch
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.96.100302
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.100302
+  
+  - title: Phase transitions in \\( MgSiO_3 \\) post-perovskite in terrestrial exoplanetary mantles
+    yyyy-mm-dd: 
+    author: K. Umemoto, R. M Wentzcovitch, S. Q. Wu, M. Ji, C. Z. Wang, K.-M. Ho
+    journal: Earth and Planetary Science Letters
+    pdf_url:
+    doi: https://doi.org/10.1016/j.epsl.2017.08.032
+    online_url: https://www.sciencedirect.com/science/article/pii/S0012821X1730479X
