@@ -157,7 +157,7 @@
     doi: https://doi.org/10.1002/2017GL074666
     online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL074666
 
-  - title: Thermal conductivity from phonon quasiparticles with subminimal mean free path in the $ MgSiO_3 $ perovskite
+  - title: Thermal conductivity from phonon quasiparticles with subminimal mean free path in the \\( MgSiO_3 \\) perovskite
     yyyy-mm-dd: 2017-09-11
     author: Dong-Bo Zhang, Philip B. Allen, Tao Sun, and Renata M. Wentzcovitch
     journal: PHYSICAL REVIEW B
@@ -165,10 +165,453 @@
     doi: https://doi.org/10.1103/PhysRevB.96.100302
     online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.100302
   
-  - title: Phase transitions in \( MgSiO_3 \) post-perovskite in terrestrial exoplanetary mantles
+  - title: Phase transitions in \\( MgSiO_3 \\) post-perovskite in terrestrial exoplanetary mantles
     yyyy-mm-dd: 2017-11-15
     author: K. Umemoto, R. M Wentzcovitch, S. Q. Wu, M. Ji, C. Z. Wang, K.-M. Ho
     journal: Earth and Planetary Science Letters
     pdf_url:
     doi: https://doi.org/10.1016/j.epsl.2017.08.032
     online_url: https://www.sciencedirect.com/science/article/pii/S0012821X1730479X
+
+  - title: Lattice Thermal Conductivity of \\( MgSiO_3 \\) Perovskite from First Principles
+    yyyy-mm-dd: 2017-07-14
+    author: N. Ghaderi, D.-B. Zhang, H. Zhang, J. Xian, T. Sun, and R. M. Wentzcovitch
+    journal: Scientific Reports
+    pdf_url:
+    doi: https://doi.org/10.1038/s41598-017-05523-6
+    online_url: https://www.nature.com/articles/s41598-017-05523-6
+
+  - title: Evolutionary optimization of PAW data-sets for accurate high pressure simulations
+    yyyy-mm-dd: 2017-10-15
+    author: K. Sarkar, M. Topsakal, N. Holzwarth, and R. M. Wentzcovitch
+    journal: Journal of Computational Physics
+    pdf_url:
+    doi: https://doi.org/10.1016/j.jcp.2017.06.032
+    online_url: https://www.sciencedirect.com/science/article/pii/S0021999117304771
+
+  - title: Influence of the iron spin crossover in ferropericlase on the lower mantle geotherm
+    yyyy-mm-dd: 2017-05-05
+    author: J. Valencia-Cardona, G. Shukla, Z. Wu, D. Yuen, C. Hernlund, and R. Wentzcovitch
+    journal: Geophysical Research Letters
+    pdf_url:
+    doi:  https://doi.org/10.1002/2017GL073294
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL073294
+
+  - title: First principles study of volume isotope effects in ices VIII and X
+    yyyy-mm-dd: 2017-03-31
+    author: K. Umemoto and R. Wentzcovich
+    journal: Japanese Journal of Applied Physics
+    pdf_url:
+    doi: https://doi.org/10.7567/JJAP.56.05FA03
+    online_url: https://iopscience.iop.org/article/10.7567/JJAP.56.05FA03
+
+  - title: Premelting hcp to bcc Transition in Beryllium
+    yyyy-mm-dd: 2017-04-07
+    author: Y. Lu, T. Sun, Ping Zhang, P. Zhang, D.-B. Zhang, and R. M. Wentzcovitch
+    journal: PHYSICAL REVIEW LETTERS
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevLett.118.145702
+    online_url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.145702
+
+  - title: Persistence of strong silica-enriched domains in the Earth’s lower mantle
+    yyyy-mm-dd: 2017-02-27
+    author: M. Ballmer, C. Houser, J. Hernlund, R. M. Wentzcovitch, and K. Hirose
+    journal: Nature Geoscience
+    pdf_url:
+    doi: https://doi.org/10.1038/ngeo2898
+    online_url: https://www.nature.com/articles/ngeo2898
+  
+  - title: Composition versus temperature induced velocity heterogeneities in a pyrolytic lower mantle
+    yyyy-mm-dd: 2017-01-01
+    author: Z. Wu and R. Wentzcovitch
+    journal: Earth and Planetary Science Letters
+    pdf_url:
+    doi: https://doi.org/10.1016/j.epsl.2016.10.009
+    online_url: https://www.sciencedirect.com/science/article/pii/S0012821X16305581
+
+- year: 2016
+  publications_this_year:
+
+  - title: "Spin crossover in ($Mg,Fe^{3+}$)($Si,Fe^{3+}$)$O_3$ bridgmanite: Effects of disorder, iron concentration, and temperature"
+    yyyy-mm-dd: 2019-09-17
+    author: G. Shukla and R. M. Wentzcovitch
+    journal: Physics of the Earth and Planetary Interiors
+    pdf_url:
+    doi: https://doi.org/10.1016/j.pepi.2016.09.003
+    online_url: https://www.sciencedirect.com/science/article/pii/S0031920116300565
+
+  - title: A new line defect in strained $NdTiO_3$ perovskite
+    yyyy-mm-dd: 2016-10-13
+    author: J. S. Jeong, M. Topsakal, P. Xu, B. Jalan, R. M. Wentzcovitch, and A. Mkhoyan
+    journal: Nano Letters 
+    pdf_url:
+    doi:  https://doi.org/10.1021/acs.nanolett.6b02532
+    online_url: https://pubs.acs.org/doi/pdfplus/10.1021/acs.nanolett.6b02532
+
+  - title: First-principles study of crystal and electronic structure of rare-earth cobaltites
+    yyyy-mm-dd: 2016-06-27
+    author: M. Topsakal, C. Leighton, and R. Wentzcovitch
+    journal: Journal of Applied Physics
+    pdf_url:
+    doi: https://doi.org/10.1063/1.4954792
+    online_url: https://aip.scitation.org/doi/full/10.1063/1.4954792
+
+  - title: Post-stishovite transition in hydrous aluminous $SiO_2$
+    yyyy-mm-dd: 2016-03-29
+    author: K. Umemoto, T. Kawamura, K. Hirose, and R. M. Wentzcovitch
+    journal: Physics of the Earth and Planetary Interiors
+    pdf_url:
+    doi: https://doi.org/10.1016/j.pepi.2016.03.008
+    online_url: https://www.sciencedirect.com/science/article/pii/S0031920116300085
+
+  - title: "Thermoelasticity of $Fe^{3+}$‐ and Al‐bearing bridgmanite: Effects of iron spin crossover"
+    yyyy-mm-dd: 2016-05-16
+    author: G. Shukla, M. Cococcioni, and R. Wentzcovitch
+    journal: Geophysical Research Letter
+    pdf_url:
+    doi:  https://doi.org/10.1002/2016GL069332
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL069332
+
+
+- year: 2015
+  publications_this_year:
+
+  - title: Accurate thermoelastic tensor and acoustic velocities of $NaCl$
+    yyyy-mm-dd: 18 December 2015
+    author: M. M. Lacerda, G. Shukla, and R. M. Wentzcovitch
+    journal: AIP Advances
+    pdf_url:
+    doi: https://doi.org/10.1063/1.4938550
+    online_url: https://aip.scitation.org/doi/full/10.1063/1.4938550
+
+  - title: Nature of the volume isotope effect in $H_2O$-ice
+    yyyy-mm-dd: 22 October 2015
+    author: K. Umemoto, E., Sugimura, K. Hirose, S. de Gironcoli, and R. M. Wentzcovitch
+    journal: PHYSICAL REVIEW LETTERS
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevLett.115.173005
+    online_url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.173005
+
+  - title: "Spin crossovers in iron-bearing $MgSiO_3$ and $MgGeO_3$: their influence on the post-perovskite transitions"
+    yyyy-mm-dd: 9 October 2015
+    author: G. Shukla, M. Topsakal, and R. Wentzcovitch
+    journal: Physics of the Earth and Planetary Interiors
+    pdf_url:
+    doi: https://doi.org/10.1016/j.pepi.2015.10.002
+    online_url: https://www.sciencedirect.com/science/article/pii/S0031920115001442
+
+  - title: Atomic and electronic structure of exfoliated black phosphorus
+    yyyy-mm-dd: 16 July 2015
+    author: R. Wu, M. Topsakal, M. Robbins, N. Haratipour, J. Jeong, R. Wentzcovitch, S. Koester, and K. A. Mkhoyan
+    journal: Journal of Vacuum Science & Technology A
+    pdf_url:
+    doi: https://doi.org/10.1116/1.4926753
+    online_url: https://avs.scitation.org/doi/full/10.1116/1.4926753
+
+  - title: "Searching for high magnetization density in bulk Fe: the new metastable $Fe_6$ phase"
+    yyyy-mm-dd: 26 November 2014
+    author: K. Umemoto, B. Himmetoglu, J. P. Wang, R. Wentzcovitch, and M. Cococcioni
+    journal: "Journal of Physics: Condensed Matter"
+    pdf_url:
+    doi: https://doi.org/10.1088/0953-8984/27/1/016001
+    online_url: https://iopscience.iop.org/article/10.1088/0953-8984/27/1/016001/pdf
+
+  - title: Mineralogy of the deep mantle – the post-perovskite phase and its geophysical significance
+    yyyy-mm-dd: 20 April 2015
+    author: K. Hirose, T. Lay, R. M. Wentzcovitch, and D. A. Yuen
+    journal: Treatise on Geophysics (Second Edition)
+    pdf_url:
+    doi: https://doi.org/10.1016/B978-0-444-53802-4.00054-3
+    online_url: https://www.sciencedirect.com/science/article/pii/B9780444538024000543
+
+  - title: "Hybrid ab-initio/experimental high temperature equations of state: Application to the $NaCl$ pressure scale"
+    yyyy-mm-dd: 01 June 2015
+    author: M. M. Lacerda and R. M. Wentzcovitch
+    journal: Journal of Applied Physics
+    pdf_url:
+    doi: http://dx.doi.org/10.1063/1.4921904
+    online_url: https://aip.scitation.org/doi/full/10.1063/1.4921904
+
+  - title: Thermoelasticity of $Fe^{2+}$‐bearing bridgmanite
+    yyyy-mm-dd: 25 February 2015
+    author: G. Shukla, Z. Wu, H. Hsu, A. Floris, M. Cococcioni, and R. Wentzcovitch
+    journal: Geophyscial Research Letter
+    pdf_url:
+    doi: http://dx.doi.org/10.1002/2014GL062888
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2014GL062888
+
+
+
+- year: 2014
+  publications_this_year:
+
+  - title: First-principles study of intermediate-spin ferrous iron in the Earth's lower mantle
+    yyyy-mm-dd:  18 November 2014
+    author: H. Hsu and R. Wentzcovitch
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.90.195205
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.195205
+
+  - title: Accurate projected augmented wave (PAW) datasets for rare-earth elements (RE = La–Lu)
+    yyyy-mm-dd: 15 August 2014
+    author: M. Topsakal and R. Wentzcovitch
+    journal: Computational Materials Science
+    pdf_url:
+    doi: https://doi.org/10.1016/j.commatsci.2014.07.030
+    online_url: https://www.sciencedirect.com/science/article/pii/S0927025614005059
+
+  - title: Spin crossover in ferropericlase and velocity heterogeneities in the lower mantle
+    yyyy-mm-dd: July 22 2014
+    author: Z. Wu and R. Wentzcovitch
+    journal: PNAS
+    pdf_url: https://www.pnas.org/content/111/29/10468.full.pdf
+    doi: 10.1073/pnas.1322427111
+    online_url: https://www.pnas.org/content/111/29/10468.full.pdf
+
+  - title: High temperature stabilization of cubic CaSiO3-perovskite at lower mantle pressures
+    yyyy-mm-dd: 26 March 2014
+    author: T. Sun, D.-B. Zhang, and R. M. Wentzcovitch
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.89.094109
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.89.094109
+
+  - title: First-principles elasticity of monocarboaluminate hydrates 
+    yyyy-mm-dd: JULY 01, 2014
+    author: J. Moon, R. M. Wentzcovitch, and P. Monteiro
+    journal: American Mineralogist
+    pdf_url:
+    doi: https://doi.org/10.2138/am.2014.4597
+    online_url: https://pubs.geoscienceworld.org/msa/ammin/article-abstract/99/7/1360/46575/first-principles-elasticity-of-monocarboaluminate?redirectedFrom=fulltext
+
+  - title: Phonon Quasiparticles and Anharmonic Free Energy in Complex Systems
+    yyyy-mm-dd: 5 February 2014
+    author: D.-B. Zhang, T. Sun, and R. M. Wentzcovitch
+    journal: PHYSICAL REVIEW LETTERS
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevLett.112.058501
+    online_url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.112.058501
+
+  - title: Adaptive genetic algorithm for crystal structure prediction
+    yyyy-mm-dd: 18 December 2013
+    author: S. Q. Wu, M. Ji, C. Z. Wang, M. C. Nguye, X. Zhao, K. Umemoto, R. M. Wentzcovitch, and K. M. Ho
+    journal: "Journal of Physics: Condensed Matter"
+    pdf_url:
+    doi: https://doi.org/10.1088/0953-8984/26/3/035402
+    online_url: https://iopscience.iop.org/article/10.1088/0953-8984/26/3/035402
+
+
+
+- year: 2013
+  publications_this_year:
+
+  - title: "Elastic Anomalies in a Spin-Crossover System: Ferropericlase at Lower Mantle Conditions"
+    yyyy-mm-dd: 30 May 2013
+    author: Z. Wu, J. F. Justo, and R. Wentzcovitch
+    journal: PHYSICAL REVIEW LETTERS
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevLett.110.228501
+    online_url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.228501
+
+  - title: Phase equilibria of $(Mg,Fe)_2SiO_4$ at the Earth’s upper mantle conditions from first-principles studies
+    yyyy-mm-dd: 8 February 2013
+    author: Y. Yu, V. Vinograd, B. Winkler, and R. M. Wentzcovitch
+    journal: Physics of the Earth and Planetary Interiors
+    pdf_url:
+    doi: https://doi.org/10.1016/j.pepi.2013.01.004
+    online_url: https://www.sciencedirect.com/science/article/pii/S0031920113000149
+
+  
+  - title: "Mantle dynamics with pressure- and temperature-dependent thermal expansivity and conductivity"
+    yyyy-mm-dd: 2013-03-06
+    author: N. Tosi, D. A. Yuen, N. de Koker, and R. M. Wentzcovitch
+    journal: Physics of the Earth and Planetary Interiors
+    pdf_url:
+    doi: https://doi.org/10.1016/j.pepi.2013.02.004
+    online_url: https://www.sciencedirect.com/science/article/pii/S0031920113000289
+  
+  - title: "Thermal elasticity of ($Fe_x$,$Mg_{1-x}$)$_2SiO_4$ olivine and wadsleyite"
+    yyyy-mm-dd: 31 January 2013
+    author: M. Núñez-Valdéz, Z. Wu, Y. Yu, and R. M. Wentzcovitch
+    journal: Geophysical Research Letters
+    pdf_url:
+    doi:  https://doi.org/10.1002/grl.50131
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/grl.50131
+
+- year: 2012
+  publications_this_year:
+
+  - title: Direct determination of electric current in Born–Oppenheimer molecular dynamics
+    yyyy-mm-dd: 25 October 2012
+    author: T. Sun and R. Wentzcovitch
+    journal: Chemical Physics Letters
+    pdf_url:
+    doi: https://doi.org/10.1016/j.cplett.2012.10.052
+    online_url: https://www.sciencedirect.com/science/article/pii/S0009261412012195?via%3Dihub
+
+  - title: First-principles studies of spin-state crossovers of iron in perovskite
+    yyyy-mm-dd: Sep 26, 2012
+    author: R. M. Wentzcovitch, H. Hsu, and K. Umemoto
+    journal: European Journal of Mineralogy
+    pdf_url:
+    doi: https://doi.org/10.1127/0935-1221/2012/0024-2249
+    online_url: http://www.schweizerbart.de/papers/ejm/detail/24/78457/First_principles_studies_of_spin_state_crossovers_?af=crossref
+  
+  - title: Spin crossover in iron in aluminous $MgSiO_3$ persovskite and post-perovskite
+    yyyy-mm-dd: 3 November 2012
+    author: H. Hsu, Y. Yu, and R. M. Wentzcovitch
+    journal: Earth and Planetary Science Letters
+    pdf_url:
+    doi: https://doi.org/10.1016/j.epsl.2012.09.029
+    online_url: https://www.sciencedirect.com/science/article/pii/S0012821X12005250
+  
+  - title: "Thermoelastic properties of wadsleyite and ringwoodite ($Fe_x$,$Mg_{1-x}$)$_2SiO_4$: their relationship to the 520 km seismic discontinuity"
+    yyyy-mm-dd: 15 October 2012
+    author: M. Núñez-Valdéz, Z. Wu, Y. Yu, J. Revenaugh, and R. M. Wentzcovitch
+    journal: Earth and Planetary Science Letters
+    pdf_url:
+    doi: http://doi.org/10.1016/j.epsl.2012.07.024
+    online_url: https://www.sciencedirect.com/science/article/pii/S0012821X12003913?via%3Dihub
+
+  - title: Elasticity of diamond at high pressures and temperatures
+    yyyy-mm-dd: 23 October 2012
+    author: M. Núñez-Valdéz, K. Umemoto, and R. M. Wentzcovitch
+    journal: Applied Physics Letters
+    pdf_url:
+    doi: https://doi.org/10.1063/1.4754548
+    online_url: https://aip.scitation.org/doi/10.1063/1.4754548
+  
+  - title: Elastic Properties of Tricalcium Aluminate from High-Pressure Experiments and First-Principles Calculations
+    yyyy-mm-dd: 04 June 2012
+    author: J. Moon, S. Yoon, R. M. Wentzcovitch, S. M. Clark, and P. J.M. Monteiro
+    journal: Journal of the American Ceramic Society
+    pdf_url:
+    doi:  https://doi.org/10.1111/j.1551-2916.2012.05301.x
+    online_url: https://ceramics.onlinelibrary.wiley.com/doi/abs/10.1111/j.1551-2916.2012.05301.x
+
+  - title: Ferromagnetic insulating state in tensile-strained $LaCoO_3$ thin films from LDA + U calculations
+    yyyy-mm-dd: 11 April 2012
+    author: H. Hsu, P. Blaha, and R. M. Wentzcovitch
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.85.140404
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.85.140404
+
+  - title: Spin states and hyperfine interactions of iron incorporated in MgSiO3 post-perovskite
+    yyyy-mm-dd: 15 May 2012
+    author: Y. Yu, H. Hsu, M. Cococcioni, and R. M. Wentzcovitch
+    journal: Earth and Planetary Science Letters
+    pdf_url:
+    doi: https://doi.org/10.1016/j.epsl.2012.03.002
+    online_url: https://www.sciencedirect.com/science/article/pii/S0012821X12001161?via%3Dihub
+
+
+
+- year: 2011
+  publications_this_year:
+
+  - title: New ice phases under ultrahigh pressure predicted using the adaptive genetic algorithm
+    yyyy-mm-dd: 13 December 2011
+    author: M. Ji, K. Umemoto, C.-Z Wang, K.-M. Ho, and R. M. Wentzcovitch
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.84.220105
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.84.220105
+
+  - title: First-principles study of electronic and structural properties of CuO
+    yyyy-mm-dd: 14 September 2011
+    author: B. Himmetoglu, R.M. Wentzcovitch, M. Cococcioni
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.84.115108
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.84.115108
+
+  - title: Influence of iron on the elastic properties of wadsleiyte and ringwoodite
+    yyyy-mm-dd: 28 December 2011
+    author: M. Núñez-Valdéz, P. da Silveira, R. M. Wentzcovitch
+    journal: "Journal of Geophysical Research: Solid Earth"
+    pdf_url:
+    doi: https://doi.org/10.1029/2011JB008378
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JB008378
+
+  - title: Two-stage dissociation of $MgSiO_3$ post-perovskite
+    yyyy-mm-dd: 15 November 2011
+    author: K. Umemoto and R. M. Wentzcovitch
+    journal: Earth and Planetary Science Letters
+    pdf_url:
+    doi: https://doi.org/10.1016/j.epsl.2011.09.032
+    online_url: https://www.sciencedirect.com/science/article/pii/S0012821X11005528
+
+  - title: The Impact of Variability in the Rheological Activation Parameters on Lower-Mantle Viscosity Stratification and its Dynamics
+    yyyy-mm-dd:  7 June 2011
+    author: C. Matyska, D.A. Yuen, H. Cizkova, and R. M. Wentzcovitch
+    journal: Physics of the Earth and Planetary Interiors
+    pdf_url:
+    doi: https://doi.org/10.1016/j.pepi.2011.05.012
+    online_url: https://www.sciencedirect.com/science/article/pii/S0031920111001117?via%3Dihub
+
+  - title: "The High Pressure Electronic Spin Transition in Iron: Potential Impacts upon Mantle Mixing"
+    yyyy-mm-dd:  09 August 2011
+    author: M. H. Shahnas, W. R. Peltier, Z. Wu, R. M. Wentzcovitch
+    journal: "Journal of Geophysical Research: Solid Earth"
+    pdf_url:
+    doi:  https://doi.org/10.1029/2010JB007965
+    online_url: http://doi.wiley.com/10.1029/2010JB007965
+  
+  - title: "A first-principles investigation of hydrous defects and IR frequencies in forsterite: The case for Si vacancies"
+    yyyy-mm-dd: October 01, 2011
+    author: K. Umemoto, R. M. Wentzcovitch, M. Hirschmann, D. Kohlstedt, and A. Withers
+    journal: American Mineralogist
+    pdf_url:
+    doi: https://doi.org/10.2138/am.2011.3720
+    online_url: https://pubs.geoscienceworld.org/msa/ammin/article-abstract/96/10/1475/45275/a-first-principles-investigation-of-hydrous?redirectedFrom=fulltext
+
+  - title: "Quasiharmonic thermal elasticity of crystals: an analytical approach"
+    yyyy-mm-dd: 25 May 2011
+    author: Z. Wu and R. M. Wentzcovitch
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.83.184115
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.83.184115
+
+
+  - title: "Identification of post-pyrite phase transition in SiO2 by genetic algorithm"
+    yyyy-mm-dd: 16 May 2011
+    author: S. Wu, K. Umemoto, M. Ji, C.-Z. Wang, K.-M. Ho, and R. M. 
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.83.184102
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.83.184102
+
+  - title: "Thermodynamic properties of $MgSiO_3$ majorite and phase transitions near 660-km depth in $MgSiO_3$ and $Mg_2SiO_4$: a first principles study"
+    yyyy-mm-dd: 25 February 2011
+    author: Y.Yu, R. M. Wentzcovitch, V. Vinograd, and R. J. Angel
+    journal: "Journal of Geophysical Research: Solid Earth"
+    pdf_url:
+    doi: https://doi.org/10.1029/2010JB007912
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010JB007912
+
+  - title: Spin-state crossover and hyperfine interactions of ferric iron in $MgSiO_3$ perovskite
+    yyyy-mm-dd: 14 March 2011
+    author: H. Hsu, P. Blaha, M. Cococcioni, and R. M. Wentzcovitch
+    journal: PHYSICAL REVIEW LETTERS
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevLett.106.118501
+    online_url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.118501
+
+  - title: "The Hubbard U correction for iron-bearing minerals: A discussion based on $(Mg,Fe)SiO_3$ perovskite"
+    yyyy-mm-dd: 2011-03-01
+    author: H. Hsu, R. M. Wentzcovitch, K. Umemoto, and M. Cococcioni
+    journal: Physics of the Earth and Planetary Interiors
+    pdf_url:
+    doi: https://doi.org/10.1016/j.pepi.2010.12.001
+    online_url: https://www.sciencedirect.com/science/article/pii/S0031920110002505?via%3Dihub
+
+  - title: Effect of the d electrons on phase transitions in transition-metal sesquioxides
+    yyyy-mm-dd: 2011-05-15
+    author: K. Umemoto and R. M. Wentzcovitch
+    journal: Physics and Chemistry of Minerals
+    pdf_url:
+    doi: https://doi.org/10.1007/s00269-010-0412-1
+    online_url: https://link.springer.com/article/10.1007%2Fs00269-010-0412-1
