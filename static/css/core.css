@@ -88,6 +88,10 @@ hr:last-of-type{
 .black{
   color:#000;
 }
+.black h1,.black h2,.black h3,.black h4,.black h5, .black h6{
+  color: #000;
+}
+
 .black a{
   text-decoration: none;
   color: #000;
@@ -1273,6 +1277,14 @@ margin:0px 0px;
   color: #FFF;
   margin: 2;
 }
+
+.card .header .black h1,
+.card .header .black h6,
+.card .header .black h6 span,
+ .card .header .black h3{
+  color: #000;
+}
+
 .card .header:after {
   content: '';
   display: block;
