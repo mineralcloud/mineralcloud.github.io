@@ -615,3 +615,146 @@
     pdf_url:
     doi: https://doi.org/10.1007/s00269-010-0412-1
     online_url: https://link.springer.com/article/10.1007%2Fs00269-010-0412-1
+
+- year: 2010
+  publications_this_year:
+
+  - title: Order-disorder phase transition in ice VII-VIII by first principles
+    yyyy-mm-dd: 29 October 2010
+    author: K. Umemoto, R. M. Wentzcovitch, S. de Gironcoli, and S. Baroni
+    journal: Chemical Physics Letters
+    pdf_url:
+    doi: https://doi.org/10.1016/j.cplett.2010.09.065
+    online_url: https://www.sciencedirect.com/science/article/abs/pii/S0009261410013126?via%3Dihub
+  
+  - title: "Cobalt spin states and hyperfine interactions in $LaCoO_3$ investigated by LDA+U calculations"
+    yyyy-mm-dd: 9 September 2010
+    author: H. Hsu, P. Blaha, R. M. Wentzcovitch, and C. Leighton
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.82.100406
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.82.100406
+  
+  - title: "Fundamentals of elasticity of $(Mg_{(1-x)}Fe_x)_2SiO_4$-olivine"
+    yyyy-mm-dd: 24 July 2010
+    author: M. Núñez-Valdéz, K. Umemoto, and R. M. Wentzcovitch
+    journal: Geophysical Research Letters
+    pdf_url:
+    doi: https://doi.org/10.1029/2010GL044205
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010GL044205
+
+  - title: Effect of site degeneracies on the spin crossovers in $(Mg,Fe)SiO_3$
+    yyyy-mm-dd: 2010-06-15
+    author: K. Umemoto, H. Hsu, and R. M. Wentzcovitch
+    journal: Physics of the Earth and Planetary Interiors
+    pdf_url:
+    doi: https://doi.org/10.1016/j.pepi.2009.10.014
+    online_url: https://www.sciencedirect.com/science/article/pii/S0031920109002246?via%3Dihub
+
+  - title: Multi-Mbar phase transitions in minerals
+    yyyy-mm-dd: 2010-01-01
+    author: K. Umemoto and R. M. Wentzcovitch
+    journal: Reviews in Mineralogy & Geochemistry
+    pdf_url:
+    doi: https://doi.org/10.2138/rmg.2010.71.14
+    online_url: https://pubs.geoscienceworld.org/msa/rimg/article-abstract/71/1/299/140856/multi-mbar-phase-transitions-in-minerals?redirectedFrom=fulltext
+
+  - title: "Spin-state crossover of iron in lower mantle minerals: results of DFT+U investigations"
+    yyyy-mm-dd: 2010-01-01
+    author: H. Hsu, K. Umemoto, and R. M. Wentzcovitch
+    journal: Reviews in Mineralogy & Geochemistry
+    pdf_url:
+    doi: https://doi.org/10.2138/rmg.2010.71.09
+    online_url: https://pubs.geoscienceworld.org/msa/rimg/article-abstract/71/1/169/140851/spin-state-crossover-of-iron-in-lower-mantle?redirectedFrom=fulltext
+
+  - title: First priniciples quasiharmonic thermoelasticity of mantle minerals
+    yyyy-mm-dd: 2010-01-01
+    author: R. M. Wentzcovitch, Z. Wu, and P Carrier
+    journal: Reviews in Mineralogy & Geochemistry
+    pdf_url:
+    doi: https://doi.org/10.2138/rmg.2010.71.5
+    online_url: https://pubs.geoscienceworld.org/msa/rimg/article-abstract/71/1/99/140847/first-principles-quasiharmonic-thermoelasticity-of?redirectedFrom=fulltext
+
+  - title: Thermodynamic properties and phase relations in mantle minerals investigated by first priniciples quasiharmonic theory
+    yyyy-mm-dd: 2010-01-01
+    author: R. M. Wentzcovitch, Y. Yu, and Z. Wu
+    journal: Reviews in Mineralogy & Geochemistry
+    pdf_url:
+    doi: https://doi.org/10.2138/rmg.2010.71.4
+    online_url: https://pubs.geoscienceworld.org/msa/rimg/article-abstract/71/1/59/140845/thermodynamic-properties-and-phase-relations-in?redirectedFrom=fulltext
+
+  - title: "Body-Centered Tetragonal C-4: A Viable sp(3) Carbon Allotrope"
+    yyyy-mm-dd: 26 March 2010
+    author: K. Umemoto, R. M. Wentzcovitch, S. Saito, and T. Miyaki
+    journal: PHYSICAL REVIEW LETTERS
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevLett.104.125504
+    online_url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.104.125504
+
+  - title: Spin states and hyperfine interactions of iron in $(Mg,Fe)SiO_3$ perovskite under pressure
+    yyyy-mm-dd: 15 May 2010
+    author: H. Hsu, K. Umemoto, R. M. Wentzcovitch, and P. Blaha
+    journal: Earth and Planetary Science Letters
+    pdf_url:
+    doi: https://doi.org/10.1016/j.epsl.2010.02.031
+    online_url:  https://www.sciencedirect.com/science/article/pii/S0012821X10001330?via%3Dihub
+
+  - title: First principles study of thermodynamics and phase transition in low-pressure (P2(1)/c) and high-pressure (C2/c) clinoenstatite $MgSiO_3$
+    yyyy-mm-dd: 04 February 2010
+    author: Y. Yu, R. M. Wentzcovitch, and R. Angel
+    journal: Chemistry and Physics of Minerals and Rocks/Volcanology 
+    pdf_url:
+    doi: https://doi.org/10.1029/2009JB006329
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2009JB006329
+
+
+- year: 2009
+  publications_this_year:
+
+  - title: "Quantum ESPRESSO: a modular and open-source software project for quantum simulations of materials"
+    yyyy-mm-dd: 1 September 2009
+    author: P. Giannozzi, S. Baroni, N. Bonini, M. Calandra, et al.
+    journal: "Journal of Physics: Condensed Matter"
+    pdf_url:
+    doi: https://doi.org/10.1088/0953-8984/21/39/395502
+    online_url: https://iopscience.iop.org/article/10.1088/0953-8984/21/39/395502
+
+  - title: "Low-pressure clino- to high-pressure clinoenstatite phase transition: A phonon-related mechanism"
+    yyyy-mm-dd: 2009-04-01
+    author: Y. Yu and R.M. Wentzcovitch
+    journal: American Mineralogist
+    pdf_url:
+    doi: http://doi.org/10.2138/am.2009.3071
+    online_url: https://pubs.geoscienceworld.org/msa/ammin/article-abstract/94/4/461/44899/low-pressure-clino-to-high-pressure-clinoenstatite?redirectedFrom=fulltext
+
+  - title: "Anomalous thermodynamic properties in ferropericlase throughout its spin crossover transition"
+    yyyy-mm-dd: 8 July 2009
+    author: Z. Wu, J. F. Justo, C. R. S. da Silva, S. de Gironcoli, and R. M. Wentzcovitch
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.80.014409
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.80.014409
+
+  - title: First principles study of low-spin $LaCoO_3$ with structurally consistent Hubbard $U$
+    yyyy-mm-dd: 31 March 2009
+    author: H. Hsu, K. Umemoto, M. Cococcioni, and  R. M. Wentzcovitch
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.79.125124
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.79.125124
+
+  - title: An effective semi-empirical ansatz for computing anharmonic free energies
+    yyyy-mm-dd: 25 March 2009
+    author: Z. Wu. and R. M. Wentzcovitch
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.79.104304
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.79.104304
+
+  - title: Anomalous compressibility of ferropericlase throughout the iron spin crossover
+    yyyy-mm-dd: March 17 2009
+    author: R. M. Wentzcovitch, J. F. Justo, Z. Wu, C. R. S. da Silva, D. Yuen, and D. Kohlstedt
+    journal: PNAS
+    pdf_url:
+    doi:  https://doi.org/10.1073/pnas.0812150106
+    online_url: https://www.pnas.org/content/106/21/8447
