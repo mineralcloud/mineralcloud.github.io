@@ -231,7 +231,7 @@ nav li {
 
 }
 .dropdown-wide{
-   width:190px;
+   width:200px;
 }
 .dropdown-content {
   /* display: none; */
@@ -1203,7 +1203,7 @@ margin:0px 0px;
 }
 
 .people-socialmedia a svg g{
-  fill: #000;
+  fill: #404040;
   -webkit-transition: all 300ms;
   -moz-transition: all 300ms;
   -ms-transition: all 300ms;
@@ -1229,14 +1229,18 @@ margin:0px 0px;
 .display-cup a{
   text-decoration: none;
 }
+.display-cup h2{
+  /* margin-top: 10px; */
+}
 
 
 
 .flex {
-  min-height: 600px;
+  min-height: 500px;
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 20px;
 }
 
 
@@ -1253,7 +1257,7 @@ margin:0px 0px;
 .card .header {
   height: 200px;
   width: 100%;
-  background-color: #282c34;
+  background-color: #404040;
   position: relative;
   background-size: cover;
   background-position: center top;
