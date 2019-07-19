@@ -7,7 +7,7 @@
   description: 
   socialmedia:
     github:
-    linkedin:
+    linkedin: https://github.com/zhenzhang305
 
 - name: Qi Zhang
   position: Ph.D
@@ -40,6 +40,11 @@
   department: Department of Applied Physics & Applied Mathematics
   email: cl3658@columbia.edu
   description: 
+  socialmedia:
+    github: https://github.com/chazeon
+    linkedin: 
+    resume: https://chazeon.com/
+
 
 - name: Hongjin Wang
   position: Master

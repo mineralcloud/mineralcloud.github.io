@@ -7,33 +7,32 @@ header-img: static/img/header1.jpg
 ---
 
 <div class="container">
-    <div class="
-                        col-lg-8 col-lg-offset-2
-                        col-md-10 col-md-offset-1
-                        post-container">
+    <div class="post-container display-cup">
 {% for post in site.categories.research %}
-<div class="post-preview">
-    <center>
-        <a href="{{ post.url  }}">
-            <h2 class="post-title">
-                {{ post.title }}
-            </h2>
-            {% if post.subtitle %}
-            <h3 class="post-subtitle">
-                {{ post.subtitle }}
-            </h3>
-            {% endif %}
-        </a>
-        <div class="preview-cover">
-        {% if post.cover %}<img src="{{ site.baseurl }}/{{ post.cover }}"> {% endif %}
+<div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
+    <a target="_blank" href="{% if post.link %}{{ post.link  }}{% else %}{{ post.url  }}{% endif %}">
+
+        <div class="flex">
+            <div class="card">
+                <div class="header" style="background-image:url('{{ post.header-img}}')">
+                    <div class="title">
+                        <div>
+                            <h3 class="post-categories">{{ post.categories|last }}</h3>
+                            <h1>{{ post.title }}</h1>
+                            <h6><span>on </span> {{ post.date | date: "%B %-d, %Y" }} </h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="content">
+                    {{ post.content }}
+                </div>
+            </div>
         </div>
-    </center>
-        <div class="post-content-preview">
-            {{ post.content }}
-        </div>
+    </a>
 </div>
-<hr>
 {% endfor %}
+
+
 
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
