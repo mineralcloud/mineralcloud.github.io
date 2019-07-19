@@ -36,6 +36,8 @@
 </center>
     {% assign counter = 0 %}
     {% for item in site.data.publications %}
+        {% if item.year.size <= 8  %}
+
         {% for publication in item.publications_this_year %}
         
             {% assign counter=counter | plus:1 %}
@@ -56,7 +58,7 @@
                             </div>
                             <div class="content">
                                 <div class="publication-title">
-                                <span>{{ publication.title }}</span>
+                                <span>{{ publication.title |markdownify}}</span>
                                 </div>
                                 <div class="card-bottom publication-author">
                                 {{publication.author}}
@@ -67,10 +69,11 @@
                 </a>
             </div>
                 
-                   
-            {% endif %}
+                {% endif %}
+           
 
         {% endfor %}
+        {% endif %}
     {% endfor %}
 
     
