@@ -1,7 +1,8 @@
 window.onscroll = function () { scrollFunction() };
 
+if (document.getElementById("sidebar")){
 var sidebar = document.getElementById("sidebar");
-
+};
 
 function scrollFunction() {
     if (document.body.scrollTop > 150 || document.documentElement.scrollTop > 150) {
@@ -61,7 +62,7 @@ $(document).ready(function () {
     setTimeout(function () {
         $(".loader-wraper").fadeOut(500);
     }, 1000);
-    navActive();
+    // navActive();
 
     scrollFunction()
 });

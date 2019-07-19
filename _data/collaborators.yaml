@@ -6,8 +6,46 @@
   university: Columbia University
   # email: Quisque@ipsum.edu
   description: 
+  socialmedia:
+    googlescholar: https://scholar.google.com/citations?hl=zh-CN&user=Z63m_ZIAAAAJ&view_op=list_works&sortby=pubdate
+
+- name: Pedro Da Silveira
+  position: 
+  portrait: img/collaborators/pedro.jpg
+  since: 2017
+  department: Department of Applied Physics and Applied Mathematics
+  university: Columbia University and Apple, Austin, TX
+  # email: Quisque@ipsum.edu
+  description: 
+  socialmedia:
+    linkedin: https://www.linkedin.com/in/pedro-da-silveira-326ba744
     
-    
+- name: John Paisley
+  position: 
+  portrait: img/collaborators/Paisley.jpg
+  since: 2017
+  department: Department of Electrical Engineering and Data Sciences Institute
+  university: Columbia University
+  # email: Quisque@ipsum.edu
+  description: I am an associate professor in the Department of Electrical Engineering at Columbia University. I am also an affiliated member of the Data Sciences Institute at Columbia. My research is in the general area of statistical machine learning. My interests include probabilistic modeling and inference techniques, Bayesian nonparametric methods, dictionary learning and topic modeling.
+  socialmedia:
+    googlescholar: https://scholar.google.com/citations?hl=en&user=r31_fYQAAAAJ
+    resume: http://www.columbia.edu/~jwp2128/Papers/JohnPaisleyCV.pdf
+    site: http://www.columbia.edu/~jwp2128/
+
+
+- name: Kwangmin Yu
+  position: 
+  portrait: img/collaborators/Kwangmin.png
+  since: 2017
+  department: Department of Computer Science,
+  university: Brookhaven National Laboratory
+  # email: Quisque@ipsum.edu
+  description: "Computational Sciences Research Activities: Algorithm and code development for Particle-in-Cell method, Numerical simulation for particle accelerator equipment, Algorithm for multicore high performance computing resource, GPU accelerating for scientific codes"
+  socialmedia:
+    googlescholar: https://scholar.google.com/citations?user=Xj3YqcoAAAAJ&hl=en
+    site: https://www.bnl.gov/compsci/people/staff.php?q=135
+
 - name: Geoffrey Abers
   position: 
   portrait: img/collaborators/Geoffrey.png
@@ -15,4 +53,33 @@
   department: Department of Earth and Atmospheric Sciences
   university: Cornell University
   # email: Quisque@ipsum.edu
-  description: 
+  description: Geoff Abers is a geophysicist who uses the tools of earthquake seismology to understand the forces, material cycles, and deep structure of the Earth. He uses modern seismic instrument arrays onshore and offshore to image high-resolution structure in the crust and mantle, and uses those images to understand the material and fluid cycles of the planet. 
+  socialmedia:
+    googlescholar: https://scholar.google.com/citations?user=e_qGWLIAAAAJ&hl=en
+    site: https://www.eas.cornell.edu/faculty-directory/geoffrey-abers
+
+- name: Kai-Ming Ho
+  position: 
+  portrait: img/collaborators/Kai-Ming.png
+  since: 2017
+  department: Department of Physics & Astronomy 
+  university: Iowa State University and Division of Material Science and Engineering, Ames Laboratory
+  # email: kmh@ameslab.gov
+  description: "Areas of Expertise: Total energy calculations and molecular dynamical simulations of condensed matter systems, especially clusters and surfaces, Multiscale simulation, Photonic crystals, Genetic algorithm for geometry optimization, Protein structure and dynamics"
+  socialmedia:
+    googlescholar: https://scholar.google.com/citations?user=cGlRoOAAAAAJ&hl=en
+    site: https://www.ameslab.gov/dmse/kmh
+    resume: https://www.physastro.iastate.edu/directory/kmh
+
+- name: Cai-Zhuang Wang
+  position: 
+  portrait: img/collaborators/czwang.png
+  since: 2017
+  department: Department of Physics & Astronomy 
+  university: Iowa State University and Division of Material Science and Engineering, Ames Laboratory
+  # email: wangcz@ameslab.gov
+  description: "Areas of Expertise: Condensed matter physics and computational materials science, Develop tight-binding potentials and tight-binding molecular dynamics method for materials simulations, Atomistic modeling and simulation study of structural, dynamical and electronic properties as well as phase transformation of condensed matter systems and molecules and etc."
+  socialmedia:
+    googlescholar: https://scholar.google.com/citations?user=9r-VpcgAAAAJ&hl=en
+    site: https://www.ameslab.gov/users/wangcz
+    resume: https://www.physastro.iastate.edu/directory/cwang

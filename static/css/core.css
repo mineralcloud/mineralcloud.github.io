@@ -1107,7 +1107,7 @@ margin:0px 0px;
 }
 .publication-year-list ul li{
   list-style: none;
-  padding-left:20px;
+  padding-left:5px;
   margin:  10 0 10 0px;
 }
 
@@ -1201,12 +1201,13 @@ margin:0px 0px;
 .people-socialmedia{
 
 }
+
 .people-socialmedia a svg g{
   fill: #000;
   -webkit-transition: all 300ms;
   -moz-transition: all 300ms;
+  -ms-transition: all 300ms;
   transition: all 300ms;
-
 }
 .people-socialmedia a:hover svg g{
   fill: #337ab7;
