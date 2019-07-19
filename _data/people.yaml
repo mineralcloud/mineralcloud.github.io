@@ -6,7 +6,7 @@
   email: zz2427@columbia.edu
   description: 
   socialmedia:
-    github:
+    github: https://github.com/zhenzhang305
     linkedin: https://github.com/zhenzhang305
 
 - name: Qi Zhang
@@ -15,45 +15,69 @@
   portrait: img/people/QiZhang.jpg
   department: Department of Applied Physics & Applied Mathematics
   email: qz2280@columbia.edu
-  description: 
+  description: Previously Master student in Materials Science & Engineering (2016-2018)
   socialmedia:
     github: https://github.com/singularitti
     linkedin: https://www.linkedin.com/in/qi-z-b9b1825a/
     resume: 
 
-- name: Jingyi Zhuang
-  position: Ph.D
-  since: 2019
-  # portrait: 
-  department: Department of Earth & Environmental Sciences
-  email: jz2907@columbia.edu
-  description: 
-  socialmedia:
-    github: https://github.com/jappoker
-    linkedin: 
-    resume: https://www.jappoker.com/
-
 - name: Chenxin Luo
   position: Ph.D
   since: 2019
-  # portrait: 
+  portrait: img/people/ChenxinLuo.jpg
   department: Department of Applied Physics & Applied Mathematics
   email: cl3658@columbia.edu
-  description: 
+  description: Previously Master student in Materials Science & Engineering (2017-2019)
   socialmedia:
     github: https://github.com/chazeon
-    linkedin: 
+    linkedin: https://www.linkedin.com/in/chenxing-luo/
     resume: https://chazeon.com/
+
+- name: Jingyi Zhuang
+  position: Ph.D
+  since: 2019
+  portrait: img/people/JingyiZhuang.jpg
+  department: Department of Earth & Environmental Sciences
+  email: jz2907@columbia.edu
+  description: Previously Master student in Materials Science & Engineering (2017-2019)
+  socialmedia:
+    github: https://github.com/jappoker
+    linkedin: https://www.linkedin.com/in/jingyi-zhuang/
+    resume: https://www.jappoker.com/
 
 
 - name: Hongjin Wang
   position: Master
   since: 2017
-  # portrait: 
-  department: Department of Applied Physics & Applied Mathematics
+  portrait: img/people/HongjinWang.jpg
+  department: Department of Computer Science
   email: hw2626@columbia.edu
-  description: 
+  description: Previously Master student in Materials Science & Engineering (2017-2019)
   socialmedia:
     github: https://github.com/underhill1886
     linkedin: https://www.linkedin.com/in/hongjin-wang/
     resume: https://underhill1886.github.io/
+
+- name: Yuanchen Gao
+  position: Master
+  since: 2019
+  portrait: img/people/YuanchenGao.jpg
+  department: Department of Applied Physics & Applied Mathematics
+  email: yg2607@columbia.edu
+  description: 
+  socialmedia:
+    github: 
+    linkedin: https://www.linkedin.com/in/yuanchengao/
+    resume: 
+
+- name: Chenhui Yang
+  position: Master
+  since: 2019
+  portrait: 
+  department: Department of Applied Physics & Applied Mathematics
+  email: cy2513@columbia.edu
+  description: 
+  socialmedia:
+    github: 
+    linkedin:
+    resume: 
