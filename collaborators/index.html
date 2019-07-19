@@ -8,7 +8,32 @@ header-img: static/img/header1.jpg
 
 
 <div class="container">
+<div class="people-case">
+    <h2>Institutes & Organizations</h2>
+    <hr>
+    <p>We gratefully acknowledge support from the following institutes and organizations.</p>
+    <hr>
+</div>
 
+
+<div class="row">
+    {% for org in site.data.organizations %}
+        <div class="col-lg-4 col-md-4  col-sm-4 col-xs-4">
+            <a target="_blank" href="{{org.url}}">
+                <center>
+                <img src="{{ site.baseurl }}/{{org.logo}}" height="80px">
+                <p>{{org.name}}</p>
+                </center>
+            </a>
+        </div>
+    {% endfor %}
+</div>
+<hr>
+
+<div class="people-case">
+    <h2>People</h2>
+</div>
+<hr>
 {% for people in site.data.collaborators %}
 <div class="people-case ">
     <div class="row">
