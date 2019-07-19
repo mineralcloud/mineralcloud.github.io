@@ -12,9 +12,9 @@ header-img: img/events/18-11-27-DanStanzione.jpg
 #### Tuesday, November 27, 2018 - 2:30pm to 4:00pm
 
 #### Host: Prof. Renata Wentzcovitch
-(APAM and Earth/Environmental Sciences Departments)
+APAM and Earth/Environmental Sciences Departments
 
 #### Speaker: Dan Stanzione 
-(Executive Director, Texas Advanced Computing Center, Associate Vice President for Research, The University of Texas at Austin)
+Executive Director, Texas Advanced Computing Center, Associate Vice President for Research, The University of Texas at Austin
 
 ![]({{ site.baseurl }}/img/events/18-11-27-DanStanzione.jpg){:height="100%" width="100%" }

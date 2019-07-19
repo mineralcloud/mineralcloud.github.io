@@ -23,13 +23,13 @@ header-img: static/img/header1.jpg
                 <hr>
                 {% for publication in item.publications_this_year %}
                 <ul class="publication-paper row">
-                    <div class="col-lg-8 col-md-8  col-sm-8 col-xs-8">
+                    <div class="col-lg-8 col-md-8  col-sm-12 col-xs-12">
                         <li>
                             <div class="publication-title"><span>{{publication.title|markdownify}}</span></div>
                         </li>
                         <li><span class="publication-author">{{publication.author}}</span></li>
                     </div>
-                    <div class="col-lg-4 col-md-4  col-sm-4 col-xs-4">
+                    <div class="col-lg-4 col-md-4  col-sm-12 col-xs-12">
                         <li>
                             <span class="publication-journal-year">{{publication.yyyy-mm-dd|date:"%B, %Y"}}</span>
                         </li>

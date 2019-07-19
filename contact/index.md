@@ -8,7 +8,7 @@ header-img: static/img/header-contact.png
 ---
 
 
-### Renata Wentzcovitch
+# Renata Wentzcovitch
 
 ### Professor in Departments of [Applied Physics & Applied Mathematics](https://apam.columbia.edu/){:target="_blank"} and [Earth & Environmental Sciences](https://eesc.columbia.edu/){:target="_blank"}
 
@@ -16,7 +16,7 @@ header-img: static/img/header-contact.png
 
 ### Email:
 
-rmw2150@columbia.edu
+[rmw2150@columbia.edu](mailto:rmw2150@columbia.edu)
 
 ### Phone:
 
@@ -25,6 +25,11 @@ rmw2150@columbia.edu
 845-365-8522 (Lamont)
 
 
+### Webmaster:
+
+Jingyi Zhuang
+
+Email: [jz2906@columbia.edu](maito:jz2906@columbia.edu)
 
 - - -
 
