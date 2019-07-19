@@ -17,8 +17,8 @@ header-img: static/img/header1.jpg
     <div class="row">
         <ul>
             <div class="col-lg-3 col-md-3  col-sm-8 col-xs-8">
-                <li class="people-name">{{site.data.rw.name}}</li>
-                <li class="people-jobtitle">{{site.data.rw.job_title}}</li>
+                <li class="people-name"><h3>{{site.data.rw.name}}</h3></li>
+                <li class="people-jobtitle"><h4>{{site.data.rw.job_title}}</h4></li>
                 <li class="people-jobtitle">{{site.data.rw.department}}</li>
                 <li class="people-email">{{site.data.rw.email}}</li>
             </div>
@@ -55,9 +55,9 @@ header-img: static/img/header1.jpg
         <ul>
             <div class="col-lg-3 col-md-3  col-sm-8 col-xs-8">
 
-                <li class="people-name">{{people.name}}, {{people.position}}</li>
+                <li class="people-name"><h3>{{people.name}}, {{people.position}}</h3></li>
+                <li class="people-time"><h4>Since {{people.since}}</h4></li>
                 <li class="people-department">{{people.department}}</li>
-                <li class="people-time">Since {{people.since}}</li>
                 <li class="people-email">{{people.email}}</li>
 
             </div>
@@ -72,6 +72,26 @@ header-img: static/img/header1.jpg
             </div>
             <div class="col-lg-5 col-md-5  col-sm-10 col-xs-10 sidebar-container">
                 {{people.description}}
+
+                {% if people.socialmedia %}
+                    {% if people.socialmedia.resume %}
+                    
+                    <a target="_blank" href={{people.socialmedia.resume}}><img src="{{ site.baseurl }}/static/img/cv-logo.png" height="50px" weight="50px"></a>
+                    
+                    {% endif %}
+
+                    {% if people.socialmedia.linkedin %}
+                    
+                        <a target="_blank" href={{people.socialmedia.github}}><img src="{{ site.baseurl }}/static/img/github-logo.png" height="50px"
+                                weight="50px"></a>
+                    
+                    {% endif %}
+                    {% if people.socialmedia.linkedin %}
+
+                            <a target="_blank"  href={{people.socialmedia.linkedin}}><img src="{{ site.baseurl }}/static/img/linkedin-logo.png" height="50px" weight="50px"></a>
+
+                    {% endif %}
+                {% endif %}
             </div>
         </ul>
 
