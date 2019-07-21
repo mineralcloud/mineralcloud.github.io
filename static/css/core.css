@@ -1057,13 +1057,13 @@ margin:0px 0px;
 .publication-title{
   /* background-color: #C4D8E2; */
   width:100%;
-  
 }
 .publication-title span{
   /* margin:5px 5px 5px 5px; */
   font-size: 20px;
 }
-.publication-title p{
+.publication-title h5{
+  font-weight: 700;
   padding:0;
   margin:0;
 }

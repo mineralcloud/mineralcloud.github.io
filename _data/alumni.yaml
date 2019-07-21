@@ -1,14 +1,136 @@
-- name: Nunc ut sem
-  position: Postdoc
-  department: Department nibh
-  now: Rersafc University
+- position: Post-doctoral fellows
+  list:
+    - name: Wenhui Duan
+      time: 1996-99
+      now: Currently Professor, Physics Department, Tsinghua University, Beijing. Just elected Fellow of Chinese Academy of Sciences (2016), China.
+      memo:
 
-- name: Sed consequat
-  position: Postdoc
-  department: Department nibh
-  now: Rutrum Diam Blandit Co.
+    - name: Cesar R. S. da Silva
+      time: CNPq Fellow, 1996-99, and Research Associate, 2005-2008
+      now: Associate Professor, Department of Computer Science, Federal University of Uberlândia, MG, Brazil. 
+      memo:
 
-- name: Phasellus sodales
-  position: Ph.D
-  department: Department imperdiet
-  now: odio nibh University
+    - name: Bijaya Karki 
+      time: 1997-2001
+      now: Chair and Professor, Department of Computer Science and Engineering, Louisiana State University, Baton Rouge, LS, USA.
+      memo:
+
+    - name: Koichiro Umemoto
+      time: 2003-06, research associate, 2006-13
+      now: staff scientist, Earth-Life Science Institute, TITech, Tokyo, Japan.
+      memo:
+
+    - name: João Francisco Justo
+      time: research associate, 2007-08
+      now: Associate Professor, Electrical Engineering, Escola Politécnica, U. of São Paulo, SP, Brazil. 
+      memo:
+
+    - name: Taku Tsuchiya
+      time: JSPS Fellow, 2003-2005
+      now: Professor of Mineral Physics, Center for Geodynamical Research, Ehime University, Japan.
+      memo:
+
+    - name: Jun Tsuchiya
+      time: JSPS Fellow, 2003-05
+      now: Associate Professor, Center for Geodynamical Research, Ehime University, Japan.
+      memo:
+
+    - name: Razvan Caracas
+      time: 2003-04
+      now: CR1 Researcher, CNRS, Laboratoire de Sciences de la Terre, École Normale Supérieure de Lyon, Lyon, France.
+      memo:
+
+    - name: Amel Laref
+      time: 2006-07
+      now: Research Associate, King Saud University, Department of Physics and Astronomy, Riyadh, Saudi Arabia.
+      memo:
+
+    - name: Pierre Carrier
+      time: 2006-08
+      now: Applications and benchmarking analyst, Cray Inc., Minnerapolis, MN, USA.
+      memo:
+
+    - name: Zhongqing Wu
+      time: 2005-08
+      now: Professor, Department of Earth and Space Sciences, U. of Science and Technology of China, Hefei, China.
+      memo:
+
+    - name: Dipta Bahnu Ghosh
+      time: 2008-09
+      now: Research Associate, Department of Computer Science, LSU.
+      memo:
+
+    - name: Han Hsu
+      time: 2007-11
+      now: Assistant Professor, Physics Department, National Central University, Jhongli City, Taoyuan, Taiwan.
+      memo:
+
+    - name: Yonggang Yu
+      time: 2010-11
+      now: Winner of 2009 Graduate Research Award, Mineral and Rock Physics Group, AGU; Humboldt Fellow in the Department of Geology, University of Frankfurt, Professor of Mineral Physics, Department of Earth Science, Nanjing University, Nanjing, CN (2013); Winner of 1,000 Youth Talents of China competition. Currently staff member at NOAA, Earth System Research Lab, Global Systems Division, Boulder, CO, USA.
+      memo:
+
+    - name: Maribel Núnez-Valdéz
+      time: 2011-13
+      now: W2-Professor, Helmholtz-Zentrum, Deutsches GeoForschungsZentrum (GFZ), Potsdam, Germany.
+      memo:
+
+    - name: Tao Sun
+      time: 2011-13
+      now: Professor of Mineral Physics, Key Laboratory of Computational Geodynamics, University of the Chinese Academy of Sciences, Beijing, China. Winner of 1,000 Youth Talents of China competition.
+      memo:
+
+    - name: Dong-Bo Zhang 
+      time: 2011-14
+      now:  Associate Professor of Computational Condensed Matter Physics,Computational Science Research Center, Chinese Academy of Engineering Physics, Beijing,China 
+
+    - name: Fawei Zheng 
+      time: post-doc, 2014-15
+      now:  Associate Professor, Computational Condensed MatterPhysics, Institute for Applied Mathematics and Computational Physics, Chinese Academy ofEngineering Physics, Beijing, China.
+
+    - name: Mehmet Topsakal 
+      time: 2013-16
+      now:  Research Associate, Center for Functional Nanomaterials,Brookhaven National Laboratory, Upton, NY, USA.
+
+    - name: Gaurav Shukla 
+      time: 2016
+      now:  post-doc in the Department of Earth, Ocean, and EnvironmentalSciences, Florida State University, Tallahassee, FL, USA.
+
+    - name: Pedro da Silveira 
+      time: 2014-16
+      now:  Senior software engineer, Digital River, Minnetonka, MN, USA
+
+    - name: Joelson Cott-Garcia 
+      time: 2016
+      now:  Business/Materials Development Researcher, Nissan ChemicalAmerica Corporation, Santa Clara, CA, USA.
+
+    - name: Kanchan Sarkar 
+      time: 09/2014-17
+      now:  Post-doc in Materials Science.
+
+- position: Graduate students
+  list:
+    - name: Kendall Thomson 
+      time: PhD, Chemical Engineering, 1995-99
+      now:  Associate Professor,Department of Chemical Engineering, Purdue University, West Lafayette, IN, USA.
+
+    - name: Alexander Dobin 
+      time: PhD, Physics, 1998-2001
+      now: Graduated under Randall Victora. Currentlyscientific staff member at Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA.
+
+    - name: Chris Perrey 
+      time: PhD, Materials Science, 1999-2001
+      now:  Graduated under Barry Carter, Currently,Principal Engineer at Tennant Company, Minneapolis-St. Paul, MN, USA.Yonggang Yu 
+
+    - name: Maribel Nnez-Valdz 
+      time: PhD, Physics 2009-11
+      now: W2-Professor, Helmholtz-Zentrum, DeutschesGeoForschungsZentrum 
+
+    - name: Pedro da Silveira 
+      time: PhD graduate student, Scientific Computing 2008-14
+      now: seniorsoftware engineer, Digital River, Minnetonka, MN.
+
+    - name: Gaurav Shukla 
+      time: PhD, Physics, 2011-15
+      now:  post-doc in the Department of Earth, Ocean, andEnvironmental Sciences, Florida State University, Tallahassee, FL, USA.
+

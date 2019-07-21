@@ -135,10 +135,13 @@ header-img: static/img/header1.jpg
 
 <div class="people-case ">
     <ul class="people-alumni">
-        {% for people in site.data.alumni %}
-
-            <li>{{people.name}}, former {{people.position}} ({{people.department}}), now at {{people.now}}</li>
-
+        {% for item in site.data.alumni %}
+            <h4>{{item.position}}</h4>
+            {% for people in item.list %}
+                {% if people.name %}
+                    <li><b>{{people.name}}</b>, <i>({{people.time}})</i>. Currently: {{people.now}}</li>
+                {% endif %}
+            {% endfor %}
         {% endfor %}
     </ul>
 </div>
