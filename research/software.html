@@ -19,7 +19,7 @@ header-img: static/img/header1.jpg
         
                 <div class="flex">
                     <div class="card">
-                        <div class="header" style="background-image:url('{{ post.header-img}}')">
+                        <div class="header" style="background-image:url('{{ site.baseurl }}/{{ post.header-img}}')">
                             <div class="title {% if post.type %}{{post.type}}{% endif %}">
                                 <div>
                                     <h3 class="post-categories">{{ post.categories|last }}</h3>

@@ -5,7 +5,7 @@ date:   2019-06-26 17:36:26
 categories: 
     - research
     - software
-header-img: /img/research/software/geothermpy.png
+header-img: img/research/software/geothermpy.png
 link: https://github.com/MineralsCloud/geothermpy
 type: black
 ---

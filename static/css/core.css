@@ -545,6 +545,7 @@ h6 {
   line-height: 1.7;
   line-height: 1.1;
   font-weight: bold;
+  -webkit-font-smoothing: antialiased;
 }
 h4 {
   font-size: 21px;
@@ -999,7 +1000,7 @@ samp {
 /* publication */
 .search-pub {
   margin-top: 40px;
-  font-weight: 800;
+  font-weight: bold;
   font-size:18;
 }
 .inp {
@@ -1038,6 +1039,7 @@ samp {
   transition: all 0.15s ease;
 }
 .inp input {
+  text-align: center;
   -webkit-appearance: none;
   width: 100%;
   border: 0;
@@ -1045,7 +1047,7 @@ samp {
   padding: 12px 0;
   height: 58px;
   font-size: 16px;
-  font-weight: 800;
+  font-weight: bold;
   border-bottom: 2px solid #c8ccd4;
   background: none;
   border-radius: 0;
@@ -1436,7 +1438,7 @@ min-height:600px;
   overflow-x: hidden;
   padding: 20px 30px 30px 30px;
   position: relative;
-  background-color: #FAFAFA;
+  background-color: #FFF;
   overflow-y: hidden;
   transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1) 0.3s;
   color: #111;
