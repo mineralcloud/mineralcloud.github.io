@@ -165,7 +165,9 @@ nav li {
 
 	#menu-icon {
 
-		display:inline-block;
+    display:inline-block;
+    margin-top:10px;
+ 
     
 	}
 
@@ -175,7 +177,7 @@ nav li {
 		position: absolute;
 		padding: 20px;
 		background: inherit;
-		border: 5px solid rgb(36, 36, 36);
+		box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 		right: 20px;
 		top: 60px;
 		width: 50%;
@@ -277,6 +279,11 @@ nav li {
 }
 .dropdown button:focus {
   outline:0;
+}
+@media screen and (max-width: 1000px) {
+  .dropdown-content {
+    margin-left:-60px;
+  }
 }
 
 .highlight,
@@ -1054,6 +1061,11 @@ samp {
   color: #2C6BAC;
   transition: all 0.15s ease;
 }
+@media screen and (max-width: 900px) {
+  .inp {
+    max-width: 180px;
+  }
+}
 .inp input:hover {
   background: rgba(34,50,84,0.03);
 }
@@ -1276,7 +1288,7 @@ min-height:600px;
 }
 
 .people-switch{
-
+  display:block;
 }
 .people-switch button{
   background:none;
@@ -1319,6 +1331,12 @@ min-height:600px;
 }
 .people-switch button:hover svg g{
   fill: #337ab7;
+}
+
+@media screen and (max-width: 995) {
+  #people-less button{
+    display: none;
+  }
 }
 .people-socialmedia{
 
