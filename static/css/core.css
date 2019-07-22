@@ -1198,9 +1198,56 @@ margin:0px 0px;
   list-style: circle;
   margin-left:25px;
 }
+
+.people-switch{
+
+}
+.people-switch button{
+  background:none;
+  border: none;
+  color: #404040;
+  -webkit-transition: all 300ms;
+  -moz-transition: all 300ms;
+  -ms-transition: all 300ms;
+  transition: all 300ms;
+}
+.people-switch button:hover{
+  color: #337ab7;
+}
+
+.people-switch button:active{
+  border:none;
+}
+.people-switch button:focus{
+  outline: none;
+  border:none;
+}
+
+.people-switch button svg g{
+  fill: #404040;
+  -webkit-transition: all 100ms;
+  -moz-transition: all 100ms;
+  -ms-transition: all 100ms;
+  transition: all 100ms;
+}
+
+.hidden{
+  display:none;
+}
+.show{
+  display:block;
+}
+
+.people-mini{
+  min-height:360px;
+}
+.people-switch button:hover svg g{
+  fill: #337ab7;
+}
 .people-socialmedia{
 
 }
+
 
 .people-socialmedia a svg g{
   fill: #404040;

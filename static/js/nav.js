@@ -67,3 +67,22 @@ $(document).ready(function () {
     scrollFunction()
 });
 
+function peoplemore() {
+    var pplmore = document.getElementById("people-more");
+    var pplless = document.getElementById("people-less");
+    pplmore.classList.remove("hidden");
+    pplmore.classList.add("show");
+    pplless.classList.remove("show");
+    pplless.classList.add("hidden");
+
+};
+
+function peopleless() {
+    var pplless = document.getElementById("people-more");
+    var pplmore = document.getElementById("people-less");
+    pplmore.classList.remove("hidden");
+    pplmore.classList.add("show");
+    pplless.classList.remove("show");
+    pplless.classList.add("hidden");
+
+};

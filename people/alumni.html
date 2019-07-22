@@ -1,0 +1,36 @@
+---
+layout: page
+title: "Alumni"
+permalink: /alumni/
+description: "with Wentzcovitch Group"
+header-img: static/img/header1.jpg
+---
+
+
+<div class="container">
+    <div class="
+                        col-lg-8 col-lg-offset-2
+                        col-md-10 col-md-offset-1
+                        post-container">
+
+    <div class="people-case">
+        <h2>Alumni</h2>
+    </div>
+
+    <hr>
+
+    <div class="people-case ">
+        <ul class="people-alumni">
+            {% for item in site.data.alumni %}
+            <h4>{{item.position}}</h4>
+                {% for people in item.list %}
+                    {% if people.name %}
+                    <li><b>{{people.name}}</b>{% if people.time %}, <i>({{people.time}})</i>{% endif%}.{% if people.now %} Currently: {{people.now}}{% endif%}</li>
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+        </ul>
+    </div>
+    </div>
+
+</div>
