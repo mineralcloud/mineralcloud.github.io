@@ -1006,7 +1006,7 @@ samp {
   position: relative;
   margin: auto;
   width: 100%;
-  max-width: 350px;
+  max-width: 360px;
 }
 .noselect {
     -webkit-touch-callout: none;
@@ -1044,12 +1044,12 @@ samp {
   font-family: inherit;
   padding: 12px 0;
   height: 58px;
-  font-size: 18px;
-  font-weight: 500;
+  font-size: 16px;
+  font-weight: 800;
   border-bottom: 2px solid #c8ccd4;
   background: none;
   border-radius: 0;
-  color: #223254;
+  color: #2C6BAC;
   transition: all 0.15s ease;
 }
 .inp input:hover {
