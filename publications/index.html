@@ -9,7 +9,17 @@ header-img: static/img/header1.jpg
 <div class="container">
 
 <div class="col-lg-10 col-md-10  col-sm-12 col-xs-12  post-container">
-    <div class="publication">
+    <div class="search-pub">
+        <center>
+            <label for="inp" class="inp">
+                <input id="search-pub" name="search-pub" onkeyup="publication_filter()" type="text" placeholder="&nbsp;">
+                <span class="label">Type keywords to search through papers, authors...</span>
+                <span class="border"></span>
+            </label>
+            
+        </center>
+    </div>
+    <div class="publication" id="publication">
         {% for item in site.data.publications %}
         <div class="publication-year">
                 <div id="{{item.year}}" class="publication-year-item">
@@ -18,11 +28,14 @@ header-img: static/img/header1.jpg
                         <span>{{item.year}}</span>
                         <span style="float: right">{{item.publications_this_year.size}} Articles</span>
                     </h2>
+                    
 
                 </div>
                 <hr>
+                
                 {% for publication in item.publications_this_year %}
                 <ul class="publication-paper row">
+                    <hr>
                     <div class="col-lg-8 col-md-8  col-sm-12 col-xs-12">
                         <li>
                             <div class="publication-title"><h5><span>{{publication.title|markdownify}}</span></h5></div>
@@ -45,9 +58,10 @@ header-img: static/img/header1.jpg
                             {% endif %}
                         </li>
                     </div>
-
+                    <hr>
                 </ul>
-                <hr>
+                
+                
                 {% endfor %}
         </div>
         {% endfor %}
