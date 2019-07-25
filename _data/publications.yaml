@@ -938,18 +938,117 @@
     doi: https://doi.org/10.1029/174GM08
     online_url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/174GM08
 
-  # - title: 
-  #   yyyy-mm-dd: 
-  #   author: 
-  #   journal: 
-  #   pdf_url:
-  #   doi: 
-  #   online_url: 
+- year: 2006
+  publications_this_year:
 
-  # - title: 
-  #   yyyy-mm-dd: 
-  #   author: 
-  #   journal: 
-  #   pdf_url:
-  #   doi: 
-  #   online_url: 
+  - title: "Virtual laboratory for planetary materials: System service architecture overview"
+    yyyy-mm-dd: 15 August 2007
+    author: C. R. S. da Silva, P. da Silveira, B. B. Karki, R. M. Wentzcovitch, P. A. Jensen, E. F. Bollig, M. Pierce, G. Erlebacher, and D. A. Yuen
+    journal: Physics of the Earth and Planetary Interiors
+    pdf_url:
+    doi: https://doi.org/10.1016/j.pepi.2007.04.018
+    online_url: https://www.sciencedirect.com/science/article/pii/S0031920107000970?via%3Dihub
+
+  - title: Potential ultrahigh pressure polymorphs of AB<i>X</i><sub>3</sub>-type compounds
+    yyyy-mm-dd:  11 December 2006
+    author: K. Umemoto and R. M. Wentzcovitch
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.74.224105
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.74.224105
+
+  - title: MgSiO<sub>3</sub> postperovskite at D″ conditions
+    yyyy-mm-dd: January 17, 2006
+    author: R.M. Wentzcovitch, T. Tsuchiya, J. Tsuchiya, 
+    journal: PNAS
+    pdf_url:
+    doi:  https://doi.org/10.1073/pnas.0506879103
+    online_url: https://www.pnas.org/content/103/3/543
+
+  - title: Dissociation of MgSiO<sub>3</sub> in the Cores of Gas Giants and Terrestrial Exoplanets
+    yyyy-mm-dd: 17 Feb 2006
+    author: K. Umemoto, R. M. Wentzcovitch, and P. B. Allen
+    journal: Science
+    pdf_url:
+    doi: https://doi.org/10.1126/science.1120865
+    online_url: https://science.sciencemag.org/content/311/5763/983
+
+  - title: Spin Transition in Magnesiowüstite in Earth’s Lower Mantle
+    yyyy-mm-dd: 18 May 2006
+    author: T. Tsuchiya, R.M. Wentzcovitch, C. R. S. da Silva, S. de Gironcoli
+    journal: PHYSICAL REVIEW LETTERS
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevLett.96.198501
+    online_url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.96.198501
+
+  - title: Theoretical determination of the structures of CaSiO<sub>3</sub> perovskites
+    yyyy-mm-dd: 2006-01-01
+    author: R. Caracas and R. M. Wentzcovitch
+    journal: Acta Crystallographica Section B (STRUCTURAL SCIENCE)
+    pdf_url:
+    doi: https://doi.org/10.1107/S0108768106035762
+    online_url: http://scripts.iucr.org/cgi-bin/paper?S0108768106035762
+
+  - title: Elasticity of CaSiO<sub>3</sub> perovskite at high pressure and high temperature
+    yyyy-mm-dd: 16 May 2006
+    author: L. Li, D. Weidner, J. Brodholt, D. Alfve’, G. D. Price, R. Caracas, and R. M. Wentzcovitch
+    journal: Physics of the Earth and Planetary Interiors
+    pdf_url:
+    doi: https://doi.org/10.1016/j.pepi.2005.12.006
+    online_url: https://www.sciencedirect.com/science/article/pii/S0031920106000045?via%3Dihub
+
+  - title: "Phase stability of CaSiO<sub>3</sub> perovskite at high pressure and temperature: Insights from ab initio molecular dynamics"
+    yyyy-mm-dd: 16 May 2006
+    author: L. Li, D. Weidner, J. Brodholt, D. Alfve’, G. D. Price, and R. M. Wentzcovitch
+    journal: Physics of the Earth and Planetary Interiors
+    pdf_url:
+    doi: https://doi.org/10.1016/j.pepi.2005.12.007
+    online_url: https://www.sciencedirect.com/science/article/pii/S0031920106000057?via%3Dihub
+
+  - title: Vibrational and thermodynamic properties of Ringwoodite
+    yyyy-mm-dd: 02 December 2006
+    author: Y. Yu and R.M. Wentzcovitch
+    journal: "Journal of Geophysical Research: Solid Earth"
+    pdf_url:
+    doi: https://doi.org/10.1029/2006JB004282
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2006JB004282
+
+  - title: "Composition controlled spin polarization in Co<sub>1-x</sub>Fe<sub>x</sub>S<sub>2</sub>: Electronic, magnetic, and thermodynamic properties"
+    yyyy-mm-dd: 3 April 2006
+    author: L. Wang, K. Umemoto, R. M. Wentzcovitch, T.Y. Chen, C.L. Chien, J.G. Checkelsky, J.C. Eckert, E.D. Dahlberg, and C. Leighton
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.73.144402
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.73.144402
+
+  - title: "NaMgF<sub>3</sub>: A low‐pressure analog of MgSiO<sub>2</sub>"
+    yyyy-mm-dd: 03 August 2006
+    author: K. Umemoto, R. M. Wentzcovitch, J. Parise, and D. Weidner
+    journal: Geophysical Research Letters
+    pdf_url:
+    doi: https://doi.org/10.1029/2006GL026348
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2006GL026348
+
+  - title: Electronic structure of Co<sub>1-x</sub>Fe<sub>x</sub>S<sub>2</sub>
+    yyyy-mm-dd: 06 July 2006
+    author: K. Umemoto, R. M. Wentzcovitch, L. Wang, and C. Leighton
+    journal: Physica Status Solidi (b)
+    pdf_url:
+    doi: https://doi.org/10.1002/pssb.200666821
+    online_url: https://onlinelibrary.wiley.com/doi/abs/10.1002/pssb.200666821
+
+  - title: Theory of spintronic materials
+    yyyy-mm-dd:  06 July 2006
+    author: J. R. Chelikowsky, T. Kaxiras, and R. M. Wentzcovitch
+    journal: Physica Status Solidi (b)
+    pdf_url:
+    doi: https://doi.org/10.1002/pssb.200666817
+    online_url: https://onlinelibrary.wiley.com/doi/abs/10.1002/pssb.200666817
+
+  - title: Pressure induced high spin to low spin transition in magnesiowüstite
+    yyyy-mm-dd: 06 July 2006
+    author: T. Tsuchiya, R. M. Wentzcovitch, C. R. S. da Silva, S. de Gironcoli, and J. Tsuchiya
+    journal: Physica Status Solidi (b)
+    pdf_url:
+    doi: https://doi.org/10.1002/pssb.200666814
+    online_url: https://onlinelibrary.wiley.com/doi/abs/10.1002/pssb.200666814
