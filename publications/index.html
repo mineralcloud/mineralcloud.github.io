@@ -80,6 +80,43 @@ header-img: static/img/header1.jpg
                             {% endif %}
                         </li>
                     </div>
+
+                    {% if publication.correction %}
+                    <br>
+                        <div class="col-lg-8 col-md-8  col-sm-12 col-xs-12">
+                            <li>
+                                <div class="publication-title">
+                                    <h5><span><span class="red"><i class="fas fa-exclamation-circle"></i> Correction:</span> {{publication.title|markdownify}}</span></h5>
+                                </div>
+                            </li>
+                            {% if publication.correction.publish %}
+                            <li>
+                                <span class="publication-journal">{{publication.correction.publish}}</span>
+                            </li>
+                            {% endif %}
+                            <li><span class="publication-author">{{publication.author}}</span></li>
+                            
+                        </div>
+                        <div class="col-lg-4 col-md-4  col-sm-12 col-xs-12">
+                            <li>
+                                <span class="publication-journal-year">{{publication.correction.yyyy-mm-dd|date:"%B, %Y"}}</span>
+                            </li>
+                            {% if publication.correction.journal %}
+                            <li>
+                                <span class="publication-journal">{{publication.correction.journal}}</span>
+                            </li>
+                            {% endif %}
+                        
+                            <li>
+                                {% if publication.correction.online_url %}<span class="publication-url"><a href="{{publication.online_url}}"
+                                        target="_blank">
+                                        <i class="fas fa-link"></i>
+                                        View Online</a></span>
+                                {% endif %}
+                            </li>
+                        </div>
+
+                    {% endif %}
                     <hr>
                 </ul>
                 

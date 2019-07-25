@@ -785,3 +785,75 @@
     pdf_url:
     doi:  https://doi.org/10.1073/pnas.0812150106
     online_url: https://www.pnas.org/content/106/21/8447
+
+- year: 2008
+  publications_this_year:
+
+  - title: Quasiharmonic elastic constants corrected for deviatoric thermal stresses
+    yyyy-mm-dd: 21 October 2008
+    author: Pierre Carrier, João F. Justo, and Renata M. Wentzcovitch
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.78.144302
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.78.144302
+
+  - title: Metadata management for distributed first principles calculations in VLab—A collaborative cyberinfrastructure for materials computation
+    yyyy-mm-dd: 1 February 2008
+    author: P. da Silveira, C. R. S. da Silva, and R. M. Wentzcovitch
+    journal: Computer Physics Communications
+    pdf_url:
+    doi: https://doi.org/10.1016/j.cpc.2007.09.001
+    online_url: https://www.sciencedirect.com/science/article/pii/S0010465507003955?via%3Dihub
+
+  - title: Spin transition in $(Mg,Fe)SiO_3$ perovskite under pressure
+    yyyy-mm-dd: 30 November 2008
+    author: K. Umemoto, R. Wentzcovitch, Y. Yu, R. Requist
+    journal: Earth and Planetary Science Letters
+    pdf_url:
+    doi: https://doi.org/10.1016/j.epsl.2008.09.025
+    online_url: https://www.sciencedirect.com/science/article/pii/S0012821X08006298?via%3Dihub
+
+  - title: Lattice dynamics and thermal equation of state of platinum
+    yyyy-mm-dd: 28 July 2008
+    author: T. Sun, K. Umemoto, A. Wu, J.-C. Zheng,  R. Wentzcovitch
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.78.024304
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.78.024304
+
+  - title: $\alpha–\beta–\gamma$ transformations in $Mg_2SiO_4$ in Earth's transition zone
+    yyyy-mm-dd: 30 August 2008
+    author: Y. Yu, Z. Wu, R. M. Wentzcovitch
+    journal: Earth and Planetary Science Letters
+    pdf_url:
+    doi: https://doi.org/10.1016/j.epsl.2008.06.023
+    online_url: https://www.sciencedirect.com/science/article/pii/S0012821X08003920?via%3Dihub
+
+  - title: "Pressure‐volume‐temperature relations in MgO: An ultrahigh pressure‐temperature scale for planetary sciences applications"
+    yyyy-mm-dd: 20 June 2008
+    author: Z. Wu, R. M. Wentzcovitch, K. Umemoto, B. Li, and K. Hirose
+    journal: Chemistry and Physics of Minerals and Rocks/Volcanology 
+    pdf_url:
+    doi: https://doi.org/10.1029/2007JB005275
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JB005275
+    correction:
+      yyyy-mm-dd: 06 May 2010
+      journal: Chemistry and Physics of Minerals and Rocks/Volcanology
+      doi: https://doi.org/10.1029/2009JB000828
+      online_url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2009JB000828
+
+  - title: Prediction of an $U_2S_3$-type polymorph of $Al_2O_3$ at 3.7 Mbar
+    yyyy-mm-dd: May 6, 2008
+    author: K. Umemoto and R. Wentzcovitch
+    journal: PNAS
+    pdf_url:
+    doi: https://doi.org/10.1073/pnas.0711925105
+    online_url: https://www.pnas.org/content/105/18/6526
+
+  - title: Vibrational properties of δ-AlOOH under pressure 
+    yyyy-mm-dd: 2018-02-01
+    author: J. Tsuchiya, T. Tsuchiya, and R. M. Wentzcovitch
+    journal: American Mineralogist
+    pdf_url:
+    doi: https://doi.org/10.2138/am.2008.2627
+    online_url: https://pubs.geoscienceworld.org/msa/ammin/article-abstract/93/2-3/477/134631/vibrational-properties-of-alooh-under-pressure?redirectedFrom=fulltext
