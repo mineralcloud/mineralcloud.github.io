@@ -9,7 +9,7 @@ header-img: static/img/header1.jpg
 <div class="container">
     <div class="button-link">
     <center>
-        <h3>View our <a target="_blank" href="https://mineralscloud.github.io/src/index.html">{{site.data.svgbase.jumpout}} Github Page</a> and <a target="_blank" href="https://github.com/MineralsCloud">{{site.data.svgbase.jumpout}} Github Organization</a></h3>
+        <h3>View our <a target="_blank" href="https://mineralscloud.github.io/src/index.html"><i class="fas fa-external-link-alt"></i> Github Page</a> and <a target="_blank" href="https://github.com/MineralsCloud"><i class="fab fa-github"></i> Github Organization</a></h3>
     </center>
     </div>
     <div class=" post-container display-cup">
@@ -36,22 +36,6 @@ header-img: static/img/header1.jpg
             </a>
         </div>
         {% endfor %}
-
-        <!-- Pager -->
-        {% if paginator.total_pages > 1 %}
-        <ul class="pager">
-            {% if paginator.previous_page %}
-            <li class="previous">
-                <a href="{{ paginator.previous_page_path  | replace: '//', '/' }}">&larr; Newer Posts</a>
-            </li>
-            {% endif %}
-            {% if paginator.next_page %}
-            <li class="next">
-                <a href="{{ paginator.next_page_path| replace: '//', '/' }}">Older Posts &rarr;</a>
-            </li>
-            {% endif %}
-        </ul>
-        {% endif %}
 
     </div>
 </div>
