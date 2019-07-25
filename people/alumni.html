@@ -3,7 +3,7 @@ layout: page
 title: "Alumni"
 permalink: /alumni/
 description: "with Wentzcovitch Group"
-header-img: static/img/header1.jpg
+header-img: static/img/header-people.PNG
 ---
 
 
@@ -13,21 +13,18 @@ header-img: static/img/header1.jpg
                         col-md-10 col-md-offset-1
                         post-container">
 
-    <div class="people-case">
-        <h2>Alumni</h2>
-    </div>
-
-    <hr>
 
     <div class="people-case ">
         <ul class="people-alumni">
             {% for item in site.data.alumni %}
-            <h4>{{item.position}}</h4>
+            <h2>{{item.position}}</h2>
+            <hr>
                 {% for people in item.list %}
                     {% if people.name %}
-                    <li><b>{{people.name}}</b>{% if people.time %}, <i>({{people.time}})</i>{% endif%}.{% if people.now %} Currently: {{people.now}}{% endif%}</li>
+                    <li><b>{{people.name}}</b>{% if people.was %}, {{people.was}}{% endif%}{% if people.time %}, <i>({{people.time}})</i>{% endif%}.{% if people.now %} Currently: {{people.now}}{% endif%}</li>
                     {% endif %}
                 {% endfor %}
+                <hr>
             {% endfor %}
         </ul>
     </div>

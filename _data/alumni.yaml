@@ -134,3 +134,87 @@
       time: PhD, Physics, 2011-15
       now:  post-doc in the Department of Earth, Ocean, and Environmental Sciences, Florida State University, Tallahassee, FL, USA.
 
+- position: Undergraduate students
+  list:
+    - name: Blake Wolf
+      time: Materials Science (CEMS) , Summer 2015.
+      now: a graduate student in Materials Science and Electrical Engineering, University of Minnesota, MN, USA.
+
+    - name: William R. Lindemann
+      time: Department of Materials Engineering, Iowa State University, UMN/MRSEC-REU student from Summer 2014.
+      now:  a graduate student in Materials Science, MIT, Boston, USA.
+
+    - name: Caroline Qian
+      time: Chemical Engineering (CEMS) and Computer Science, UMN-REU student, 01-12/2014
+      now:  a graduate student in Chemical Engineering, UC-Irvine, CA, USA.
+
+    - name: Anne Carlson
+      time: Chemical Engineering (CEMS) and Mathematics, UMN-REU student, 01-12/2013
+      now:  at Cortec Corporation, Minneapolis, MN, USA.
+
+    - name: Rajat Ghosh
+      time: Chemical Engineering (CEMS), 06-12/2014
+      now:  a modeler at ExxonMobil, Houston, TX, USA.
+
+    - name: Alexander Holiday
+      time: Chemical Engineering, CEMS, UMN-REU student, 2011-12
+      now:  a graduate student, Chemical Engineering, Princeton University, NJ, USA.
+
+    - name: Neal Kelly
+      time: Materials Science, Mathematics, and Computer Science, UMN-REU student, 2009-12
+      now:  a software developer and database manager, UnitedHealth Group, Minneapolis, MN, USA.
+
+    - name: Daniil Kigelman
+      time: Computer Science, intern at the Minnesota Supercomputing Institute, 2006-08
+      now:  Software developer and database manager, Thomson Reuters, Eagan, MN, USA.
+
+    - name: Elena Bernardis
+      time: Materials Science and Mathematics, CEMS, UMN-REU student, 1999-2001.
+      now:  a Research Associate, Children’s Hospital of Philadelphia, PA, USA.
+
+- position: Visiting students and researchers
+  list:
+    - name: Chao Yao
+      was: Graduate student from School of Earth and Space Sciences – USTC-Hefei, China, with Prof. Zhongqing Wu
+      time: 2015-16
+      now:  a graduate student at USTC.
+
+    - name: Michel Lacerda Marcondes dos Santos
+      was: Graduate student from Institute of Physics, University of São Paulo, SP, Brazil, with Prof. Lucy C. Assali
+      time: 2014-15
+      now:  a post-doc at Airforce Technology Institute (ITA), São José dos Campos, SP, Brazil.
+
+    - name: Yuichiro Yamagami
+      was: Graduate student from Physics, Tokyo Institute of Technology, with Prof. Susumu Saito
+      time: 2009
+      now:  moved to the private sector, Tokyo, Japan.
+
+    - name: Victor Vinograd
+      was: Research Associate from the Department of Geology, University of Frankfurt
+      time: Summer 2010
+      now:  Research Scientist, Forschungszentrum Juelich GmbH, Juelich, Germany.
+
+    - name: Tao Sun
+      was: Graduate student from Physics and Astronomy, Stony Brook University, with Prof. Philip B. Allen
+      time: 2007-08
+      now:  Associate Professor of Mineral Physics, Key Laboratory of Computational Geodynamics, University of Chinese Academy of Sciences, Beijing, China.
+
+    - name: Di Wang
+      was: Graduate student from the Department of Geophysics, Virginia Tech with Prof. Nancy Ross
+      time: Summer 2009
+      now:  software developer at CGG, Houston, TX, USA.
+
+    - name: Ryan Requist
+      was: Graduate student from Physics and Astronomy, Stony Brook University, with Prof. Philip B Allen
+      time: 2006-07
+      now:  Research Associate, Max Planck Institute-Halle, Germany.
+
+    - name: Gilberto Paiva
+      was: Graduate student from the Materials Department, University of São Paulo, with Prof. Adalberto Fazzio
+      time:  1997-98
+      now: a high school teacher, São Paulo, Brazil.
+
+    - name: Boris Kiefer
+      was: Graduate student from Geological Sciences, University of Michigan, Ann Arbor, with Prof. Lars Stixrude
+      time: 1997
+      now:  Associate Professor, Physics Department, University of New Mexico, NM, USA.
