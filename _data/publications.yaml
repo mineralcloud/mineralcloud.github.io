@@ -1052,3 +1052,70 @@
     pdf_url:
     doi: https://doi.org/10.1002/pssb.200666814
     online_url: https://onlinelibrary.wiley.com/doi/abs/10.1002/pssb.200666814
+
+- year: 2005
+  publications_this_year:
+
+  - title: Multidisciplinary impact of the deep mantle phase transition in perovskite structure
+    yyyy-mm-dd: 2005-01-01
+    author: T. Lay, D. Heinz, M. Ishii, S.-H. Shim, J. Tsuchiya, T. Tsuchiya, R. Wentzcovitch, and D. Yuen
+    journal: EoS
+    pdf_url:
+    doi: https://doi.org/10.1029/2005EO010001
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2005EO010001
+
+  - title: Low ↔ High Density Transformations in H<sub>2</sub>O-ice
+    yyyy-mm-dd: 31 March 2005
+    author: K. Umemoto and R. M. Wentzcovitch
+    journal: Chemical Physics Letters
+    pdf_url:
+    doi: https://doi.org/10.1016/j.cplett.2005.01.098
+    online_url: https://www.sciencedirect.com/science/article/pii/S0009261405001430?via%3Dihub
+
+  - title: Theoretical study of the isostructural transformation in ice VIII
+    yyyy-mm-dd: 14 January 2005
+    author: K. Umemoto and R. M. Wentzcovitch
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.71.012102
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.71.012102
+
+  - title: CaSiO<sub>3</sub> perovskite at lower mantle pressures
+    yyyy-mm-dd:  23 March 2005
+    author: R. Caracas, R. M. Wentzcovitch, G. D. Price, and J. Brodholt
+    journal: Geophysical Research Letters
+    pdf_url:
+    doi: https://doi.org/10.1029/2004GL022144
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2004GL022144
+
+  - title: "Co<sub>1-x</sub>Fe<sub>x</sub>S<sub>2</sub>: A Tunable Source of Highly Spin-Polarized Electrons"
+    yyyy-mm-dd: 11 February 2005
+    author: L. Wang, K. Umemoto, R.M. Wentzcovitch, T.Y. Chen, C.L. Chien, J.G. Checkelsky, J.C. Eckert, E.D. Dahlberg and C. Leighton
+    journal: PHYSICAL REVIEW LETTERS
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevLett.94.056602
+    online_url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.94.056602
+
+  - title: Vibrational and thermodynamic properties of MgSiOS<sub>3</sub> post-perovskite
+    yyyy-mm-dd: 
+    author: J. Tsuchiya, T. Tsuchiya, and R. M. Wentzcovitch
+    journal: "Journal of Geophysical Research: Solid Earth"
+    pdf_url:
+    doi: https://doi.org/10.1029/2004JB003409
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2004JB003409
+
+  - title: Transition from Rh<sub>2</sub>O<sub>3</sub>(II) to CaIrO<sub>3</sub>-type structure and the high-pressure-temperature phase diagram of alumina
+    yyyy-mm-dd: 14 July 2005
+    author: J. Tsuchiya, T. Tsuchiya, R.M. Wentzcovitch
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.72.020103
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.72.020103
+
+  - title: Post-perovskite MgSiO<sub>3</sub> investigated by first principles
+    yyyy-mm-dd: 2005-01-01
+    author: T. Tsuchiya, J. Tsuchiya, R. M. Wentzcovitch
+    journal: "Superplumes: Beyond Plate Tectonics"
+    pdf_url:
+    doi: 
+    online_url: https://link.springer.com/chapter/10.1007%2F978-1-4020-5750-2_4
