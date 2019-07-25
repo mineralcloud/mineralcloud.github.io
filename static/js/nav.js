@@ -152,10 +152,27 @@ function publication_filter() {
             else{
                 pubcase[i].style.display = "none";
             };
-    
-
 
     };
 
-
 };
+
+function publication_switch(){
+
+    var pubyear = document.getElementsByClassName("publication-year-list");
+
+    var pub = pubyear[0].getElementsByTagName("a")
+
+    var i;
+
+    for (i = 0; i < pub.length; i++) {
+        pub[i].classList.toggle("hidden")
+        pub[i].classList.toggle("show")
+
+    }
+    
+
+    
+
+
+}

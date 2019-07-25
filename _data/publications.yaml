@@ -1,3 +1,30 @@
+- year: Books Edited
+  publications_this_year:
+  - title: "Theoretical and Computational Methods in Mineral Physics: Geophysical Applications"
+    yyyy-mm-dd: 2010-12-30
+    author:	R. M. Wentzcovitch, and L. Stixrude
+    publish: Reviews in Mineralogy and Geochemistry, Mineralogical Society of America
+    pdf_url:
+    doi: 
+    online_url: http://rimg.geoscienceworld.org/current.dtl 
+  
+  - title: "Perovskite Materials"
+    yyyy-mm-dd: 2002-12-30
+    author:	R. M. Wentzcovitch, A. Navrotsky, and K. Poeppelmeyer
+    publish: Proceedings of Symposium D of the Materials Research Society, Spring 02 Meeting 
+    pdf_url:
+    doi: 
+    online_url: 
+
+  - title: "High Pressure Materials Research"
+    yyyy-mm-dd: 1998-12-30
+    author:	R. M. Wentzcovitch, R. Hemley, W. Nellis, and P. Y. Yu
+    publish: Proceedings of Symposium DD of the Materials Research Society Fall 97 Meeting
+    pdf_url:
+    doi: 
+    online_url: 
+
+
 - year: In preparation 
   publications_this_year:
   - title: Phonons in (Mg,Fe)O ferropericlase throughout the iron spin crossover

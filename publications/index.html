@@ -13,7 +13,7 @@ header-img: static/img/header1.jpg
         <center> Search  
             <label for="inp" class="inp">
                 <input id="search-pub" name="search-pub" onkeyup="publication_filter()" type="text" placeholder="&nbsp;">
-                <span class="label noselect">papers, authors, year...</span>
+                <span class="label noselect">keywords, authors, year...</span>
                 <span class="border"></span>
             </label>
             in publications
@@ -26,7 +26,23 @@ header-img: static/img/header1.jpg
                     <div class="pub-tab"></div>
                     <h2>
                         <span>{{item.year}}</span>
-                        <span style="float: right">{{item.publications_this_year.size}} Articles</span>
+                        <span style="float: right">
+                            
+                        
+                        {% assign n = item.publications_this_year.size%}
+                        {% assign type = item.year%}
+                        {{n}}
+                        {% if n == 1 %}
+                            Article
+                        {% else %}
+                            {% if type contains "ook" %}
+                                Books
+                                {% else %}
+                                Articles
+                            {% endif %}
+                        {% endif %}
+
+                        </span>
                     </h2>
                     
 
@@ -40,20 +56,26 @@ header-img: static/img/header1.jpg
                         <li>
                             <div class="publication-title"><h5><span>{{publication.title|markdownify}}</span></h5></div>
                         </li>
+                        {% if publication.publish %}
+                        <li>
+                            <span class="publication-journal">{{publication.publish}}</span>
+                        </li>
+                        {% endif %}
                         <li><span class="publication-author">{{publication.author}}</span></li>
                     </div>
                     <div class="col-lg-4 col-md-4  col-sm-12 col-xs-12">
                         <li>
                             <span class="publication-journal-year">{{publication.yyyy-mm-dd|date:"%B, %Y"}}</span>
                         </li>
-
+                        {% if publication.journal %}
                         <li>
                             <span class="publication-journal">{{publication.journal}}</span>
                         </li>
+                        {% endif %}
 
                         <li>
                             {% if publication.online_url %}<span class="publication-url"><a href="{{publication.online_url}}" target="_blank">
-                                    {{site.data.svgbase.jumpout}}
+                                    <i class="fas fa-link"></i>
                                     View Online</a></span>
                             {% endif %}
                         </li>
@@ -72,12 +94,42 @@ header-img: static/img/header1.jpg
 
 <div class="col-lg-2  col-md-2  col-sm-12 col-xs-12">
     <div class="sidebar-container" id="sidebar" style="min-width:200px;">
-        <div class="publication-year-list black">
+        <div class="publication-year-list">
+                
             <ul>
                 <h4>Year Archive</h4>
                 {% for item in site.data.publications %}
-                <li><a href="#{{item.year}}">{{item.year}} ({{item.publications_this_year.size}})</a></li>
+                {% assign y = item.year %}
+
+                {% if y contains "e" %}
+                <a href="#{{item.year}}"  class="show">
+                    <li>{{item.year}} ({{item.publications_this_year.size}})</li>
+                </a>
+                {% else %}
+
+                    {% if y > 2009 %}
+                    <a href="#{{item.year}}"  class="show">
+                        <li>{{item.year}} ({{item.publications_this_year.size}})</li>
+                    </a>
+                    {% else %}
+                        {% if y == 2009 %}
+                        <a href="javascript:publication_switch();"  class="show"><li><i class="fas fa-angle-right"></i> View Before 2010</li></a>
+                        <a href="#{{item.year}}" class="hidden">
+                            <li>{{item.year}} ({{item.publications_this_year.size}})</li>
+                        </a>
+
+                        {% else %}
+                            <a href="#{{item.year}}"  class="hidden">
+                                <li>{{item.year}} ({{item.publications_this_year.size}})</li>
+                            </a>
+
+                        {% endif %}
+                    {% endif %}
+                {% endif %}
                 {% endfor %}
+                <a href="javascript:publication_switch();"  class="hidden">
+                    <li><i class="fas fa-angle-right"></i> View Recent</li>
+                </a>
             </ul>
         </div>
     </div>
