@@ -71,7 +71,7 @@
     doi: #
     online_url: 
   
-  - title: First principles investigation of post-PPV transitions in low-pressure analogs of \\( MgSiO_3 \\) 
+  - title: First principles investigation of post-PPV transitions in low-pressure analogs of MgSiO<sub>3</sub> 
     yyyy-mm-dd: 2019-12-30
     author: K. Umemoto and R. M. Wentzcovitch
     journal: Earth & Planet Sc. Lett., under review 
@@ -89,7 +89,7 @@
     doi: https://doi.org/10.1016/j.cpc.2019.05.003
     online_url: https://www.sciencedirect.com/science/article/pii/S0010465519301523?via%3Dihub
 
-  - title: Thermoelasticity of Iron‐ and Aluminum‐Bearing \\( MgSiO_3 \\)  Postperovskite
+  - title: Thermoelasticity of Iron‐ and Aluminum‐Bearing MgSiO<sub>3</sub> Postperovskite
     yyyy-mm-dd: 2019-01-12
     author: G. Shukla, K. Sarkar, and R. M. Wentzcovitch
     journal: "Journal of Geophysical Research: Solid Earth"
@@ -149,7 +149,7 @@
     doi: doi.org/10.1016/j.cpc.2018.05.019
     online_url: https://www.sciencedirect.com/science/article/pii/S0010465518301826
 
-  - title: Electronic structure of \\( BaSnO3\\) investigated by high-energy-resolution electron energy-loss spectroscopy and ab initio calculations
+  - title: Electronic structure of BaSnO<sub>3</sub> investigated by high-energy-resolution electron energy-loss spectroscopy and ab initio calculations
     yyyy-mm-dd: 2018-03-12
     author: H. Yun, M. Topsakal, A. Prakash, K. Ganguly, C. Leighton, B. Jalan, R. M. Wentzcovitch, J. S. Jeong, and K. A. Mkhoyan
     journal: Journal of Vacuum Science & Technology A
@@ -184,7 +184,7 @@
     doi: https://doi.org/10.1002/2017GL074666
     online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL074666
 
-  - title: Thermal conductivity from phonon quasiparticles with subminimal mean free path in the \\( MgSiO_3 \\) perovskite
+  - title: Thermal conductivity from phonon quasiparticles with subminimal mean free path in the MgSiO<sub>3</sub> perovskite
     yyyy-mm-dd: 2017-09-11
     author: Dong-Bo Zhang, Philip B. Allen, Tao Sun, and Renata M. Wentzcovitch
     journal: PHYSICAL REVIEW B
@@ -192,7 +192,7 @@
     doi: https://doi.org/10.1103/PhysRevB.96.100302
     online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.100302
   
-  - title: Phase transitions in \\( MgSiO_3 \\) post-perovskite in terrestrial exoplanetary mantles
+  - title: Phase transitions in MgSiO<sub>3</sub>  post-perovskite in terrestrial exoplanetary mantles
     yyyy-mm-dd: 2017-11-15
     author: K. Umemoto, R. M Wentzcovitch, S. Q. Wu, M. Ji, C. Z. Wang, K.-M. Ho
     journal: Earth and Planetary Science Letters
@@ -200,7 +200,7 @@
     doi: https://doi.org/10.1016/j.epsl.2017.08.032
     online_url: https://www.sciencedirect.com/science/article/pii/S0012821X1730479X
 
-  - title: Lattice Thermal Conductivity of \\( MgSiO_3 \\) Perovskite from First Principles
+  - title: Lattice Thermal Conductivity of MgSiO<sub>3</sub>  Perovskite from First Principles
     yyyy-mm-dd: 2017-07-14
     author: N. Ghaderi, D.-B. Zhang, H. Zhang, J. Xian, T. Sun, and R. M. Wentzcovitch
     journal: Scientific Reports
@@ -259,7 +259,7 @@
 - year: 2016
   publications_this_year:
 
-  - title: "Spin crossover in ($Mg,Fe^{3+}$)($Si,Fe^{3+}$)$O_3$ bridgmanite: Effects of disorder, iron concentration, and temperature"
+  - title: "Spin crossover in (Mg,Fe<sup>3+</sup>)(Si,Fe<sup>3+</sup>)O<sub>3</sub> bridgmanite: Effects of disorder, iron concentration, and temperature"
     yyyy-mm-dd: 2016-09-17
     author: G. Shukla and R. M. Wentzcovitch
     journal: Physics of the Earth and Planetary Interiors
@@ -267,7 +267,7 @@
     doi: https://doi.org/10.1016/j.pepi.2016.09.003
     online_url: https://www.sciencedirect.com/science/article/pii/S0031920116300565
 
-  - title: A new line defect in strained $NdTiO_3$ perovskite
+  - title: A new line defect in strained NdTiO<sub>3</sub> perovskite
     yyyy-mm-dd: 2016-10-13
     author: J. S. Jeong, M. Topsakal, P. Xu, B. Jalan, R. M. Wentzcovitch, and A. Mkhoyan
     journal: Nano Letters 
@@ -283,7 +283,7 @@
     doi: https://doi.org/10.1063/1.4954792
     online_url: https://aip.scitation.org/doi/full/10.1063/1.4954792
 
-  - title: Post-stishovite transition in hydrous aluminous $SiO_2$
+  - title: Post-stishovite transition in hydrous aluminous SiO<sub>2</sub>
     yyyy-mm-dd: 2016-03-29
     author: K. Umemoto, T. Kawamura, K. Hirose, and R. M. Wentzcovitch
     journal: Physics of the Earth and Planetary Interiors
@@ -291,7 +291,7 @@
     doi: https://doi.org/10.1016/j.pepi.2016.03.008
     online_url: https://www.sciencedirect.com/science/article/pii/S0031920116300085
 
-  - title: "Thermoelasticity of $Fe^{3+}$‐ and Al‐bearing bridgmanite: Effects of iron spin crossover"
+  - title: "Thermoelasticity of Fe<sup>+</sup>‐ and Al‐bearing bridgmanite: Effects of iron spin crossover"
     yyyy-mm-dd: 2016-05-16
     author: G. Shukla, M. Cococcioni, and R. Wentzcovitch
     journal: Geophysical Research Letter
@@ -303,7 +303,7 @@
 - year: 2015
   publications_this_year:
 
-  - title: Accurate thermoelastic tensor and acoustic velocities of $NaCl$
+  - title: Accurate thermoelastic tensor and acoustic velocities of NaCl
     yyyy-mm-dd: 18 December 2015
     author: M. M. Lacerda, G. Shukla, and R. M. Wentzcovitch
     journal: AIP Advances
@@ -311,7 +311,7 @@
     doi: https://doi.org/10.1063/1.4938550
     online_url: https://aip.scitation.org/doi/full/10.1063/1.4938550
 
-  - title: Nature of the volume isotope effect in $H_2O$-ice
+  - title: Nature of the volume isotope effect in H<sub>2</sub>O-ice
     yyyy-mm-dd: 22 October 2015
     author: K. Umemoto, E., Sugimura, K. Hirose, S. de Gironcoli, and R. M. Wentzcovitch
     journal: PHYSICAL REVIEW LETTERS
@@ -319,7 +319,7 @@
     doi: https://doi.org/10.1103/PhysRevLett.115.173005
     online_url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.173005
 
-  - title: "Spin crossovers in iron-bearing $MgSiO_3$ and $MgGeO_3$: their influence on the post-perovskite transitions"
+  - title: "Spin crossovers in iron-bearing MgSiO<sub>3</sub> and MgGeO<sub>3</sub>: their influence on the post-perovskite transitions"
     yyyy-mm-dd: 9 October 2015
     author: G. Shukla, M. Topsakal, and R. Wentzcovitch
     journal: Physics of the Earth and Planetary Interiors
@@ -335,7 +335,7 @@
     doi: https://doi.org/10.1116/1.4926753
     online_url: https://avs.scitation.org/doi/full/10.1116/1.4926753
 
-  - title: "Searching for high magnetization density in bulk Fe: the new metastable $Fe_6$ phase"
+  - title: "Searching for high magnetization density in bulk Fe: the new metastable Fe<sub>6</sub> phase"
     yyyy-mm-dd: 26 November 2014
     author: K. Umemoto, B. Himmetoglu, J. P. Wang, R. Wentzcovitch, and M. Cococcioni
     journal: "Journal of Physics: Condensed Matter"
@@ -351,7 +351,7 @@
     doi: https://doi.org/10.1016/B978-0-444-53802-4.00054-3
     online_url: https://www.sciencedirect.com/science/article/pii/B9780444538024000543
 
-  - title: "Hybrid ab-initio/experimental high temperature equations of state: Application to the $NaCl$ pressure scale"
+  - title: "Hybrid ab-initio/experimental high temperature equations of state: Application to the NaCl pressure scale"
     yyyy-mm-dd: 01 June 2015
     author: M. M. Lacerda and R. M. Wentzcovitch
     journal: Journal of Applied Physics
@@ -359,7 +359,7 @@
     doi: http://dx.doi.org/10.1063/1.4921904
     online_url: https://aip.scitation.org/doi/full/10.1063/1.4921904
 
-  - title: Thermoelasticity of $Fe^{2+}$‐bearing bridgmanite
+  - title: Thermoelasticity of Fe<sup>2+</sup>‐bearing bridgmanite
     yyyy-mm-dd: 25 February 2015
     author: G. Shukla, Z. Wu, H. Hsu, A. Floris, M. Cococcioni, and R. Wentzcovitch
     journal: Geophyscial Research Letter
@@ -441,7 +441,7 @@
     doi: https://doi.org/10.1103/PhysRevLett.110.228501
     online_url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.228501
 
-  - title: Phase equilibria of $(Mg,Fe)_2SiO_4$ at the Earth’s upper mantle conditions from first-principles studies
+  - title: Phase equilibria of (Mg,Fe)<sub>2</sub>SiO<sub>4</sub> at the Earth’s upper mantle conditions from first-principles studies
     yyyy-mm-dd: 8 February 2013
     author: Y. Yu, V. Vinograd, B. Winkler, and R. M. Wentzcovitch
     journal: Physics of the Earth and Planetary Interiors
@@ -458,7 +458,7 @@
     doi: https://doi.org/10.1016/j.pepi.2013.02.004
     online_url: https://www.sciencedirect.com/science/article/pii/S0031920113000289
   
-  - title: "Thermal elasticity of ($Fe_x$,$Mg_{1-x}$)$_2SiO_4$ olivine and wadsleyite"
+  - title: "Thermal elasticity of (Fe<sub>x</sub>,Mg<sub>1-x</sub>)<sub>2</sub>SiO<sub>4</sub> olivine and wadsleyite"
     yyyy-mm-dd: 31 January 2013
     author: M. Núñez-Valdéz, Z. Wu, Y. Yu, and R. M. Wentzcovitch
     journal: Geophysical Research Letters
@@ -485,7 +485,7 @@
     doi: https://doi.org/10.1127/0935-1221/2012/0024-2249
     online_url: http://www.schweizerbart.de/papers/ejm/detail/24/78457/First_principles_studies_of_spin_state_crossovers_?af=crossref
   
-  - title: Spin crossover in iron in aluminous $MgSiO_3$ persovskite and post-perovskite
+  - title: Spin crossover in iron in aluminous MgSiO<sub>3</sub> persovskite and post-perovskite
     yyyy-mm-dd: 3 November 2012
     author: H. Hsu, Y. Yu, and R. M. Wentzcovitch
     journal: Earth and Planetary Science Letters
@@ -493,7 +493,7 @@
     doi: https://doi.org/10.1016/j.epsl.2012.09.029
     online_url: https://www.sciencedirect.com/science/article/pii/S0012821X12005250
   
-  - title: "Thermoelastic properties of wadsleyite and ringwoodite ($Fe_x$,$Mg_{1-x}$)$_2SiO_4$: their relationship to the 520 km seismic discontinuity"
+  - title: "Thermoelastic properties of wadsleyite and ringwoodite (Fe<sub>x</sub>,Mg<sub>1-x</sub>)<sub>2</sub>SiO<sub>4</sub>: their relationship to the 520 km seismic discontinuity"
     yyyy-mm-dd: 15 October 2012
     author: M. Núñez-Valdéz, Z. Wu, Y. Yu, J. Revenaugh, and R. M. Wentzcovitch
     journal: Earth and Planetary Science Letters
@@ -517,7 +517,7 @@
     doi:  https://doi.org/10.1111/j.1551-2916.2012.05301.x
     online_url: https://ceramics.onlinelibrary.wiley.com/doi/abs/10.1111/j.1551-2916.2012.05301.x
 
-  - title: Ferromagnetic insulating state in tensile-strained $LaCoO_3$ thin films from LDA + U calculations
+  - title: Ferromagnetic insulating state in tensile-strained LaCoO<sub>3</sub> thin films from LDA + U calculations
     yyyy-mm-dd: 11 April 2012
     author: H. Hsu, P. Blaha, and R. M. Wentzcovitch
     journal: PHYSICAL REVIEW B
@@ -525,7 +525,7 @@
     doi: https://doi.org/10.1103/PhysRevB.85.140404
     online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.85.140404
 
-  - title: Spin states and hyperfine interactions of iron incorporated in MgSiO3 post-perovskite
+  - title: Spin states and hyperfine interactions of iron incorporated in MgSiO<sub>3</sub> post-perovskite
     yyyy-mm-dd: 15 May 2012
     author: Y. Yu, H. Hsu, M. Cococcioni, and R. M. Wentzcovitch
     journal: Earth and Planetary Science Letters
@@ -562,7 +562,7 @@
     doi: https://doi.org/10.1029/2011JB008378
     online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JB008378
 
-  - title: Two-stage dissociation of $MgSiO_3$ post-perovskite
+  - title: Two-stage dissociation of MgSiO<sub>3</sub> post-perovskite
     yyyy-mm-dd: 15 November 2011
     author: K. Umemoto and R. M. Wentzcovitch
     journal: Earth and Planetary Science Letters
@@ -611,7 +611,7 @@
     doi: https://doi.org/10.1103/PhysRevB.83.184102
     online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.83.184102
 
-  - title: "Thermodynamic properties of $MgSiO_3$ majorite and phase transitions near 660-km depth in $MgSiO_3$ and $Mg_2SiO_4$: a first principles study"
+  - title: "Thermodynamic properties of MgSiO<sub>3</sub> majorite and phase transitions near 660-km depth in MgSiO<sub>3</sub> and Mg<sub>2</sub>SiO<sub>4</sub>: a first principles study"
     yyyy-mm-dd: 25 February 2011
     author: Y.Yu, R. M. Wentzcovitch, V. Vinograd, and R. J. Angel
     journal: "Journal of Geophysical Research: Solid Earth"
@@ -619,7 +619,7 @@
     doi: https://doi.org/10.1029/2010JB007912
     online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010JB007912
 
-  - title: Spin-state crossover and hyperfine interactions of ferric iron in $MgSiO_3$ perovskite
+  - title: Spin-state crossover and hyperfine interactions of ferric iron in MgSiO<sub>3</sub> perovskite
     yyyy-mm-dd: 14 March 2011
     author: H. Hsu, P. Blaha, M. Cococcioni, and R. M. Wentzcovitch
     journal: PHYSICAL REVIEW LETTERS
@@ -627,7 +627,7 @@
     doi: https://doi.org/10.1103/PhysRevLett.106.118501
     online_url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.118501
 
-  - title: "The Hubbard U correction for iron-bearing minerals: A discussion based on $(Mg,Fe)SiO_3$ perovskite"
+  - title: "The Hubbard U correction for iron-bearing minerals: A discussion based on (Mg,Fe)SiO<sub>3</sub> perovskite"
     yyyy-mm-dd: 2011-03-01
     author: H. Hsu, R. M. Wentzcovitch, K. Umemoto, and M. Cococcioni
     journal: Physics of the Earth and Planetary Interiors
@@ -654,7 +654,7 @@
     doi: https://doi.org/10.1016/j.cplett.2010.09.065
     online_url: https://www.sciencedirect.com/science/article/abs/pii/S0009261410013126?via%3Dihub
   
-  - title: "Cobalt spin states and hyperfine interactions in $LaCoO_3$ investigated by LDA+U calculations"
+  - title: "Cobalt spin states and hyperfine interactions in LaCoO<sub>3</sub> investigated by LDA+U calculations"
     yyyy-mm-dd: 9 September 2010
     author: H. Hsu, P. Blaha, R. M. Wentzcovitch, and C. Leighton
     journal: PHYSICAL REVIEW B
@@ -662,7 +662,7 @@
     doi: https://doi.org/10.1103/PhysRevB.82.100406
     online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.82.100406
   
-  - title: "Fundamentals of elasticity of $(Mg_{(1-x)}Fe_x)_2SiO_4$-olivine"
+  - title: "Fundamentals of elasticity of (Mg<sub>(1-x)</sub>Fe<sub>x</sub>)<sub>2</sub>SiO<sub>4</sub>-olivine"
     yyyy-mm-dd: 24 July 2010
     author: M. Núñez-Valdéz, K. Umemoto, and R. M. Wentzcovitch
     journal: Geophysical Research Letters
@@ -670,7 +670,7 @@
     doi: https://doi.org/10.1029/2010GL044205
     online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010GL044205
 
-  - title: Effect of site degeneracies on the spin crossovers in $(Mg,Fe)SiO_3$
+  - title: Effect of site degeneracies on the spin crossovers in (Mg,Fe)SiO<sub>3</sub>
     yyyy-mm-dd: 2010-06-15
     author: K. Umemoto, H. Hsu, and R. M. Wentzcovitch
     journal: Physics of the Earth and Planetary Interiors
@@ -718,7 +718,7 @@
     doi: https://doi.org/10.1103/PhysRevLett.104.125504
     online_url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.104.125504
 
-  - title: Spin states and hyperfine interactions of iron in $(Mg,Fe)SiO_3$ perovskite under pressure
+  - title: Spin states and hyperfine interactions of iron in (Mg,Fe)SiO<sub>3</sub> perovskite under pressure
     yyyy-mm-dd: 15 May 2010
     author: H. Hsu, K. Umemoto, R. M. Wentzcovitch, and P. Blaha
     journal: Earth and Planetary Science Letters
@@ -726,7 +726,7 @@
     doi: https://doi.org/10.1016/j.epsl.2010.02.031
     online_url:  https://www.sciencedirect.com/science/article/pii/S0012821X10001330?via%3Dihub
 
-  - title: First principles study of thermodynamics and phase transition in low-pressure (P2(1)/c) and high-pressure (C2/c) clinoenstatite $MgSiO_3$
+  - title: First principles study of thermodynamics and phase transition in low-pressure (P2(1)/c) and high-pressure (C2/c) clinoenstatite MgSiO<sub>3</sub>
     yyyy-mm-dd: 04 February 2010
     author: Y. Yu, R. M. Wentzcovitch, and R. Angel
     journal: Chemistry and Physics of Minerals and Rocks/Volcanology 
@@ -762,7 +762,7 @@
     doi: https://doi.org/10.1103/PhysRevB.80.014409
     online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.80.014409
 
-  - title: First principles study of low-spin $LaCoO_3$ with structurally consistent Hubbard $U$
+  - title: First principles study of low-spin LaCoO<sub>3</sub> with structurally consistent Hubbard U
     yyyy-mm-dd: 31 March 2009
     author: H. Hsu, K. Umemoto, M. Cococcioni, and  R. M. Wentzcovitch
     journal: PHYSICAL REVIEW B
@@ -805,7 +805,7 @@
     doi: https://doi.org/10.1016/j.cpc.2007.09.001
     online_url: https://www.sciencedirect.com/science/article/pii/S0010465507003955?via%3Dihub
 
-  - title: Spin transition in $(Mg,Fe)SiO_3$ perovskite under pressure
+  - title: Spin transition in (Mg,Fe)SiO<sub>3</sub> perovskite under pressure
     yyyy-mm-dd: 30 November 2008
     author: K. Umemoto, R. Wentzcovitch, Y. Yu, R. Requist
     journal: Earth and Planetary Science Letters
@@ -821,7 +821,7 @@
     doi: https://doi.org/10.1103/PhysRevB.78.024304
     online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.78.024304
 
-  - title: $\alpha–\beta–\gamma$ transformations in $Mg_2SiO_4$ in Earth's transition zone
+  - title: $\alpha–\beta–\gamma$ transformations in Mg<sub>2</sub>SiO<sub>4</sub> in Earth's transition zone
     yyyy-mm-dd: 30 August 2008
     author: Y. Yu, Z. Wu, R. M. Wentzcovitch
     journal: Earth and Planetary Science Letters
@@ -842,7 +842,7 @@
       doi: https://doi.org/10.1029/2009JB000828
       online_url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2009JB000828
 
-  - title: Prediction of an $U_2S_3$-type polymorph of $Al_2O_3$ at 3.7 Mbar
+  - title: Prediction of an U<sub>2</sub>S<sub>3</sub>-type polymorph of Al<sub>2</sub>O<sub>3</sub> at 3.7 Mbar
     yyyy-mm-dd: May 6, 2008
     author: K. Umemoto and R. Wentzcovitch
     journal: PNAS
