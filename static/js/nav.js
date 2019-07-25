@@ -42,8 +42,6 @@ function scrollFunction() {
     }
 
     if ((document.body.scrollTop > 1300 || document.documentElement.scrollTop > 1300)  ){
-       
-
         $("#top-pointer").slideDown(600);
 
     }else{
