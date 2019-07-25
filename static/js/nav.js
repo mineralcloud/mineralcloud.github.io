@@ -41,25 +41,17 @@ function scrollFunction() {
 
     }
 
-    if ((document.body.scrollTop > 400 || document.documentElement.scrollTop > 400)  ){
+    if ((document.body.scrollTop > 1300 || document.documentElement.scrollTop > 1300)  ){
        
-        // document.getElementById("top-pointer").classList.remove("hidden");
-        // document.getElementById("top-pointer").classList.add("show");
-        
 
-           toggleTopPointer()
+        $("#top-pointer").slideDown(600);
 
     }else{
-
+        $("#top-pointer").slideUp(600);
         
     }
 };
 
-
-function toggleTopPointer(){
-    
-  
-};
 
 $(document).ready(function () {
     
