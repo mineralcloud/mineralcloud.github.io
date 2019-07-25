@@ -81,17 +81,17 @@ header-img: static/img/header1.jpg
                         </li>
                     </div>
 
-                    {% if publication.correction %}
+                    {% if publication.more %}
                     <br>
                         <div class="col-lg-8 col-md-8  col-sm-12 col-xs-12">
                             <li>
                                 <div class="publication-title">
-                                    <h5><span><span class="red"><i class="fas fa-exclamation-circle"></i> Correction:</span> {{publication.title|markdownify}}</span></h5>
+                                    <h5><span><span class="red"><i class="fas fa-exclamation-circle"></i> {{publication.more.type}}:</span> {{publication.title|markdownify}}</span></h5>
                                 </div>
                             </li>
-                            {% if publication.correction.publish %}
+                            {% if publication.more.publish %}
                             <li>
-                                <span class="publication-journal">{{publication.correction.publish}}</span>
+                                <span class="publication-journal">{{publication.more.publish}}</span>
                             </li>
                             {% endif %}
                             <li><span class="publication-author">{{publication.author}}</span></li>
@@ -99,16 +99,16 @@ header-img: static/img/header1.jpg
                         </div>
                         <div class="col-lg-4 col-md-4  col-sm-12 col-xs-12">
                             <li>
-                                <span class="publication-journal-year">{{publication.correction.yyyy-mm-dd|date:"%B, %Y"}}</span>
+                                <span class="publication-journal-year">{{publication.more.yyyy-mm-dd|date:"%B, %Y"}}</span>
                             </li>
-                            {% if publication.correction.journal %}
+                            {% if publication.more.journal %}
                             <li>
-                                <span class="publication-journal">{{publication.correction.journal}}</span>
+                                <span class="publication-journal">{{publication.more.journal}}</span>
                             </li>
                             {% endif %}
                         
                             <li>
-                                {% if publication.correction.online_url %}<span class="publication-url"><a href="{{publication.online_url}}"
+                                {% if publication.more.online_url %}<span class="publication-url"><a href="{{publication.online_url}}"
                                         target="_blank">
                                         <i class="fas fa-link"></i>
                                         View Online</a></span>

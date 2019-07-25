@@ -832,13 +832,14 @@
   - title: "Pressure‐volume‐temperature relations in MgO: An ultrahigh pressure‐temperature scale for planetary sciences applications"
     yyyy-mm-dd: 20 June 2008
     author: Z. Wu, R. M. Wentzcovitch, K. Umemoto, B. Li, and K. Hirose
-    journal: Chemistry and Physics of Minerals and Rocks/Volcanology 
+    journal: "Journal of Geophysical Research: Solid Eart"
     pdf_url:
     doi: https://doi.org/10.1029/2007JB005275
     online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JB005275
-    correction:
+    more:
+      type: Correction
       yyyy-mm-dd: 06 May 2010
-      journal: Chemistry and Physics of Minerals and Rocks/Volcanology
+      journal: "Journal of Geophysical Research: Solid Eart"
       doi: https://doi.org/10.1029/2009JB000828
       online_url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2009JB000828
 
@@ -857,3 +858,98 @@
     pdf_url:
     doi: https://doi.org/10.2138/am.2008.2627
     online_url: https://pubs.geoscienceworld.org/msa/ammin/article-abstract/93/2-3/477/134631/vibrational-properties-of-alooh-under-pressure?redirectedFrom=fulltext
+
+- year: 2007
+  publications_this_year:
+
+  - title: First-principles prediction of crystal structures at high temperatures using the quasiharmonic approximation
+    yyyy-mm-dd: 23 August 2007
+    author: P. Carrier, R. M. Wentzcovitch, and J. Tsuchiya
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.76.064116
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.76.064116
+    more:
+      type: Erratum
+      yyyy-mm-dd: 5 November 2007
+      journal: PHYSICAL REVIEW B
+      doi: https://doi.org/10.1103/PhysRevB.76.189901
+      online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.76.189901
+
+  - title: "Vibrational and thermodynamic properties of wadsleyite: A density functional study"
+    yyyy-mm-dd: 08 December 2007
+    author: Z. Wu and R. M. Wentzcovitch
+    journal: "Journal of Geophysical Research: Solid Eart"
+    pdf_url:
+    doi: https://doi.org/10.1029/2007JB005036
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JB005036
+
+  - title: "Virtual laboratory for planetary materials: System service architecture overview"
+    yyyy-mm-dd: 15 August 2007
+    author: C. R. S. da Silva, P. R. C. da Silveira, B. B. Karki, R. M Wentzcovitch, P. A. Jensen, E. F. Bollig, M. Pierce, G. Erlebacher, D. A. Yuen
+    journal: Physics of the Earth and Planetary Interiors
+    pdf_url:
+    doi: https://doi.org/10.1016/j.pepi.2007.04.018
+    online_url: https://www.sciencedirect.com/science/article/pii/S0031920107000970?via%3Dihub
+
+  - title: Vibrational and thermodynamic properties of forsterite
+    yyyy-mm-dd:  09 May 2007
+    author: L. Li, R. M. Wentzcovitch, D. Weidner, C. R. S. da Silva
+    journal: "Journal of Geophysical Research: Solid Earth"
+    pdf_url:
+    doi: https://doi.org/10.1029/2006JB004546
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2006JB004546
+    more:
+      type: Correction
+      yyyy-mm-dd: 17 April 2008
+      journal: "Journal of Geophysical Research: Solid Earth"
+      doi: https://doi.org/10.1029/2007JB005532
+      online_url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2007JB005532
+
+  - title: First principles investigation of the postspinel transition in Mg<sub>2</sub>SiO<sub>4</sub>
+    yyyy-mm-dd: 24 May 2007
+    author: Y. Yu, R.M. Wentzcovitch, T. Tsuchiya, K. Umemoto
+    journal: Geophysical Research Letter
+    pdf_url:
+    doi: https://doi.org/10.1029/2007GL029462
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007GL029462
+
+  - title: Electronic spin transition of iron in Earth’s lower mantle
+    yyyy-mm-dd: 26 June 2007
+    author: J. F. Lin, S. Jacobsen, R. M. Wentzcovitch
+    journal: Eos, Transactions American Geophysical Union
+    pdf_url:
+    doi: https://doi.org/10.1029/2007EO020001
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2007EO020001
+
+  - title: Composition controlled spin polarization in Co<sub>1-x</sub>Fe<sub>x</sub>S<sub>2</sub> alloys
+    yyyy-mm-dd: 3 July 2007
+    author: C. Leighton, A. Cady, J.W. Freeland, M. Manno, L. Wang, K. Umemoto, R.M. Wentzcovitch, T.Y. Chen, C.L. Chien, P.L. Kuhns, M.J.R. Hoch, A.P. Reyes, W.G. Moulton, E.D. Dahlberg, J. Checkelsky, and J. Eckert
+    journal: "Journal of Physics: Condensed Matter"
+    pdf_url:
+    doi: https://doi.org/10.1088/0953-8984/19/31/315219
+    online_url: http://stacks.iop.org/0953-8984/19/i=31/a=315219?key=crossref.25ebcedcecf2b8642b8bda91700bd63f
+
+  - title: Thermodynamic Properties and Stability Field of MgSiO<sub>3</sub> Post‐Perovskite
+    yyyy-mm-dd: 01 January 2007
+    author: R. Wentzcovitch, T. Tsuchiya, J. Tsuchiya, K. Umemoto
+    journal: "Post‐Perovskite: The Last Mantle Phase Transition, Volume 174"
+    pdf_url:
+    doi: https://doi.org/10.1029/174GM08
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/174GM08
+
+  # - title: 
+  #   yyyy-mm-dd: 
+  #   author: 
+  #   journal: 
+  #   pdf_url:
+  #   doi: 
+  #   online_url: 
+
+  # - title: 
+  #   yyyy-mm-dd: 
+  #   author: 
+  #   journal: 
+  #   pdf_url:
+  #   doi: 
+  #   online_url: 
