@@ -13,37 +13,27 @@ function scrollFunction() {
         
         document.getElementById("header-nav").classList.remove("white");
         document.getElementById("header-nav").classList.add("black");
-
         document.getElementById("header-nav-bg").classList.remove("header-nav-space");
         document.getElementById("header-nav-bg").classList.add("header-nav-space-scrolled");
 
     } else {
-        
         document.getElementById("header-nav").classList.remove("black");
         document.getElementById("header-nav").classList.add("white");
 
         document.getElementById("header-nav-bg").classList.remove("header-nav-space-scrolled");
         document.getElementById("header-nav-bg").classList.add("header-nav-space");
-
-
     }
 
+    if (sidebar) {
     if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
-
-        if (sidebar) {
             sidebar.classList.add("sidebar-fixed");
-        }
     } else {
-
-        if (sidebar) {
             sidebar.classList.remove("sidebar-fixed");
-        }
-
+    }
     }
 
     if ((document.body.scrollTop > 1300 || document.documentElement.scrollTop > 1300)  ){
         $("#top-pointer").slideDown(600);
-
     }else{
         $("#top-pointer").slideUp(600);
         

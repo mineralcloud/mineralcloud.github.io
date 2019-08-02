@@ -814,7 +814,7 @@ samp {
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading {
-    padding: 150px 0;
+    padding: 88px 0;
   }
 }
 .intro-header .site-heading,
@@ -873,10 +873,10 @@ samp {
 }
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
-    font-size: 55px;
+    font-size: 40px;
   }
   .intro-header .post-heading .subheading {
-    font-size: 30px;
+    font-size: 25px;
   }
   .intro-header .post-heading .meta {
     font-size: 20px;
@@ -1076,7 +1076,7 @@ samp {
   background: none;
   outline: none;
 }
-.inp input:focus + span {
+.inp input:focus + span{
   color: #2C6BAC;
   transform: translateY(-26px) scale(0.75);
 }
