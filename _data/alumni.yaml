@@ -2,7 +2,7 @@
   list:
     - name: Wenhui Duan
       time: 1996-99
-      now: Currently Professor, Physics Department, Tsinghua University, Beijing. Just elected Fellow of Chinese Academy of Sciences (2016), China.
+      now: Professor, Physics Department, Tsinghua University, Beijing. Just elected Fellow of Chinese Academy of Sciences (2016), China.
       memo:
 
     - name: Cesar R. S. da Silva
@@ -108,6 +108,10 @@
       time: 09/2014-17
       now:  Post-doc in Materials Science.
 
+    - name: Michel Marcondes-Lacerda 
+      time: 05/2017-19
+      now:  Research Associate, Lamont-Doherty Earth Observatory.
+
 - position: Graduate students
   list:
     - name: Kendall Thomson
@@ -115,12 +119,12 @@
       now:  Associate Professor, Department of Chemical Engineering, Purdue University, West Lafayette, IN, USA.
 
     - name: Alexander Dobin
-      time: PhD, Physics, 1998-2001
-      now: Graduated under Randall Victora. Currently scientific staff member at Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA.
+      time: PhD, Physics, 1998-2001, Graduated under Randall Victora.
+      now:  scientific staff member at Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA.
 
     - name: Chris Perrey
-      time: PhD, Materials Science, 1999-2001
-      now:  Graduated under Barry Carter, Currently, Principal Engineer at Tennant Company, Minneapolis-St. Paul, MN, USA.
+      time: PhD, Materials Science, 1999-2001, Graduated under Barry Carter
+      now:  Principal Engineer at Tennant Company, Minneapolis-St. Paul, MN, USA.
 
     - name: Maribel Núnez-Valdéz
       time: PhD, Physics 2009-11
@@ -133,6 +137,36 @@
     - name: Gaurav Shukla
       time: PhD, Physics, 2011-15
       now:  post-doc in the Department of Earth, Ocean, and Environmental Sciences, Florida State University, Tallahassee, FL, USA.
+    
+    - name: Juan Valencia-Cardona
+      time: PhD, Scientific Computing Program, 2014-18
+      now:  Computer Aided Design Engineer, Intel, Seattle, WA.
+    
+    - name: Tian Qin 
+      time: PhD, Earth Sciences, 2014-19
+      now:  post-doc in Earth Sciences, U. of Minnesota.
+    
+    - name: Ziyu Cai 
+      time: MSc, Applied Physics and Applied Mathematics, Materials Science Program, 2018-19
+      now: Y&W Investment LLC, Hillsborough, CA.
+    
+    - name: Tianqi Wan 
+      time: MSc, Applied Physics and Applied Mathematics, Materials Science Program, 2018-19
+      now:  GRA at the Department of Materials Science, Stony Brook University.
+    
+    - name: Hongjin Wang 
+      time: 06/2018-
+      now:  GRA in the Department of Computer Science, Columbia University.
+    
+    - name: Jingyi Zhuang 
+      time: 06/2018-), (MSc, Applied Physics and Applied Mathematics, Materials Science Program, 2018-19
+      now:  GRA in the Department of Earth and Environmental Sciences, Columbia University.
+    
+    - name: Chenxing Luo 
+      time: 06/2018-), (MSc, Applied Physics and Applied Mathematics, Materials Science Program, 2018-19
+      now:  GRA in the Department of Applied Physics and Applied Mathematics, Columbia University.
+
+
 
 - position: Undergraduate students
   list:
