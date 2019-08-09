@@ -1271,6 +1271,139 @@
     doi: https://doi.org/10.1103/PhysRevLett.85.3728
     online_url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.85.3728
 
+
+- year: 1999
+  publications_this_year:
+
+  - title: Normal and inverse ringwoodite at high pressures
+    yyyy-mm-dd: 1999-03-01
+    author: B. Kiefer, L. P. Stixrude, and R. M. Wentzcovitch
+    journal: American Mineralogist
+    pdf_url:
+    doi:  https://doi.org/10.2138/am-1999-0311
+    online_url: https://www.degruyter.com/view/j/ammin.1999.84.issue-3/am-1999-0311/am-1999-0311.xml
+
+
+  - title: Ab initio study of the elastic behavior of MgSiO3 ilmenite at high pressure
+    yyyy-mm-dd: 01 April 1999
+    author: C. R. S. da Silva, B. B. Karki, L. Stixrude, and R. M. Wentzcovitch
+    journal: Geophysical Research Letters
+    pdf_url:
+    doi: https://doi.org/10.1029/1999GL900149
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999GL900149
+
+  - title: First-principles search for high-pressure phases of GaAsO<sub>4</sub>
+    yyyy-mm-dd: 1 August 1999
+    author: W. Duan, R. M. Wentzcovitch, and J. R. Chelikowsky
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.60.3751
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.60.3751
+
+
+  - title: High pressure elasticity of alumina studied by first principles
+    yyyy-mm-dd: 1999-12-01
+    author: W. Duan, B. B. Karki, and R. M. Wentzcovitch
+    journal: American Mineralogist
+    pdf_url:
+    doi: https://doi.org/10.2138/am-1999-11-1225
+    online_url: https://pubs.geoscienceworld.org/msa/ammin/article-abstract/84/11-12/1961/43639/high-pressure-elasticity-of-alumina-studied-by?redirectedFrom=fulltext
+
+  - title: First principles determination elastic anisotropy and wave velocities of MgO at lower mantle conditions
+    yyyy-mm-dd: 1999-11-26
+    author: B. B. Karki, R. M. Wentzcovitch. S. de Gironcoli, and S. Baroni
+    journal: Science
+    pdf_url:
+    doi: https://doi.org/10.1126/science.286.5445.1705
+    online_url: https://science.sciencemag.org/content/286/5445/1705
+    more:
+      type: Correction
+      yyyy-mm-dd: 2000-01-07
+      journal: Science
+      doi: https://doi.org/10.1126/science.287.5450.41f
+      online_url: https://science.sciencemag.org/content/287/5450/41.6
+
+- year: 1998
+  publications_this_year:
+
+  - title: New phase and pressure induced amorphization in silica
+    yyyy-mm-dd: 9 March 1998
+    author: R. M. Wentzcovitch, C. R. S. da Silva, J. R. Chelikowsky, and N. Binggeli
+    journal: PHYSICAL REVIEW LETTERS
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevLett.80.2149
+    online_url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.80.2149
+
+  - title: "First principles study of sodalite: a new view on an old system"
+    yyyy-mm-dd: 30 January 1998
+    author: K. T. Thomson, R. M. Wentzcovitch, A. McCormick, and H. T. Davis
+    journal: Chemical Physics Letters
+    pdf_url:
+    doi: https://doi.org/10.1016/S0009-2614(97)01342-0
+    online_url: https://www.sciencedirect.com/science/article/abs/pii/S0009261497013420
+
+
+  - title: High pressure elastic anisotropy of MgSiO<sub>3</sub>-perovskite and geophysical implications
+    yyyy-mm-dd: 15 December 1998
+    author: R. M. Wentzcovitch, B. B. Karki, S. I. Karato, and C. R. S. da Silva
+    journal: Earth and Planetary Science Letters
+    pdf_url:
+    doi: https://doi.org/10.1016/S0012-821X(98)00230-1
+    online_url: https://www.sciencedirect.com/science/article/pii/S0012821X98002301
+
+  - title: Optical transitions in ruby across the corundum to Rh<sub>2</sub>O<sub>3</sub> phase transformation
+    yyyy-mm-dd: 12 October 1998
+    author: W. Duan, G. Paiva, R. M. Wentzcovitch, and A. Fazzio
+    journal: PHYSICAL REVIEW LETTERS
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevLett.81.3267
+    online_url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.81.3267
+
+- year: 1997
+  publications_this_year:
+
+  - title: "Crystal chemistry of forsterite: a first principles study"
+    yyyy-mm-dd: 1997-07-01
+    author: R. M. Wentzcovitch and L. P. Stixrude
+    journal: American Mineralogist
+    pdf_url:
+    doi: https://doi.org/10.2138/am-1997-7-802
+    online_url: https://www.degruyter.com/view/j/ammin.1997.82.issue-7-8/am-1997-7-802/am-1997-7-802.xml
+
+  # - title: First principles investigation of the A7 to simple cubic transformation in As
+  #   yyyy-mm-dd: 
+  #   author: C. R. S. da Silva and R. M. Wentzcovitch
+  #   journal: 
+  #   pdf_url:
+  #   doi: 
+  #   online_url: https://www.sciencedirect.com/science/article/pii/S0927025697000050
+
+
+  # - title: 
+  #   yyyy-mm-dd: 
+  #   author: 
+  #   journal: 
+  #   pdf_url:
+  #   doi: 
+  #   online_url: 
+
+  # - title: 
+  #   yyyy-mm-dd: 
+  #   author: 
+  #   journal: 
+  #   pdf_url:
+  #   doi: 
+  #   online_url: 
+
+
+  # - title: 
+  #   yyyy-mm-dd: 
+  #   author: 
+  #   journal: 
+  #   pdf_url:
+  #   doi: 
+  #   online_url: 
+
   # - title: 
   #   yyyy-mm-dd: 
   #   author: 
