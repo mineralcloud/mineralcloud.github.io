@@ -1370,53 +1370,55 @@
     doi: https://doi.org/10.2138/am-1997-7-802
     online_url: https://www.degruyter.com/view/j/ammin.1997.82.issue-7-8/am-1997-7-802/am-1997-7-802.xml
 
-  # - title: First principles investigation of the A7 to simple cubic transformation in As
-  #   yyyy-mm-dd: 
-  #   author: C. R. S. da Silva and R. M. Wentzcovitch
-  #   journal: 
-  #   pdf_url:
-  #   doi: 
-  #   online_url: https://www.sciencedirect.com/science/article/pii/S0927025697000050
+  - title: First principles investigation of the A7 to simple cubic transformation in As
+    yyyy-mm-dd: 1997-07-01
+    author: C. R. S. da Silva and R. M. Wentzcovitch
+    journal: Computational Materials Science
+    pdf_url:
+    doi: https://doi.org/10.1016/S0927-0256(97)00005-0
+    online_url: https://www.sciencedirect.com/science/article/pii/S0927025697000050
 
 
-  # - title: 
-  #   yyyy-mm-dd: 
-  #   author: 
-  #   journal: 
-  #   pdf_url:
-  #   doi: 
-  #   online_url: 
+  - title: Elastic constants and anisotropy of forsterite at high pressure
+    yyyy-mm-dd: 01 August 1997
+    author: C. R. S. da Silva, L. P. Stixrude, and R. M. Wentzcovitch
+    journal: Geophysical Research Letters
+    pdf_url:
+    doi: https://doi.org/10.1029/97GL01756
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/97GL01756
 
-  # - title: 
-  #   yyyy-mm-dd: 
-  #   author: 
-  #   journal: 
-  #   pdf_url:
-  #   doi: 
-  #   online_url: 
+  - title: Elastic constants and anisotropy of Mg<sub>2</sub>SiO<sub>4</sub> spinal at high pressure
+    yyyy-mm-dd: 15 November 1997
+    author: B. Kiefer, L. Stixrude, and R. M. Wentzcovitch
+    journal: Geophysical Research Letters
+    pdf_url:
+    doi: https://doi.org/10.1029/97GL02975
+    online_url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/97GL02975
+
+- year: 1996
+  publications_this_year:
+
+  - title: High pressure studies of mantle minerals by _ab initio_ variable cell shape molecular dynamics
+    yyyy-mm-dd: 2016-05-05
+    author: R. M. Wentzcovitch and G. D. Price
+    journal: Molecular Engineering
+    pdf_url:
+    doi: https://doi.org/10.1007/0-306-46933-2_2
+    online_url: https://link.springer.com/chapter/10.1007/0-306-46933-2_2
+
+  - title: "Polymorphs of alumina predicted by first principles: putting pressure on the ruby pressure scale"
+    yyyy-mm-dd: 1996-12-13
+    author: K. Thomson, R. M. Wentzcovitch, and M. S. T. Bukowinski
+    journal: Science
+    pdf_url:
+    doi: https://doi.org/10.1126/science.274.5294.1880
+    online_url: https://science.sciencemag.org/content/274/5294/1880
 
 
-  # - title: 
-  #   yyyy-mm-dd: 
-  #   author: 
-  #   journal: 
-  #   pdf_url:
-  #   doi: 
-  #   online_url: 
-
-  # - title: 
-  #   yyyy-mm-dd: 
-  #   author: 
-  #   journal: 
-  #   pdf_url:
-  #   doi: 
-  #   online_url: 
-
-
-  # - title: 
-  #   yyyy-mm-dd: 
-  #   author: 
-  #   journal: 
-  #   pdf_url:
-  #   doi: 
-  #   online_url: 
+  - title: First principles study of titanium oxides
+    yyyy-mm-dd: 15 September 1996
+    author: C. Leung, M. Weinert, P. B Allen, and R. M. Wentzcovitch
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.54.7857
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.54.7857
