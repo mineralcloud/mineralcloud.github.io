@@ -143,23 +143,32 @@ header-img: static/img/header1.jpg
                     <li>{{item.year}} ({{item.publications_this_year.size}})</li>
                 </a>
                 {% else %}
+                    {% if y < 2000 %}
+                        {% if y == 1999 %}
+                            <a href="#{{item.year}}"  class="hidden">
+                            <li>{{item.year}} and more..</li>
+                        </a>
+                        {% else %}
+                        {% endif %}
 
-                    {% if y > 2009 %}
-                    <a href="#{{item.year}}"  class="show">
-                        <li>{{item.year}} ({{item.publications_this_year.size}})</li>
-                    </a>
                     {% else %}
-                        {% if y == 2009 %}
-                        <a href="javascript:publication_switch();"  class="show"><li><i class="fas fa-angle-right"></i> View Before 2010</li></a>
-                        <a href="#{{item.year}}" class="hidden">
+
+                        {% if y > 2009 %}
+                        <a href="#{{item.year}}"  class="show">
                             <li>{{item.year}} ({{item.publications_this_year.size}})</li>
                         </a>
-
                         {% else %}
-                            <a href="#{{item.year}}"  class="hidden">
+                            {% if y == 2009 %}
+                            <a href="javascript:publication_switch();"  class="show"><li><i class="fas fa-angle-right"></i> View Before 2010</li></a>
+                            <a href="#{{item.year}}" class="hidden">
                                 <li>{{item.year}} ({{item.publications_this_year.size}})</li>
                             </a>
 
+                            {% else %}
+                                <a href="#{{item.year}}"  class="hidden">
+                                    <li>{{item.year}} ({{item.publications_this_year.size}})</li>
+                                </a>
+                            {% endif %}
                         {% endif %}
                     {% endif %}
                 {% endif %}
