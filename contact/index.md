@@ -41,7 +41,7 @@ Thank you for your interest in our group!
 
 We are seeking to fill one postdoctoral position.
 
-Successful candidates will have the opportunity to lead exciting projects that integrate advanced first principles methods Nulla facilisi. Nulla ut orci at velit volutpat suscipit ut vel nulla. Cras non lectus ut eros sollicitudin ultricies eget et enim. Curabitur tempor, arcu eget mollis ultrices, sapien massa luctus nisi, vitae mattis leo purus nec tortor. Cras congue purus vitae ligula laoreet, a volutpat turpis viverra. Aliquam vehicula ac arcu nec ferment.
+Successful candidates will have the opportunity to lead exciting projects that integrate advanced first principles methods.
 
 The ideal candidate should demonstrate creativity, passion for scientific inquiry, and an ability to link fundamental science to real-world applications. The ideal candidate will also have:
 

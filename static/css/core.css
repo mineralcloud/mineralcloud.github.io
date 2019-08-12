@@ -27,7 +27,7 @@ hr:last-of-type{
     transparent
   );
   z-index:998;
-  height: 130px;
+  height: 100px;
   line-height: 60px;
   
   
@@ -560,11 +560,11 @@ h4 {
   font-size: 21px;
 }
 a {
-  color: #404040;
+  color: #2C6BAC;
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #6CADDF;
 }
 a img:hover,
 a img:focus {
