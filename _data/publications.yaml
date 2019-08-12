@@ -1422,3 +1422,121 @@
     pdf_url:
     doi: https://doi.org/10.1103/PhysRevB.54.7857
     online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.54.7857
+
+- year: 1995
+  publications_this_year:
+
+  - title: _Ab initio_ investigation of MgSiO<sub>3</sub> and CaSiO<sub>3</sub> perovskites at lower mantle pressures
+    yyyy-mm-dd: 1995-07-02
+    author: R. M. Wentzcovitch, N. Ross, and G. D. Price
+    journal: Physics of the Earth and Planetary Interiors
+    pdf_url:
+    doi: https://doi.org/10.1016/0031-9201(94)03001-Y
+    online_url: https://www.sciencedirect.com/science/article/pii/003192019403001Y
+
+  - title: _Ab initio_ study of MgSiO<sub>3</sub> C<sub>2</sub>/c enstatite
+    yyyy-mm-dd: 27 April 1995
+    author: R. M. Wentzcovitch, D. A. Hugh Jones, R. J. Angel, and G. D. Price
+    journal: Physics and Chemistry of Minerals
+    pdf_url:
+    doi: https://doi.org/10.1007/BF00200323
+    online_url: https://link.springer.com/article/10.1007/BF00200323
+
+
+  - title: First principles molecular dynamics with variable cell shape
+    yyyy-mm-dd: 1996-05-05
+    author: R. M. Wentzcovitch
+    journal: Quantum Theory of Real Materials, ed. by J. R. Chelikowsky and S. G. Louie, Kluwer Acad.
+    pdf_url:
+    doi: 
+    online_url: https://books.google.com/books?hl=zh-CN&lr=&id=o6dzc6hQ41EC&oi=fnd&pg=PA113&dq=First+principles+molecular+dynamics+with+variable+cell+shape&ots=IzNOAhB5pa&sig=42WI5C8D6Gp2BI8GmOLcpyJGbbo
+
+- year: 1994
+  publications_this_year:
+
+  - title: "VO<sub>2</sub>: Peierls or Mott Hubbard? A view from band theory"
+    yyyy-mm-dd: 23 May 1994
+    author: R. M. Wentzcovitch, W. Schulz, and P. B. Allen
+    journal: PHYSICAL REVIEW LETTERS
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevLett.72.3389
+    online_url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.72.3389
+
+  - title: Simulating the pressure induced amorphization in $\alpha$ quartz
+    yyyy-mm-dd:  1 April 1994
+    author: N. Binggeli, J. R. Chelikowsky, and R. M. Wentzcovitch
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.49.9336
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.49.9336
+
+
+  - title: Investigation of electronic distribution in hexagonal BN by Compton scattering
+    yyyy-mm-dd: 15 May 1994
+    author: G. Loupias, R. M. Wentzcovitch, L. Bellaiche, J. Muscovici, and S. Rabii
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.49.13342
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.49.13342
+
+  - title: The hcp to bcc pressure induced transition in Mg simulated by _ab initio_ molecular dynamics
+    yyyy-mm-dd:  1 October 1994
+    author: R. M. Wentzcovitch
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.50.10358
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.50.10358
+
+  - title: Stability of carbon nitride solids
+    yyyy-mm-dd: 1 October 1994
+    author: A. Y. Liu and R. M. Wentzcovitch
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.50.10362
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.50.10362 
+
+
+  - title: "Reply to T. M. Rice, H. Launois, and J. P. Pouget's comment on: VO<sub>2</sub>: Peierls or Mott Hubbard? A view from band theory"
+    yyyy-mm-dd: 28 November 1994
+    author: R. M. Wentzcovitch, W. Schulz, and P. B. Allen
+    journal: PHYSICAL REVIEW LETTERS
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevLett.73.3043
+    online_url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.73.3043
+
+
+- year: 1993
+  publications_this_year:
+
+  - title: Phase diagram and thermodynamic properties of solid magnesium in the quasi harmonic approximation
+    yyyy-mm-dd: 1 November 1993
+    author: J. D. Althof, P. B. Allen, R. M. Wentzcovitch, and J. A. Moriarty
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.48.13253
+    online_url: https://link.aps.org/doi/10.1103/PhysRevB.48.13253
+
+  - title: Resistivity of the high temperature phase of VO<sub>2</sub>
+    yyyy-mm-dd: 15 August 1993
+    author: P. B. Allen, R. M. Wentzcovitch, W. W. Schulz, and J. C. Canfield
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.48.4359
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.48.4359
+
+
+  - title: Electronic structure and bonding in Nb<sub>3</sub>O<sub>3</sub>
+    yyyy-mm-dd: 15 December 1993
+    author: W. W. Schulz and R. M. Wentzcovitch
+    journal: PHYSICAL REVIEW B
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevB.48.16986
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.48.16986
+
+  - title: "_Ab initio_ molecular dynamics with variable cell shape: application to MgSiO<sub>3</sub>"
+    yyyy-mm-dd: 21 June 1993
+    author: R. M. Wentzcovitch, J. L. Martins, and G. D. Price
+    journal: PHYSICAL REVIEW LETTERS
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevLett.70.3947
+    online_url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.70.3947
