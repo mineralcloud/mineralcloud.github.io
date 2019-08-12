@@ -11,10 +11,11 @@ header-img: static/img/header1.jpg
 
 #### November 30, 2018
 
+![](/img/events/18-11-30-Kanani.png)
 #### Speaker: [Kanani K. M. Lee](https://people.earth.yale.edu/profile/kanani-lee/about){:target="_blank"}
 Associate Professor of Geology and Geophysics, Yale University
 
 Here we show a redox-induced density contrast affects mantle
 convection and may potentially cause the oxidation of the upper mantle. 
 
-(View full abstract [{::nomarkdown}{{site.data.svgbase.jumpout}}{:/}here](https://www.ldeo.columbia.edu/sites/default/files/u45/Kanani%20Lee_0.pdf){:target="_blank"})
+(View full abstract [<i class="fas fa-link"></i> here](https://www.ldeo.columbia.edu/sites/default/files/u45/Kanani%20Lee_0.pdf){:target="_blank"})
