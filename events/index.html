@@ -18,6 +18,12 @@ header-img: static/img/header1.jpg
         </div>
         
         <div class="col-lg-8  col-md-8 col-sm-12 col-xs-12 post-container">
+            {% if post.portrait %}
+            <div class="col-lg-9  col-md-9 col-sm-9 col-xs-9 post-container">
+
+            {% else %}
+            <div>
+            {% endif %}
             <div class="event-post">
                 <a href="{{ post.url  }}">
                     <h2 class="post-title">
@@ -34,6 +40,15 @@ header-img: static/img/header1.jpg
                 </div>
 
             </div>
+
+            </div>
+
+            {% if post.portrait %}
+            <div class="col-lg-3  col-md-3 col-sm-3 col-xs-3 post-container event-portrait">
+                <img src="{{ site.baseurl }}/{{ post.portrait}}">
+            </div>
+            {% endif %}
+
         </div>
     </div>
 

@@ -806,7 +806,7 @@ samp {
   .intro-header .site-heading,
   .intro-header .post-heading,
   .intro-header .page-heading {
-    padding: 150px 0;
+    padding: 88px 0 60px 0;
   }
 }
 .intro-header .site-heading {
@@ -814,7 +814,7 @@ samp {
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading {
-    padding: 88px 0;
+    padding: 88px 0 60px 0;
   }
 }
 .intro-header .site-heading,
@@ -825,7 +825,7 @@ samp {
 .intro-header .site-heading h1,
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 50px;
+  font-size: 48px;
 }
 .intro-header .site-heading .subheading,
 .intro-header .page-heading .subheading {
@@ -1025,9 +1025,9 @@ samp {
 }
 .inp .label {
   position: absolute;
-  top: 18px;
+  top: 22px;
   left: 0;
-  font-size: 16px;
+  font-size: 12px;
   color: #9098a9;
   font-weight: 500;
   transform-origin: 0 0;
@@ -1263,6 +1263,9 @@ min-height:600px;
   padding-bottom: 0;
 }
 
+.event-portrait{
+  margin:20px 0 0 0;
+}
 .center-in{
   display:flex;
   align-items:center;
@@ -1486,6 +1489,12 @@ min-height:600px;
   overflow-y: hidden;
   transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1) 0.3s;
   color: #111;
+}
+.card .content h1,
+.card .content h2,
+.card .content h3,
+.card .content h4{
+  margin-top:0;
 }
 .card-bottom{
   position:absolute;  

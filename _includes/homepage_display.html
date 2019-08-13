@@ -6,12 +6,11 @@
     <center><h2>Latest News</h2></center>
     {% assign counter = 0 %}
     {% for post in site.posts %}
-        {% if post.categories.first != "research" %}
+        {% if post.categories.first != "research" and post.categories.first != "software"%}
         {% assign counter=counter | plus:1 %}
         {% if counter <= 3 %}
         <div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
             <a href="{{ post.url  }}">
-
                 <div class="flex">
                     <div class="card">
                         <div class="header" style="background-image:url('{{ post.header-img}}')">

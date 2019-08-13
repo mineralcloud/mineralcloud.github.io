@@ -4,6 +4,7 @@ title:  "Earth Science Colloquium: Kanani K. M. Lee"
 date:   2018-11-30 17:36:26
 categories: events
 logo: static/img/ppt.png
+portrait: img/events/18-11-30-Kanani.png
 header-img: static/img/header1.jpg
 ---
 
@@ -11,7 +12,6 @@ header-img: static/img/header1.jpg
 
 #### November 30, 2018
 
-![](/img/events/18-11-30-Kanani.png)
 #### Speaker: [Kanani K. M. Lee](https://people.earth.yale.edu/profile/kanani-lee/about){:target="_blank"}
 Associate Professor of Geology and Geophysics, Yale University
 
