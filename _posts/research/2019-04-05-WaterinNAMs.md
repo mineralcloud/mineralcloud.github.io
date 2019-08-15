@@ -6,7 +6,7 @@ categories: research
 header-img: img/research/waterinnam.jpg
 ---
 
-Need some descrption!
+![]({{ site.baseurl }}/img/research/mantle.gif){:height="100%" width="100%" }
 
 
 

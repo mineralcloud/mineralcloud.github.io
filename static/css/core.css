@@ -241,7 +241,7 @@ nav li {
   /* display: none; */
   position: absolute;
   background-color: #fff;
-  min-width: 160px;
+  min-width: 200px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 
@@ -255,8 +255,8 @@ nav li {
 }
 .dropdown-content a {
   color: black;
-  line-height:26px;
-  padding: 12px 16px;
+  line-height:20px;
+  padding: 8px 16px;
   text-decoration: none;
   display: block;
 }
@@ -911,6 +911,9 @@ samp {
   position: relative;
 }
 
+.post-min{
+  min-height: 320px;
+}
 
 /* home */
 .showcase{
@@ -1083,6 +1086,8 @@ samp {
 .inp input:focus + span + .border {
   transform: scaleX(1);
 }
+
+
 .publication{
 width:100%;
 margin:0px 0px;
@@ -1487,8 +1492,9 @@ min-height:600px;
   position: relative;
   background-color: #FFF;
   overflow-y: hidden;
-  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1) 0.3s;
   color: #111;
+}
+.card .content video{
 }
 .card .content h1,
 .card .content h2,
@@ -1499,6 +1505,9 @@ min-height:600px;
 .card-bottom{
   position:absolute;  
   bottom:45%;
+}
+.card-padding{
+  padding-top: 20px;
 }
 
 .page-fullscreen .intro-header {
