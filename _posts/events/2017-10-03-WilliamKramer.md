@@ -3,7 +3,7 @@ layout: post
 title:  "Data Science Institute Colloquium: Dr. William T.C. Kramer"
 date:   2017-10-03 17:36:26
 categories: events
-logo: static/img/conference.png
+logo: static/img/meeting.png
 header-img: img/events/18-10-03-billkramer.jpeg
 ---
 

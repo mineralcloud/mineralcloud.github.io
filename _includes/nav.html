@@ -22,7 +22,7 @@
                         <div class="dropdown-content">
                             <a href="/research">Overview</a>
                             {% for post in site.categories.research %}
-                            <a target="_blank" href="{% if post.link %}{{ post.link  }}{% else %}{{ post.url  }}{% endif %}">{{ post.title }}</a>
+                            <a href="{% if post.link %}{{ post.link  }}{% else %}{{ post.url  }}{% endif %}">{{ post.title }}</a>
                             {% endfor %}
                             
                             <a target="_blank" href="https://mineralscloud.github.io/src/index.html">Softwares</a>

@@ -1452,7 +1452,7 @@ min-height:600px;
 .card .header .title h1 {
   margin: 0px;
   font-size: 22px;
-  color: rgba(255, 255, 255);
+  color: #FFF;
 }
 .card .header .title h6 {
   font-size: 16px;
@@ -1465,6 +1465,9 @@ min-height:600px;
 .card .header .title h3 {
   color: #FFF;
   margin: 2;
+}
+.card .header a {
+  color: #FFF;
 }
 
 .card .header .black h1,

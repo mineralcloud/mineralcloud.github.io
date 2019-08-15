@@ -3,7 +3,7 @@ layout: post
 title:  "Earth Science Colloquium: Kanani K. M. Lee"
 date:   2018-11-30 17:36:26
 categories: events
-logo: static/img/ppt.png
+logo: static/img/meeting.png
 portrait: img/events/18-11-30-Kanani.png
 header-img: static/img/header1.jpg
 ---

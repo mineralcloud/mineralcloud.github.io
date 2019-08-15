@@ -3,7 +3,7 @@ layout: post
 title:  "Data Science Institute Colloquium: Dan Stanzione"
 date:   2018-11-27 17:36:26
 categories: events
-logo: static/img/conference.png
+logo: static/img/meeting.png
 header-img: img/events/18-11-27-DanStanzione.jpg
 ---
 
