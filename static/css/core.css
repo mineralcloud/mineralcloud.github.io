@@ -762,7 +762,16 @@ samp {
   background-size: cover;
   -o-background-size: cover;
   margin-bottom: 0px;
-  /* 0 on mobile, modify by Hux */
+}
+@media(max-width: 992px){
+  .intro-header{
+    background-attachment:scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+  }
 }
 
 .intro-header.style-text {
@@ -1268,8 +1277,10 @@ min-height:600px;
   padding-bottom: 0;
 }
 
-.event-portrait{
-  margin:20px 0 0 0;
+
+.event-portrait img{
+  width: 100%;
+  height: auto;
 }
 .center-in{
   display:flex;
@@ -1498,6 +1509,8 @@ min-height:600px;
   color: #111;
 }
 .card .content video{
+  transform: scale(0.33, 0.33);
+   transform: translate(-30px, -60px);
 }
 .card .content h1,
 .card .content h2,

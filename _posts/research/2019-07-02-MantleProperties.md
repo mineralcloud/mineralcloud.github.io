@@ -6,7 +6,7 @@ categories: research
 header-img: static/img/header2.png
 ---
 
-<video controls="controls" autoplay="autoplay" width="100%" muted="true">
+<video controls="controls" autoplay="autoplay" muted="true" loop>
   <source src="/img/research/mantle.mp4" type="video/mp4"  />
 Your browser does not support the video.
 </video>
