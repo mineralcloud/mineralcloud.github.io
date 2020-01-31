@@ -1,3 +1,13 @@
+- name: Yang Sun
+  position: Post-doc
+  since: 2019
+  portrait: img/people/YangSun.jpg
+  department: Department of Applied Physics & Applied Mathematics
+  email: yangsun017@gmail.com
+  description: 
+  socialmedia:
+    site: https://sites.google.com/view/y-sun
+
 - name: Kanchan Sarkar
   position: Post-doc
   since: 2017
@@ -34,7 +44,7 @@
 
 - name: Chenxin Luo
   position: Ph.D
-  since: 2018
+  since: 2019
   portrait: img/people/ChenxinLuo.jpg
   department: Department of Applied Physics & Applied Mathematics
   email: cl3658@columbia.edu
@@ -46,7 +56,7 @@
 
 - name: Jingyi Zhuang
   position: Ph.D
-  since: 2018
+  since: 2019
   portrait: img/people/JingyiZhuang.jpg
   department: Department of Earth & Environmental Sciences
   email: jz2907@columbia.edu
@@ -56,6 +66,16 @@
     linkedin: https://www.linkedin.com/in/jingyi-zhuang/
     site: https://www.jappoker.com/
 
+- name: Tianqi Wan
+  position: Ph.D
+  since: 2020
+  portrait: img/people/TianqiWan.png
+  department: Department of Applied Physics & Applied Mathematics
+  email: tw2619@columbia.edu
+  description: Previously Master student in Materials Science & Engineering (2017-2019)
+  # socialmedia:
+  #   github: https://github.com/chazeon
+    
 
 - name: Hongjin Wang
   position: M.Sc.
