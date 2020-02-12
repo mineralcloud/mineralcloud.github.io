@@ -6,30 +6,28 @@ header-img: static/img/header1.jpg
 ---
 
 <div class="container">
-    <div class="
-                    col-lg-8 col-lg-offset-2
-                    col-md-10 col-md-offset-1
-                    post-container">
+    <div class="post-container">
     <h3><a href="/people">People</a> <i class="fas fa-chevron-right"></i> <a href="/groupphoto">Group Photos</a></h3>
 {% for post in site.categories.group %}
+<div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
+    <a target="_blank" href="{% if post.link %}{{ post.link  }}{% else %}{{ post.url  }}{% endif %}">
 
-<div class="post-preview">
-    <center>
-        <a href="{{ post.url }}">
-            <h2 class="post-title">
-                {{ post.title }}
-            </h2>
-            {% if post.subtitle %}
-            <h3 class="post-subtitle">
-                {{ post.subtitle }}
-            </h3>
-            {% endif %}
-        </a>
-        <span class="meta post-time">on {{ post.date | date: "%B %-d, %Y" }}</span>
-    </center>
-        <div class="post-content-preview">
-            {{ post.content }}
+        <div class="flex">
+            <div class="card">
+                <div class="header" style="background-image:url('{{ site.baseurl }}/{{ post.header-img}}')">
+                    <div class="title {% if post.type %}{{post.type}}{% endif %}">
+                        <div>
+                            <h1>{{ post.title }}</h1>
+                            <h6><span>on </span>{{ post.date | date: "%B %-d, %Y" }}</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="content">
+                    {{ post.content }}
+                </div>
+            </div>
         </div>
+    </a>
 </div>
 <hr>
 {% endfor %}
