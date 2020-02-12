@@ -101,14 +101,14 @@
     linkedin: https://www.linkedin.com/in/yuanchengao/
     resume: 
 
-- name: Chenhui Yang
-  position: M.Sc.
-  since: 2019
-  portrait: img/people/ChenhuiYang.jpg
-  department: Department of Applied Physics & Applied Mathematics
-  email: cy2513@columbia.edu
-  description: 
-  socialmedia:
-    github: https://github.com/chenhuiyang1994
-    linkedin: https://cn.linkedin.com/in/yang-chenhui-aa584a180
-    resume: 
+# - name: Chenhui Yang
+#   position: M.Sc.
+#   since: 2019
+#   portrait: img/people/ChenhuiYang.jpg
+#   department: Department of Applied Physics & Applied Mathematics
+#   email: cy2513@columbia.edu
+#   description: 
+#   socialmedia:
+#     github: https://github.com/chenhuiyang1994
+#     linkedin: https://cn.linkedin.com/in/yang-chenhui-aa584a180
+#     resume: 
