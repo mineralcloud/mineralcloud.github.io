@@ -36,3 +36,5 @@ The resources of the site obeys the following order:
 _config.yaml
 index.md    # main index html page in markdown file
 ```
+
+Redirect to [http://wgroup.mineralscloud.com/](http://wgroup.mineralscloud.com/)
