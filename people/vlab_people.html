@@ -5,12 +5,11 @@ permalink: /people/vlab_people.html
 ---
 
 
-<div class="container">
+<div class="container" style="width:800px">
     <div class="people-case">
-        <h2>Wentzcovitch Group</h2>
+        <center><h4>Wentzcovitch Group</h4></center>
     </div>
 
-    <hr>
     <div class="people-case">
         <div class="row">
             <ul>
@@ -64,12 +63,11 @@ permalink: /people/vlab_people.html
     <div id="people-less" class="show">
         <div class="people-case">
             <div class="people-switch">
-                <h2>Fellows and Students
-                </h2>
+                <center><h4>Fellows and Students
+                </h4></center>
             </div>
         </div>
 
-        <hr>
         <div class="people-case ">
             <div class="row">
                 {% for people in site.data.people %}
@@ -81,10 +79,10 @@ permalink: /people/vlab_people.html
                                     src="{{ site.baseurl }}/{% if people.portrait %}{{ people.portrait}}{% else %}static/img/portrait_default.png{% endif %}">
                             </div>
                             <li class="people-name">
-                                <h4>{{people.name}}, {{people.position}}</h4>
+                                <h5>{{people.name}}, {{people.position}}</h5>
                             </li>
                             <li class="people-time">
-                                <h5>Since {{people.since}}</h4>
+                                <h5>Since {{people.since}}</h5>
                             </li>
                             <li class="people-department">{{people.department}}</li>
                         </center>
@@ -99,162 +97,47 @@ permalink: /people/vlab_people.html
 
     </div>
 
-    <div id="people-more" class="hidden">
-        <div class="people-case">
-            <div class="people-switch">
-                <h2>Fellows and Students <button onclick="peopleless()"><i class="fas fa-minus"></i> Compress</button>
-                </h2>
-            </div>
-        </div>
-
-        <hr>
-        {% for people in site.data.people %}
-        <div class="people-case ">
-            <div class="row">
-                <ul>
-                    <div class="col-lg-3 col-md-3  col-sm-8 col-xs-8">
-
-                        <li class="people-name">
-                            <h3>{{people.name}}, {{people.position}}</h3>
-                        </li>
-                        <li class="people-time">
-                            <h4>Since {{people.since}}</h4>
-                        </li>
-                        <li class="people-department">{{people.department}}</li>
-                        <li class="people-email"><a href="mailto:{{people.email}}">{{people.email}}</a></li>
-
-                    </div>
-                    <div class="col-lg-4 col-md-4  col-sm-4 col-xs-4">
-                        <center>
-                            <li>
-                                <div class="people-portrait-cropper"><img
-                                        src="{{ site.baseurl }}/{% if people.portrait %}{{ people.portrait}}{% else %}static/img/portrait_default.png{% endif %}">
-                                </div>
-                            </li>
-                        </center>
-                    </div>
-                    <div class="col-lg-5 col-md-5  col-sm-10 col-xs-10 sidebar-container">
-                        {{people.description}}
-
-                        {% if people.socialmedia %}
-                        <div class="people-socialmedia">
-                            <h5>Links:</h5>
-
-                            {% if people.socialmedia.googlescholar %}
-                            <a target="_blank" href={{people.socialmedia.googlescholar}}><img
-                                    src="{{ site.baseurl }}/static/img/scholar_logo_lg.gif" height=40px width=auto></a>
-                            {% endif %}
-
-                            {% if people.socialmedia.site %}
-                            <a target="_blank" href={{people.socialmedia.site}}>{{site.data.svgbase.site}}</a>
-                            {% endif %}
-
-                            {% if people.socialmedia.resume %}
-                            <a target="_blank" href={{people.socialmedia.resume}}>{{site.data.svgbase.resume}}</a>
-                            {% endif %}
-
-                            {% if people.socialmedia.github %}
-
-                            <a target="_blank" href={{people.socialmedia.github}}>{{site.data.svgbase.github}}</a>
-
-                            {% endif %}
-                            {% if people.socialmedia.linkedin %}
-
-                            <a target="_blank" href={{people.socialmedia.linkedin}}>{{site.data.svgbase.linkedin}}</a>
-
-                            {% endif %}
-                        </div>
-                        {% endif %}
-                    </div>
-                </ul>
-
-            </div>
-
-        </div>
-        <hr>
-        {% endfor %}
-    </div>
-</div>
-
-<div class="container">
+    
+    
+<hr>
     
     <div class="people-case">
-        <h2>Collaborators</h2>
+        <center><h4>Collaborators</h4></center>
     </div>
-    <hr>
-    {% for people in site.data.collaborators %}
+    
+
     <div class="people-case ">
+        {% for item in site.data.collaboratorsbeta %}
+        <center><h4>{{item.university}}</h4></center>
         <div class="row">
-            <ul>
-                <div class="col-lg-3 col-md-3  col-sm-8 col-xs-8">
-
-                    <li class="people-name">
-                        <h3>{{people.name}}</h3>
-                    </li>
-                    <li class="people-name">
-                        <h4>{{people.position}}</h4>
-                    </li>
-                    <li class="people-department">{{people.department}}</li>
-                    <li class="people-university">{{people.university}}</li>
-                    <li class="people-email">{{people.email}}</li>
-
-                </div>
-                <div class="col-lg-4 col-md-4  col-sm-4 col-xs-4">
+            {% for people in item.peoplehere %}
+            <div class="col-lg-4 col-md-4  col-sm-4 col-xs-6 people-mini people-mini-colaborator">
+                <ul>
                     <center>
-                        <li>
-                            <div class="people-portrait-cropper"><img
-                                    src="{{ site.baseurl }}/{% if people.portrait %}{{ people.portrait}}{% else %}static/img/portrait_default.png{% endif %}">
-                            </div>
+    
+                        <div class="people-portrait-cropper"><img
+                                src="{{ site.baseurl }}/{% if people.portrait %}{{ people.portrait}}{% else %}static/img/portrait_default.png{% endif %}">
+                        </div>
+                        <li class="people-name">
+                            <h5>{{people.name}}</h5>
                         </li>
+                        <li class="people-department">{{people.department}}</li>
+
                     </center>
-                </div>
-                <div class="col-lg-5 col-md-5  col-sm-10 col-xs-10 sidebar-container">
-                    {{people.description}}
-
-                    {% if people.socialmedia %}
-                    <div class="people-socialmedia">
-                        <h5>Links:</h5>
-
-                        {% if people.socialmedia.googlescholar %}
-                        <a target="_blank" href={{people.socialmedia.googlescholar}}><img
-                                src="{{ site.baseurl }}/static/img/scholar_logo_lg.gif" height=40px width=auto></a>
-                        {% endif %}
-
-                        {% if people.socialmedia.site %}
-                        <a target="_blank" href={{people.socialmedia.site}}>{{site.data.svgbase.site}}</a>
-                        {% endif %}
-
-                        {% if people.socialmedia.resume %}
-                        <a target="_blank" href={{people.socialmedia.resume}}>{{site.data.svgbase.resume}}</a>
-                        {% endif %}
-
-                        {% if people.socialmedia.github %}
-
-                        <a target="_blank" href={{people.socialmedia.github}}>{{site.data.svgbase.github}}</a>
-
-                        {% endif %}
-                        {% if people.socialmedia.linkedin %}
-
-                        <a target="_blank" href={{people.socialmedia.linkedin}}>{{site.data.svgbase.linkedin}}</a>
-
-                        {% endif %}
-                    </div>
-                    {% endif %}
-                </div>
-            </ul>
-
+                </ul>
+            </div>
+    
+            {% endfor %}
+    
         </div>
-
+        {% endfor %}
     </div>
+ 
     <hr>
-    {% endfor %}
-
     <div class="people-case">
         <h2>Institutes & Organizations</h2>
-        <hr>
         <p>We gratefully acknowledge support from the following institutes and organizations.</p>
-        <hr>
-    </div>
+       </div>
     
     
     <div class="row">

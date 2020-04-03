@@ -42,18 +42,6 @@
     linkedin: https://www.linkedin.com/in/qi-z-b9b1825a/
     resume: 
 
-- name: Chenxin Luo
-  position: Ph.D
-  since: 2019
-  portrait: img/people/ChenxinLuo.jpg
-  department: Department of Applied Physics & Applied Mathematics
-  email: cl3658@columbia.edu
-  description: Previously Master student in Materials Science & Engineering (2017-2019)
-  socialmedia:
-    github: https://github.com/chazeon
-    linkedin: https://www.linkedin.com/in/chenxing-luo/
-    site: https://chazeon.com/
-
 - name: Jingyi Zhuang
   position: Ph.D
   since: 2019
@@ -66,6 +54,19 @@
     linkedin: https://www.linkedin.com/in/jingyi-zhuang/
     site: https://www.jappoker.com/
 
+
+- name: Chenxin Luo
+  position: Ph.D
+  since: 2019
+  portrait: img/people/ChenxinLuo.jpg
+  department: Department of Applied Physics & Applied Mathematics
+  email: cl3658@columbia.edu
+  description: Previously Master student in Materials Science & Engineering (2017-2019)
+  socialmedia:
+    github: https://github.com/chazeon
+    linkedin: https://www.linkedin.com/in/chenxing-luo/
+    site: https://chazeon.com/
+
 - name: Tianqi Wan
   position: Ph.D
   since: 2020
@@ -77,17 +78,17 @@
   #   github: https://github.com/chazeon
     
 
-- name: Hongjin Wang
-  position: M.Sc.
-  since: 2018
-  portrait: img/people/HongjinWang.jpg
-  department: Department of Computer Science
-  email: hw2626@columbia.edu
-  description: Previously Master student in Materials Science & Engineering (2017-2019)
-  socialmedia:
-    github: https://github.com/underhill1886
-    linkedin: https://www.linkedin.com/in/hongjin-wang/
-    site: https://underhill1886.github.io/
+# - name: Hongjin Wang
+#   position: M.Sc.
+#   since: 2018
+#   portrait: img/people/HongjinWang.jpg
+#   department: Department of Computer Science
+#   email: hw2626@columbia.edu
+#   description: Previously Master student in Materials Science & Engineering (2017-2019)
+#   socialmedia:
+#     github: https://github.com/underhill1886
+#     linkedin: https://www.linkedin.com/in/hongjin-wang/
+#     site: https://underhill1886.github.io/
 
 - name: Yuanchen Gao
   position: M.Sc.
@@ -99,6 +100,18 @@
   socialmedia:
     github: 
     linkedin: https://www.linkedin.com/in/yuanchengao/
+    resume: 
+
+- name: Jiayang Wang
+  position: M.Sc.
+  since: 2019
+  portrait: 
+  department: Department of Applied Physics & Applied Mathematics
+  email: jw3699@columbia.edu
+  description: 
+  socialmedia:
+    github: 
+    linkedin: 
     resume: 
 
 # - name: Chenhui Yang

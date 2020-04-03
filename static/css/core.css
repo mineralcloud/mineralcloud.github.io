@@ -1305,16 +1305,19 @@ min-height:600px;
 }
 
 .people-portrait-cropper {
-    max-width: 200px;
+    width: 200px;
+    height:200px;
     height: auto;
     position: relative;
     overflow: hidden;
+    display: block;
 }
 .people-portrait-cropper img{
     display: block;
     margin: 0 auto;
     height: auto;
     width: 100%; 
+
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
@@ -1373,6 +1376,9 @@ min-height:600px;
 
 .people-mini{
   min-height:360px;
+}
+.people-mini-colaborator{
+  min-height:410px;
 }
 .people-switch button:hover svg g{
   fill: #337ab7;
