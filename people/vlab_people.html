@@ -7,7 +7,7 @@ permalink: /people/vlab_people.html
 
 <div class="container">
     <div class="people-case">
-        <h2>Group Leader</h2>
+        <h2>Wentzcovitch Group</h2>
     </div>
 
     <hr>
@@ -60,14 +60,11 @@ permalink: /people/vlab_people.html
         </div>
 
     </div>
-    <hr>
-
-
-
+  
     <div id="people-less" class="show">
         <div class="people-case">
             <div class="people-switch">
-                <h2>Fellows and Students <button onclick="peoplemore()"><i class="fas fa-plus"></i> Extend</button>
+                <h2>Fellows and Students
                 </h2>
             </div>
         </div>
@@ -177,6 +174,101 @@ permalink: /people/vlab_people.html
         <hr>
         {% endfor %}
     </div>
+</div>
 
+<div class="container">
+    
+    <div class="people-case">
+        <h2>Collaborators</h2>
+    </div>
+    <hr>
+    {% for people in site.data.collaborators %}
+    <div class="people-case ">
+        <div class="row">
+            <ul>
+                <div class="col-lg-3 col-md-3  col-sm-8 col-xs-8">
+
+                    <li class="people-name">
+                        <h3>{{people.name}}</h3>
+                    </li>
+                    <li class="people-name">
+                        <h4>{{people.position}}</h4>
+                    </li>
+                    <li class="people-department">{{people.department}}</li>
+                    <li class="people-university">{{people.university}}</li>
+                    <li class="people-email">{{people.email}}</li>
+
+                </div>
+                <div class="col-lg-4 col-md-4  col-sm-4 col-xs-4">
+                    <center>
+                        <li>
+                            <div class="people-portrait-cropper"><img
+                                    src="{{ site.baseurl }}/{% if people.portrait %}{{ people.portrait}}{% else %}static/img/portrait_default.png{% endif %}">
+                            </div>
+                        </li>
+                    </center>
+                </div>
+                <div class="col-lg-5 col-md-5  col-sm-10 col-xs-10 sidebar-container">
+                    {{people.description}}
+
+                    {% if people.socialmedia %}
+                    <div class="people-socialmedia">
+                        <h5>Links:</h5>
+
+                        {% if people.socialmedia.googlescholar %}
+                        <a target="_blank" href={{people.socialmedia.googlescholar}}><img
+                                src="{{ site.baseurl }}/static/img/scholar_logo_lg.gif" height=40px width=auto></a>
+                        {% endif %}
+
+                        {% if people.socialmedia.site %}
+                        <a target="_blank" href={{people.socialmedia.site}}>{{site.data.svgbase.site}}</a>
+                        {% endif %}
+
+                        {% if people.socialmedia.resume %}
+                        <a target="_blank" href={{people.socialmedia.resume}}>{{site.data.svgbase.resume}}</a>
+                        {% endif %}
+
+                        {% if people.socialmedia.github %}
+
+                        <a target="_blank" href={{people.socialmedia.github}}>{{site.data.svgbase.github}}</a>
+
+                        {% endif %}
+                        {% if people.socialmedia.linkedin %}
+
+                        <a target="_blank" href={{people.socialmedia.linkedin}}>{{site.data.svgbase.linkedin}}</a>
+
+                        {% endif %}
+                    </div>
+                    {% endif %}
+                </div>
+            </ul>
+
+        </div>
+
+    </div>
+    <hr>
+    {% endfor %}
+
+    <div class="people-case">
+        <h2>Institutes & Organizations</h2>
+        <hr>
+        <p>We gratefully acknowledge support from the following institutes and organizations.</p>
+        <hr>
+    </div>
+    
+    
+    <div class="row">
+        {% for org in site.data.organizations %}
+        <div class="col-lg-4 col-md-4  col-sm-6 col-xs-12">
+            <a target="_blank" href="{{org.url}}">
+                <center>
+                    <img src="{{ site.baseurl }}/{{org.logo}}" height="80px">
+                    <p>{{org.name}}</p>
+                </center>
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+    <hr>
 
 </div>
