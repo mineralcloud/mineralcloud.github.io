@@ -1310,9 +1310,29 @@ min-height:600px;
     height: auto;
     position: relative;
     overflow: hidden;
-    display: block;
+    /* display: block; */
 }
 .people-portrait-cropper img{
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    width: 100%; 
+
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;  
+}
+.people-portrait-cropper-mini {
+    width: 160px;
+    height:160px;
+    height: auto;
+    position: relative;
+    overflow: hidden;
+    display: block;
+}
+.people-portrait-cropper-mini img{
     display: block;
     margin: 0 auto;
     height: auto;
@@ -1377,8 +1397,11 @@ min-height:600px;
 .people-mini{
   min-height:360px;
 }
+.people-mini-vlab{
+  min-height:300px
+}
 .people-mini-colaborator{
-  min-height:410px;
+  min-height:280px;
 }
 .people-switch button:hover svg g{
   fill: #337ab7;

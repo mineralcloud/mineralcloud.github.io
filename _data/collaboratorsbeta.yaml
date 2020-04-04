@@ -1,10 +1,98 @@
 - university: Columbia University
   peoplehere:
   - name: David Yuen
-    portrait: img/collaborators/Yuen.png
+    portrait: 
     department: Department of Applied Physics and Applied Mathematics
     university: Columbia University
   
   - name: Pedro da Silveira
     portrait: img/collaborators/pedro.jpg
     department: Department of Applied Physics and Applied Mathematics
+
+  - name: Kui Ren
+    portrait: img/collaborators/kui-ren.jpg
+    department: Department of Applied Physics and Applied Mathematics
+
+  - name: Jacqueline Austermann
+    portrait: img/collaborators/Jacky.JPG
+    department: Department of Earth and Environmental Sciences
+
+  - name: Göran Ekström 
+    portrait: img/collaborators/ge.jpg
+    department: Department of Earth and Environmental Sciences
+
+- university: Ames Laboratory and Iowa State University
+  peoplehere:
+
+    - name: Kai Ming Ho
+      portrait: img/collaborators/Kai-Ming.png
+      department: Department of Physics & Astronomy 
+
+
+    - name: Cai-Zhuang Wang
+      portrait: img/collaborators/czwang2.png
+      department: Department of Physics & Astronomy 
+      university: Iowa State University and Division of Material Science and Engineering, Ames Laboratory
+
+- university: Princeton University
+  peoplehere:
+
+    - name: Joren Tromp
+      portrait: 
+      department:  
+  
+- university: Cornell University
+  peoplehere:
+
+    - name: Geoffrey Abers
+      portrait: img/collaborators/Geoffrey.png
+      department:  Department of Earth and Atmospheric Sciences
+    
+
+- university: Earth-Life Science Institute, Tokyo Institute of Technology
+  peoplehere:
+
+    - name: Kei Hirose
+      portrait: 
+      department:  
+
+    - name: Koichiro Umemoto
+      portrait: 
+      department: 
+
+    - name: Christine Houser-Hernlund
+      portrait: 
+      department: 
+
+    - name: John Hernlund
+      portrait: 
+      department: 
+
+    - name: Kenji Ohta
+      portrait: 
+      department: 
+
+
+- university: Beijing Computational Science Research Center
+  peoplehere:
+
+    - name: Dong-Bo Zhang
+      portrait: 
+      department:  
+
+
+- university: University of the Chinese Academy of Sciences
+  peoplehere:
+
+    - name: Tao Sun
+      portrait: 
+      department:  
+
+
+- university: University of Science and Technology of China, Hefei
+  peoplehere:
+
+    - name: Zhongqing Wu
+      portrait: 
+      department:  
+

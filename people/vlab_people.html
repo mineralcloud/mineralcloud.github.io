@@ -5,7 +5,7 @@ permalink: /people/vlab_people.html
 ---
 
 
-<div class="container" style="width:800px">
+<div class="container" style="width:700px">
     <div class="people-case">
         <center><h4>Wentzcovitch Group</h4></center>
     </div>
@@ -13,7 +13,7 @@ permalink: /people/vlab_people.html
     <div class="people-case">
         <div class="row">
             <ul>
-                <div class="col-lg-3 col-md-3  col-sm-8 col-xs-8">
+                <div class="col-lg-6 col-md-6  col-sm-8 col-xs-8">
                     <li class="people-name">
                         <h3>{{site.data.rw.name}}</h3>
                     </li>
@@ -23,38 +23,17 @@ permalink: /people/vlab_people.html
                     <li class="people-jobtitle">{{site.data.rw.department}}</li>
                     <li class="people-email"><a href="maito:{{site.data.rw.email}}">{{site.data.rw.email}}</a></li>
                 </div>
-                <div class="col-lg-4 col-md-4  col-sm-4 col-xs-4">
-                    <center>
+                <div class="col-lg-6 col-md-6  col-sm-4 col-xs-4">
+      
                         <li>
                             <div class="people-portrait-cropper"><img
                                     src="{{ site.baseurl }}/{% if site.data.rw.portrait %}{{ site.data.rw.portrait}}{% else %}static/img/portrait_default.png{% endif %}">
                             </div>
                         </li>
-                    </center>
+             
                 </div>
-                <div class="col-lg-5 col-md-5  col-sm-10 col-xs-10 sidebar-container">
-                    <li class="people-description">{{site.data.rw.description}}</li>
-                    {% if site.data.rw.socialmedia %}
-                    <div class="people-socialmedia">
-                        <h5>Links:</h5>
-
-                        {% if site.data.rw.socialmedia.googlescholar %}
-                        <a target="_blank" href={{rw.socialmedia.googlescholar}}><img
-                                src="{{ site.baseurl }}/static/img/scholar_logo_lg.gif" height=40px width=auto></a>
-                        {% endif %}
-
-                        {% if site.data.rw.socialmedia.site %}
-                        <a target="_blank" href={{site.data.rw.socialmedia.site}}>{{site.data.svgbase.site}}</a>
-                        {% endif %}
-
-                        {% if site.data.rw.socialmedia.resume %}
-                        <a target="_blank" href={{site.data.rw.socialmedia.resume}}>{{site.data.svgbase.resume}}</a>
-                        {% endif %}
-
-
-                    </div>
-                    {% endif %}
-                </div>
+                
+               
             </ul>
         </div>
 
@@ -71,11 +50,11 @@ permalink: /people/vlab_people.html
         <div class="people-case ">
             <div class="row">
                 {% for people in site.data.people %}
-                <div class="col-lg-4 col-md-4  col-sm-4 col-xs-6 people-mini">
+                <div class="col-lg-4 col-md-4  col-sm-4 col-xs-6 people-mini-vlab">
                     <ul>
                         <center>
 
-                            <div class="people-portrait-cropper"><img
+                            <div class="people-portrait-cropper-mini"><img
                                     src="{{ site.baseurl }}/{% if people.portrait %}{{ people.portrait}}{% else %}static/img/portrait_default.png{% endif %}">
                             </div>
                             <li class="people-name">
@@ -115,7 +94,7 @@ permalink: /people/vlab_people.html
                 <ul>
                     <center>
     
-                        <div class="people-portrait-cropper"><img
+                        <div class="people-portrait-cropper-mini"><img
                                 src="{{ site.baseurl }}/{% if people.portrait %}{{ people.portrait}}{% else %}static/img/portrait_default.png{% endif %}">
                         </div>
                         <li class="people-name">
