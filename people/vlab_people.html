@@ -58,10 +58,13 @@ permalink: /people/vlab_people.html
                                     src="{{ site.baseurl }}/{% if people.portrait %}{{ people.portrait}}{% else %}static/img/portrait_default.png{% endif %}">
                             </div>
                             <li class="people-name">
-                                <h5>{{people.name}}, {{people.position}}</h5>
+                                <h5>{{people.name}}</h5>
+                            </li>
+                            <li>
+                                <h5>{{people.position}}</h5>
                             </li>
                             <li class="people-time">
-                                <h5>Since {{people.since}}</h5>
+                                <!-- <h5>Since {{people.since}}</h5> -->
                             </li>
                             <li class="people-department">{{people.department}}</li>
                         </center>
