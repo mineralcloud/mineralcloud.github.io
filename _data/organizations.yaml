@@ -14,10 +14,10 @@
   url: https://www.xsede.org
   description:
 
-- name: Blue Waters
-  logo: static/img/blue_waters_logo.png
-  url: https://bluewaters.ncsa.illinois.edu
-  description:
+# - name: Blue Waters
+#   logo: static/img/blue_waters_logo.png
+#   url: https://bluewaters.ncsa.illinois.edu
+#   description:
 
 
 - name: Ork Ride National Laboatory
