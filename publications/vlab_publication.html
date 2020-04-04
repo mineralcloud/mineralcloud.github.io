@@ -6,7 +6,7 @@ description: "Publications in Wentzcovitch Group"
 header-img: static/img/header1.jpg
 ---
 
-<div style="width:560px">
+<div style="width:540px">
 
     <div class="col-lg-12 col-md-12  col-sm-12 col-xs-12 ">
 
@@ -38,19 +38,16 @@ header-img: static/img/header1.jpg
 
 
                 {% for publication in item.publications_this_year %}
-                <ul class="publication-year publication-paper-vlab row">
- 
+                <ul class="publication-year row publication-paper-vlab" >
                             <span>{{publication.author}}</span>,
                             <b><span>{{publication.title}}</span></b>
                             {% if publication.publish %}
-                            <span class="publication-journal">{{publication.publish}}</span>
+                            <span class="publication-journal">, {{publication.publish}}</span>
                             {% endif %}
                         {% if publication.journal %}
                             <span class="publication-journal">{{publication.journal}}</span>
                         {% endif %}
                         (<span>{{publication.yyyy-mm-dd|date:"%Y"}}</span>)
-
-
                             {% if publication.online_url %}<span><a
                                     href="{{publication.online_url}}" target="_blank">
                                     <i class="fas fa-link"></i>
