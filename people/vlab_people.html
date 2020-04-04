@@ -13,7 +13,7 @@ permalink: /people/vlab_people.html
     <div class="people-case">
         <div class="row">
             <ul>
-                <div class="col-lg-6 col-md-6  col-sm-8 col-xs-8">
+                <div class="col-lg-6 col-md-6  col-sm-6 col-xs-6">
                     <li class="people-name">
                         <h3>{{site.data.rw.name}}</h3>
                     </li>
@@ -23,7 +23,7 @@ permalink: /people/vlab_people.html
                     <li class="people-jobtitle">{{site.data.rw.department}}</li>
                     <li class="people-email"><a href="maito:{{site.data.rw.email}}">{{site.data.rw.email}}</a></li>
                 </div>
-                <div class="col-lg-6 col-md-6  col-sm-4 col-xs-4">
+                <div class="col-lg-6 col-md-6  col-sm-6 col-xs-6">
       
                         <li>
                             <div class="people-portrait-cropper"><img
@@ -50,7 +50,7 @@ permalink: /people/vlab_people.html
         <div class="people-case ">
             <div class="row">
                 {% for people in site.data.people %}
-                <div class="col-lg-4 col-md-4  col-sm-4 col-xs-6 people-mini-vlab">
+                <div class="col-lg-4 col-md-4  col-sm-4 col-xs-4 people-mini-vlab">
                     <ul>
                         <center>
 
@@ -90,7 +90,7 @@ permalink: /people/vlab_people.html
         <center><h4>{{item.university}}</h4></center>
         <div class="row">
             {% for people in item.peoplehere %}
-            <div class="col-lg-4 col-md-4  col-sm-4 col-xs-6 people-mini people-mini-colaborator">
+            <div class="col-lg-4 col-md-4  col-sm-4 col-xs-4 people-mini people-mini-colaborator">
                 <ul>
                     <center>
     
@@ -121,7 +121,7 @@ permalink: /people/vlab_people.html
     
     <div class="row">
         {% for org in site.data.organizations %}
-        <div class="col-lg-4 col-md-4  col-sm-6 col-xs-12">
+        <div class="col-lg-4 col-md-4  col-sm-6 col-xs-6">
             <a target="_blank" href="{{org.url}}">
                 <center>
                     <img src="{{ site.baseurl }}/{{org.logo}}" height="80px">
