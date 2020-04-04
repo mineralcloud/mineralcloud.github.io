@@ -6,29 +6,18 @@ description: "Publications in Wentzcovitch Group"
 header-img: static/img/header1.jpg
 ---
 
-<div class="container" style="width:560px">
+<div style="width:560px">
 
-    <div class="col-lg-10 col-md-10  col-sm-12 col-xs-12  post-container">
-        <div class="search-pub">
-            <center> Search
-                <label for="inp" class="inp">
-                    <input id="search-pub" name="search-pub" onkeyup="publication_filter()" type="text"
-                        placeholder="&nbsp;">
-                    <span class="label noselect">keywords, authors, year...</span>
-                    <span class="border"></span>
-                </label>
-                in publications
-            </center>
-        </div>
+    <div class="col-lg-12 col-md-12  col-sm-12 col-xs-12 ">
+
         <div class="publication" id="publication">
             {% for item in site.data.publications %}
             <div class="publication-year">
                 <div id="{{item.year}}" class="publication-year-item">
                     <div class="pub-tab"></div>
-                    <h2>
+                    <h4>
                         <span>{{item.year}}</span>
                         <span style="float: right">
-
 
                             {% assign n = item.publications_this_year.size%}
                             {% assign type = item.year%}
@@ -44,86 +33,51 @@ header-img: static/img/header1.jpg
                             {% endif %}
 
                         </span>
-                    </h2>
-
-
+                    </h4>
                 </div>
-                <hr>
+
 
                 {% for publication in item.publications_this_year %}
-                <ul class="publication-paper row">
-                    <hr>
-                    <div class="col-lg-8 col-md-8  col-sm-12 col-xs-12">
-                        <li>
-                            <div class="publication-title">
-                                <h5><span>{{publication.title|markdownify}}</span></h5>
-                            </div>
-                        </li>
-                        {% if publication.publish %}
-                        <li>
+                <ul class="publication-year publication-paper-vlab row">
+ 
+                            <span>{{publication.author}}</span>,
+                            <b><span>{{publication.title}}</span></b>
+                            {% if publication.publish %}
                             <span class="publication-journal">{{publication.publish}}</span>
-                        </li>
-                        {% endif %}
-                        <li><span class="publication-author">{{publication.author}}</span></li>
-                    </div>
-                    <div class="col-lg-4 col-md-4  col-sm-12 col-xs-12">
-                        <li>
-                            <span class="publication-journal-year">{{publication.yyyy-mm-dd|date:"%B, %Y"}}</span>
-                        </li>
+                            {% endif %}
                         {% if publication.journal %}
-                        <li>
                             <span class="publication-journal">{{publication.journal}}</span>
-                        </li>
                         {% endif %}
+                        (<span>{{publication.yyyy-mm-dd|date:"%Y"}}</span>)
 
-                        <li>
-                            {% if publication.online_url %}<span class="publication-url"><a
+
+                            {% if publication.online_url %}<span><a
                                     href="{{publication.online_url}}" target="_blank">
                                     <i class="fas fa-link"></i>
-                                    View Online</a></span>
+                                    online</a></span>
                             {% endif %}
-                        </li>
-                    </div>
+                    <br>
 
                     {% if publication.more %}
-                    <br>
-                    <div class="col-lg-8 col-md-8  col-sm-12 col-xs-12">
-                        <li>
-                            <div class="publication-title">
-                                <h5><span><span class="red"><i class="fas fa-exclamation-circle"></i>
-                                            {{publication.more.type}}:</span> {{publication.title|markdownify}}</span>
-                                </h5>
-                            </div>
-                        </li>
-                        {% if publication.more.publish %}
-                        <li>
-                            <span class="publication-journal">{{publication.more.publish}}</span>
-                        </li>
+                    <b><span><span class="red"><i class="fas fa-exclamation-circle"></i> {{publication.more.type}}:</span>
+                            {{publication.title}}</span></b>,
+                        <span>{{publication.author}}</span>,
+                        {% if publication.publish %}
+                        <span class="publication-journal">{{publication.more.publish}}</span>
                         {% endif %}
-                        <li><span class="publication-author">{{publication.author}}</span></li>
-
-                    </div>
-                    <div class="col-lg-4 col-md-4  col-sm-12 col-xs-12">
-                        <li>
-                            <span class="publication-journal-year">{{publication.more.yyyy-mm-dd|date:"%B, %Y"}}</span>
-                        </li>
-                        {% if publication.more.journal %}
-                        <li>
-                            <span class="publication-journal">{{publication.more.journal}}</span>
-                        </li>
+                        {% if publication.journal %}
+                        <span class="publication-journal">{{publication.more.journal}}</span>
                         {% endif %}
+                        (<span>{{publication.more.yyyy-mm-dd|date:"%Y"}}</span>)
 
-                        <li>
-                            {% if publication.more.online_url %}<span class="publication-url"><a
-                                    href="{{publication.online_url}}" target="_blank">
-                                    <i class="fas fa-link"></i>
-                                    View Online</a></span>
-                            {% endif %}
-                        </li>
-                    </div>
 
+                        {% if publication.more.online_url %}<span><a href="{{publication.online_url}}" target="_blank">
+                                <i class="fas fa-link"></i>
+                                online</a></span>
+                        {% endif %}
+                        <br>
                     {% endif %}
-                    <hr>
+                    
                 </ul>
 
 
@@ -133,60 +87,6 @@ header-img: static/img/header1.jpg
 
         </div>
 
-    </div>
-
-    <div class="col-lg-2  col-md-2  col-sm-12 col-xs-12">
-        <div class="sidebar-container" id="sidebar" style="min-width:200px;">
-            <div class="publication-year-list">
-
-                <ul>
-                    <h4>Year Archive</h4>
-                    {% for item in site.data.publications %}
-                    {% assign y = item.year %}
-
-                    {% if y contains "e" %}
-                    <a href="#{{item.year}}" class="show">
-                        <li>{{item.year}} ({{item.publications_this_year.size}})</li>
-                    </a>
-                    {% else %}
-                    {% if y < 2000 %}
-                    {% if y == 1999 %}
-                    <a href="#{{item.year}}" class="hidden">
-                        <li>{{item.year}} and more..</li>
-                    </a>
-                    {% else %}
-                    {% endif %}
-
-                    {% else %}
-
-                    {% if y > 2009 %}
-                    <a href="#{{item.year}}" class="show">
-                        <li>{{item.year}} ({{item.publications_this_year.size}})</li>
-                    </a>
-                    {% else %}
-                    {% if y == 2009 %}
-                    <a href="javascript:publication_switch();" class="show">
-                        <li><i class="fas fa-angle-right"></i> View Before 2010</li>
-                    </a>
-                    <a href="#{{item.year}}" class="hidden">
-                        <li>{{item.year}} ({{item.publications_this_year.size}})</li>
-                    </a>
-
-                    {% else %}
-                    <a href="#{{item.year}}" class="hidden">
-                        <li>{{item.year}} ({{item.publications_this_year.size}})</li>
-                    </a>
-                    {% endif %}
-                    {% endif %}
-                    {% endif %}
-                    {% endif %}
-                    {% endfor %}
-                    <a href="javascript:publication_switch();" class="hidden">
-                        <li><i class="fas fa-angle-right"></i> View Recent</li>
-                    </a>
-                </ul>
-            </div>
-        </div>
     </div>
 
 </div>

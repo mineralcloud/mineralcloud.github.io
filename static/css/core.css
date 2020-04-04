@@ -1141,6 +1141,10 @@ min-height:600px;
   display: inline-block;
 }
 
+.publication-paper-vlab{
+  margin:0 0 0 0;
+  margin-bottom:15px;
+}
 
 .publication-paper{
   margin:0px 0px;
