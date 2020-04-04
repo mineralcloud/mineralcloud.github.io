@@ -1343,8 +1343,8 @@ min-height:600px;
     border-radius: 50%;  
 }
 .people-portrait-cropper-mini {
-    width: 160px;
-    height:160px;
+    width: 150px;
+    height:150px;
     height: auto;
     position: relative;
     overflow: hidden;
