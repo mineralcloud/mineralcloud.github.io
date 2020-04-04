@@ -37,9 +37,9 @@
 - university: Princeton University
   peoplehere:
 
-    - name: Joren Tromp
-      portrait: 
-      department:  
+    - name: Jeroen Tromp
+      portrait: img/collaborators/Tromp.png
+      department:  Department of Geosciences
   
 - university: Cornell University
   peoplehere:
@@ -53,32 +53,32 @@
   peoplehere:
 
     - name: Kei Hirose
-      portrait: 
-      department:  
+      portrait: img/collaborators/KHirose.jpg
+      department:  Department of Earth and Planetary Sciences, School of Science
 
     - name: Koichiro Umemoto
-      portrait: 
-      department: 
+      portrait: img/collaborators/KUmemoto.jpg
+      department: Department of Earth and Planetary Sciences, School of Science
 
     - name: Christine Houser-Hernlund
-      portrait: 
-      department: 
+      portrait: img/collaborators/Christine.jpg
+      department: Department of Earth and Planetary Sciences, School of Science
 
     - name: John Hernlund
-      portrait: 
-      department: 
+      portrait: img/collaborators/JHernlund.jpg
+      department: Department of Earth and Planetary Sciences, School of Science
 
     - name: Kenji Ohta
-      portrait: 
-      department: 
+      portrait: img/collaborators/Kenji.png
+      department: Department of Earth and Planetary Sciences, School of Science
 
 
 - university: Beijing Computational Science Research Center
   peoplehere:
 
     - name: Dong-Bo Zhang
-      portrait: 
-      department:  
+      portrait: img/collaborators/DBZhang.png
+      department:  Condensed Matter Physics
 
 
 - university: University of the Chinese Academy of Sciences
@@ -93,6 +93,6 @@
   peoplehere:
 
     - name: Zhongqing Wu
-      portrait: 
-      department:  
+      portrait: img/collaborators/ZQWu.jpg
+      department:  School of Earth and Space Sciences
 
