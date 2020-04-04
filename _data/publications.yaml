@@ -3,7 +3,8 @@
   - title: "Emergent Views of Earth’s Interior"
     yyyy-mm-dd: 2020-10-10
     author:	R. M. Wentzcovitch, K. Hirose, P. Tackley, and J. Tromp
-    publish: AGU Geophysical Monograph Series, contract signed and volume in preparation
+    publish: AGU Geophysical Monograph Series
+    prep: in preparation
     pdf_url:
     doi: 
     online_url: 
@@ -37,7 +38,8 @@
   - title: "Effect of valence, spin state, and site on the iron isotope ratio in bridgmanite"
     yyyy-mm-dd: 2020-12-12
     author: ​T. Qin, M. Marcondes, R. M. Wentzcovitch, G. Shukla
-    journal: in preparation
+    journal: 
+    prep: in preparation
     pdf_url:
     doi: 
     online_url:
@@ -45,7 +47,8 @@
   - title: "Thermodynamic properties of hcp-iron with T-dependent phonons"
     yyyy-mm-dd: 2020-12-12
     author: ​J. Zhuang, H. Wang, Q. Zhang, R. M. Wentzcovitch
-    journal: in preparation
+    journal: 
+    prep: in preparation
     pdf_url:
     doi: 
     online_url:
@@ -53,7 +56,8 @@
   - title: "Thermal conductivity of cubic CaSiO<sub>3</sub>–perovskite at lower mantle conditions"
     yyyy-mm-dd: 2020-12-12
     author: ​Z. Zheng, K. Onga, D.-B. Zhang, K. Ohta, K. Hirose, R. M. Wentzcovitch
-    journal: in preparation
+    journal: 
+    prep: in preparation
     pdf_url:
     doi: 
     online_url:
@@ -61,7 +65,8 @@
   - title: "Thermodynamic and thermoelastic properties of the NAL phase"
     yyyy-mm-dd: 2020-12-12
     author: ​M. Marcondes, C. Yao, Z. Wu, and R. M. Wentzcovitch
-    journal: in preparation
+    journal: 
+    prep: in preparation
     pdf_url:
     doi: 
     online_url:
@@ -100,7 +105,7 @@
     doi: 
     online_url: https://arxiv.org/abs/2003.12348
 
-  - title: "Phase stability of FeO polytypes from self-consistent LDA+U<sub>SC</sub> calculations,"
+  - title: "Phase stability of FeO polytypes from self-consistent LDA+U<sub>SC</sub> calculations"
     yyyy-mm-dd: 2020-05-05
     author: ​Y. Sun, M. Cococcioni, and Wentzcovitch
     journal: Phys. Rev. B

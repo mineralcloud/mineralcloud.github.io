@@ -24,18 +24,17 @@ header-img: static/img/header1.jpg
                 {% for publication in item.publications_this_year %}
                 <ul class="publication-year row publication-paper-vlab" >
                             <span>{{publication.author}}</span>,
-                            <b><span>{{publication.title}}</span></b>
-                            {% if publication.publish %}
-                            <span class="publication-journal">, {{publication.publish}}</span>
-                            {% endif %}
-                        {% if publication.journal %}
-                            <span class="publication-journal">, {{publication.journal}}</span>
+                            <span style="font-weight: bold;">{{publication.title}}</span>
+                                {% if publication.publish %}<span class="publication-journal">, {{publication.publish}}</span>
+                                {% endif %}
+                                {% if publication.journal %}<span class="publication-journal">, {{publication.journal}}</span>
+                                {% endif %}
+                                {% if publication.prep %}<span>, {{publication.prep}}</span>
                         {% endif %}
                         (<span>{{publication.yyyy-mm-dd|date:"%Y"}}</span>)
                             {% if publication.online_url %}<span><a
                                     href="{{publication.online_url}}" target="_blank">
-                                    <i class="fas fa-link"></i>
-                                    online</a></span>
+                                    <i class="fas fa-link"></i>online</a></span>
                             {% endif %}
                     <br>
 
