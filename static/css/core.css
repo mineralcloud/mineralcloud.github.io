@@ -1304,6 +1304,20 @@ min-height:600px;
   padding-left:0;
 }
 
+.people-case-none{
+  width:100%;
+  display:inline-block;
+  margin:1px 1px 1px 1px;
+}
+.people-case-none ul{
+  margin:0 0 0 0;
+  padding-left:0;
+}
+.people-case-none li{
+  list-style-type: none;
+  margin-bottom:5px;
+  padding-left:0;
+}
 .people-portrait-cropper {
     width: 200px;
     height:200px;
