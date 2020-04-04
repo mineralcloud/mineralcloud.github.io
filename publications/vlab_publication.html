@@ -45,7 +45,7 @@ header-img: static/img/header1.jpg
                             <span class="publication-journal">, {{publication.publish}}</span>
                             {% endif %}
                         {% if publication.journal %}
-                            <span class="publication-journal">{{publication.journal}}</span>
+                            <span class="publication-journal">, {{publication.journal}}</span>
                         {% endif %}
                         (<span>{{publication.yyyy-mm-dd|date:"%Y"}}</span>)
                             {% if publication.online_url %}<span><a

@@ -24,8 +24,27 @@
     doi: 
     online_url: 
 
+
+- year: 2020
+  publications_this_year:
+  - title: "Velocity and density characteristics of subducted oceanic crust and the origin of lower-mantle heterogeneities"
+    yyyy-mm-dd: 2020-01-07
+    author: ​W. Wang, Y. Xu, D. Sun, S. Ni, R. M. Wentzcovitch, and Z. Wu
+    journal: Nature Communication
+    pdf_url:
+    doi: https://doi.org/10.1038/s41467-019-13720-2 
+    online_url: https://www.nature.com/articles/s41467-019-13720-2
+  
 - year: 2019
   publications_this_year:
+  - title: "Ab initio exploration of post-PPV transitions in low-pressure analogs of MgSiO<sub>3</sub>"
+    yyyy-mm-dd: 2019-12-03
+    author: K. Umemoto and R. M. Wentzcovitch
+    journal: Physical Review Materials
+    pdf_url:
+    doi: https://doi.org/10.1103/PhysRevMaterials.3.123601
+    online_url: https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.3.123601
+
   - title: "phq: A Fortran code to compute phonon quasiparticle properties and dispersions"
     yyyy-mm-dd: 2019-10-01
     author: Z. Zhang, D.-B. Zhang, T. Sun, and R. M. Wentzcovitch
