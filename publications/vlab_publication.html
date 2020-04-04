@@ -17,22 +17,6 @@ header-img: static/img/header1.jpg
                     <div class="pub-tab"></div>
                     <h4>
                         <span>{{item.year}}</span>
-                        <span style="float: right">
-
-                            {% assign n = item.publications_this_year.size%}
-                            {% assign type = item.year%}
-                            {{n}}
-                            {% if n == 1 %}
-                            Article
-                            {% else %}
-                            {% if type contains "ook" %}
-                            Books
-                            {% else %}
-                            Articles
-                            {% endif %}
-                            {% endif %}
-
-                        </span>
                     </h4>
                 </div>
 

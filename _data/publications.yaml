@@ -1,5 +1,13 @@
 - year: Books Edited
   publications_this_year:
+  - title: "Emergent Views of Earth’s Interior"
+    yyyy-mm-dd: 2020-10-10
+    author:	R. M. Wentzcovitch, K. Hirose, P. Tackley, and J. Tromp
+    publish: AGU Geophysical Monograph Series, contract signed and volume in preparation
+    pdf_url:
+    doi: 
+    online_url: 
+
   - title: "Theoretical and Computational Methods in Mineral Physics: Geophysical Applications"
     yyyy-mm-dd: 2010-12-30
     author:	R. M. Wentzcovitch, and L. Stixrude
@@ -24,6 +32,82 @@
     doi: 
     online_url: 
 
+- year: In preparation
+  publications_this_year:
+  - title: "Effect of valence, spin state, and site on the iron isotope ratio in bridgmanite"
+    yyyy-mm-dd: 2020-12-12
+    author: ​T. Qin, M. Marcondes, R. M. Wentzcovitch, G. Shukla
+    journal: in preparation
+    pdf_url:
+    doi: 
+    online_url:
+
+  - title: "Thermodynamic properties of hcp-iron with T-dependent phonons"
+    yyyy-mm-dd: 2020-12-12
+    author: ​J. Zhuang, H. Wang, Q. Zhang, R. M. Wentzcovitch
+    journal: in preparation
+    pdf_url:
+    doi: 
+    online_url:
+
+  - title: "Thermal conductivity of cubic CaSiO<sub>3</sub>–perovskite at lower mantle conditions"
+    yyyy-mm-dd: 2020-12-12
+    author: ​Z. Zheng, K. Onga, D.-B. Zhang, K. Ohta, K. Hirose, R. M. Wentzcovitch
+    journal: in preparation
+    pdf_url:
+    doi: 
+    online_url:
+    
+  - title: "Thermodynamic and thermoelastic properties of the NAL phase"
+    yyyy-mm-dd: 2020-12-12
+    author: ​M. Marcondes, C. Yao, Z. Wu, and R. M. Wentzcovitch
+    journal: in preparation
+    pdf_url:
+    doi: 
+    online_url:
+    
+- year: Under review
+  publications_this_year:
+  - title: "Seismic detection of the iron spin transition in Earth’s lower mantle"
+    yyyy-mm-dd: 2020-05-05
+    author: ​G. Sheppard, C. Houser, J. Hernlund, T. Reidar, J. Valencia-Cardona, and R. M. Wentzcovitch
+    journal: Nature
+    pdf_url:
+    doi: 
+    online_url: 
+
+  - title: "Post-perovskite transition in Al- and Fe-bearing bridgmanite"
+    yyyy-mm-dd: 2020-05-05
+    author: ​J. Valencia Cardona, G. Shukla, K. Sarkar, and R. M. Wentzcovitch
+    journal: Science Advances
+    pdf_url:
+    doi: 
+    online_url: 
+
+  - title: "Discriminating lower mantle composition"
+    yyyy-mm-dd: 2020-05-05
+    author: C. Houser, J. W. Hernlund, J. Valencia-Cardona, and R. M. Wentzcovitch
+    journal: Phys. Earth & Planet. Int.
+    pdf_url:
+    doi: 
+    online_url: 
+
+  - title: "Phonons in (Mg,Fe)O ferropericlase throughout the iron spin crossover"
+    yyyy-mm-dd: 2020-05-05
+    author: ​M. Marcondes, F. Zhang, and R. M. Wentzcovitch
+    journal: Phys. Rev. B
+    pdf_url:
+    doi: 
+    online_url: https://arxiv.org/abs/2003.12348
+
+  - title: "Phase stability of FeO polytypes from self-consistent LDA+U<sub>SC</sub> calculations,"
+    yyyy-mm-dd: 2020-05-05
+    author: ​Y. Sun, M. Cococcioni, and Wentzcovitch
+    journal: Phys. Rev. B
+    pdf_url:
+    doi: 
+    online_url: https://arxiv.org/abs/2003.13576
+  
 
 - year: 2020
   publications_this_year:
