@@ -7,8 +7,8 @@ function load_iframe(iframe_id){
         if (iframe_id == "vlab_publication") {
             var dir = "https://mineralcloud.github.io/publications/vlab_publications.html";
         }
-        if (iframe_id == "vlab_people") {
-            var dir = "https://mineralcloud.github.io/people/events/vlab_events.html";
+        if (iframe_id == "vlab_events") {
+            var dir = "https://mineralcloud.github.io/events/vlab_events.html";
         }
 
         iFrameID.src = dir;
@@ -16,7 +16,7 @@ function load_iframe(iframe_id){
     }
 }
 
-function fit_iframe(iframe_id){
+function l(iframe_id){
     var iFrameID = document.getElementById(iframe_id);
     if (iFrameID) {
         // here you can make the height, I delete it first, then I make it again
