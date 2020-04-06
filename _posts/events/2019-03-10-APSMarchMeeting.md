@@ -15,7 +15,7 @@ header-img: img/events/19-03-05-APS2019.jpeg
 2. [Ab initio study of iron isotope fractionation during Earth's core-mantle segregation](https://meetings.aps.org/Meeting/MAR19/Session/H17.3){:target="_blank"}
 3. [Thermodynamic properties of ε-iron with T-dependent phonons](https://meetings.aps.org/Meeting/MAR19/Session/H17.5){:target="_blank"}
 4. [Thermal equation of state of ε-Fe at exoplanetary interior conditions](https://meetings.aps.org/Meeting/MAR19/Session/H17.12){:target="_blank"}
-5. [Vibrational spectrum throughout the iron spin crossover in ferropericlase $(Mg_{1-x}Fe_xO)$](https://meetings.aps.org/Meeting/MAR19/Session/H17.13){:target="_blank"}
+5. [Vibrational spectrum throughout the iron spin crossover in ferropericlase (Mg<sub>1-x</sub>Fe<sub>x</sub>O)$](https://meetings.aps.org/Meeting/MAR19/Session/H17.13){:target="_blank"}
 6. [Mass-dependent Dynamics of Terrestrial Exoplanets Using ab initio Mineral Properties (Invited)](https://meetings.aps.org/Meeting/MAR19/Session/K62.3){:target="_blank"}
 7. [Ab initio study of water speciation in forsterite](https://meetings.aps.org/Meeting/MAR19/Session/L17.2){:target="_blank"}
 8. [Phase relations in δ-AlOOH investigated with ab-initio calculations](https://meetings.aps.org/Meeting/MAR19/Session/L17.8){:target="_blank"}

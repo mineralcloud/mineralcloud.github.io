@@ -13,7 +13,7 @@ header-img: img/events/19-12-30-AGU2019.jpg
 
 1. [``Express``: nonstop calculations with the Quantum ESPRESSO](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/554364){:target="_blank"}
 2. [The post-perovskite transition in Fe- and Al-bearing bridgmanite: effects on seismic observables](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/625469 ){:target="_blank"}
-3. [Thermal Conductivity of $CaSiO_3$ Perovskite at Lower Mantle Conditions (Invited)](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/487883){:target="_blank"}
+3. [Thermal Conductivity of CaSiO<sub>3</sub> Perovskite at Lower Mantle Conditions (Invited)](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/487883){:target="_blank"}
 4. [Structures of high-pressure iron oxides from adaptive genetic algorithm](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/506441){:target="_blank"}
 5. [_Ab initio_ investigation of order-disorder transition in δ-AlOOH](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/557931){:target="_blank"}
 

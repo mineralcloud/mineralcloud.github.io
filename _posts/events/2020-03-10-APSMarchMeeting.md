@@ -11,8 +11,8 @@ header-img: img/events/20-02-11-APS2020.png
 
 #### Abstracts presented by the Wentzcovitch Group:
 
-1. [Thermal Conductivity of $CaSiO_3$ Perovskite at Lower Mantle Conditions](http://meetings.aps.org/Meeting/MAR20/Session/J40.12){:target="_blank"}
-2. [_Ab initio_ investigation of post-PPV transitions in $MgGeO_3$ and $NaMgF_3$](http://meetings.aps.org/Meeting/MAR20/Session/J40.2){:target="_blank"}
+1. [Thermal Conductivity of CaSiO<sub>3</sub> Perovskite at Lower Mantle Conditions](http://meetings.aps.org/Meeting/MAR20/Session/J40.12){:target="_blank"}
+2. [_Ab initio_ investigation of post-PPV transitions in MgGeO<sub>3</sub> and NaMgF<sub>3</sub>](http://meetings.aps.org/Meeting/MAR20/Session/J40.2){:target="_blank"}
 3. [The post-perovskite transition in Fe- and Al-bearing bridgmanite: effects on seismic observables](http://meetings.aps.org/Meeting/MAR20/Session/J40.4){:target="_blank"}
 4. [``Express``: nonstop calculations with the Quantum ESPRESSO](http://meetings.aps.org/Meeting/MAR20/Session/J40.6){:target="_blank"}
 5. [_Ab initio_ investigation of hydrogen-bond disorder in δ-AlOOH](http://meetings.aps.org/Meeting/MAR20/Session/J40.11){:target="_blank"}

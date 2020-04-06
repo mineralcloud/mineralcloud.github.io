@@ -16,6 +16,6 @@ header-img: img/events/18-03-05-APS_March_Meeting_2018.png
 3. [Pre-melting hcp to bcc Transition in Beryllium](https://meetings.aps.org/Meeting/MAR18/Session/P01.6){:target="_blank"}
 4. [Thermoelastic properties of the "new aluminous" (NAL) phase](https://meetings.aps.org/Meeting/MAR18/Session/T60.112){:target="_blank"}
 5. [Evolutionary Optimization of PAW Data-sets for Ultra-high Pressure Simulations](https://meetings.aps.org/Meeting/MAR18/Session/T60.116){:target="_blank"}
-6. [Breakdown of Minimal Mean Free Path Theory in $MgSiO_3$ Perovskite](https://meetings.aps.org/Meeting/MAR18/Session/T60.118){:target="_blank"}
+6. [Breakdown of Minimal Mean Free Path Theory in MgSiO<sub>3</sub> Perovskite](https://meetings.aps.org/Meeting/MAR18/Session/T60.118){:target="_blank"}
 7. [Post-perovskite transition in (Al,Fe)-bearing bridgmanite](https://meetings.aps.org/Meeting/MAR18/Session/V38.6){:target="_blank"}
-8. [_Ab initio_ search for low-pressure analogs of $MgSiO_3$ post-perovskite at ultrahigh pressures](https://meetings.aps.org/Meeting/MAR18/Session/V38.7){:target="_blank"}
+8. [_Ab initio_ search for low-pressure analogs of MgSiO<sub>3</sub> post-perovskite at ultrahigh pressures](https://meetings.aps.org/Meeting/MAR18/Session/V38.7){:target="_blank"}
