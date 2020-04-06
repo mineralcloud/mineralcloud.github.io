@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AGU Fall Meeting 2018"
-date:   2018-12-30 17:36:26
+date: 2018-12-30 11:36:26
 categories: events
 logo: static/img/agu_logo.png
 header-img: img/group_photo/2018-12-12-vlab-agudinner.jpg

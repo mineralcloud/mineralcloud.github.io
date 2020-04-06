@@ -7,13 +7,17 @@ header-img: static/img/header1.jpg
 ---
 <div style="width: 510px;">
     {% for post in site.categories.events %}
+    
+    {% if forloop.first %}{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% else %}
+    {% assign next_year=this_year%}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% endif %}
+    {% if this_year != next_year %}<h3 id="{{ this_year }}-ref">{{this_year}}</h3> {% endif %}
+    
     <div class="post-preview">
-
         <div class="row">
-
-
             <div class="col-lg-12  col-md-12 col-sm-12 col-xs-12 post-container">
-
                 <div class="event-post">
                         <h4 class="post-title">
                             {{ post.title }}
