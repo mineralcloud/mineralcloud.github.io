@@ -1609,3 +1609,18 @@ min-height:600px;
   opacity: 0.6;
   color: #fff;
 }
+
+.font-mini h1, 
+.font-mini h2{
+  font-size: 24px;
+}
+
+.font-mini h3{
+  font-size: 18px;
+}
+.font-mini h4{
+  font-size: 16px;
+}
+.font-mini li{
+  padding-bottom: 6px;
+}

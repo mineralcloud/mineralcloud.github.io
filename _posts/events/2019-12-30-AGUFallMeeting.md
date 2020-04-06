@@ -21,18 +21,20 @@ header-img: img/events/19-12-30-AGU2019.jpg
 
 ##### [U42B - Emergent Views of the Earth’s Deep Interior](https://agu.confex.com/agu/fm19/meetingapp.cgi/Session/81835)
 
-* Primary Convener
-    * Renata Wentzcovitch Columbia University
-* Conveners
-    * Jeroen Tromp, Princeton University
-    * Kei Hirose, Tokyo Inst Tech
-    * Paul Tackley, ETH Zurique
+Primary Convener
+* Renata Wentzcovitch Columbia University
+
+Conveners
+* Jeroen Tromp, Princeton University
+* Kei Hirose, Tokyo Inst Tech
+* Paul Tackley, ETH Zurique
 
 ##### [MR23A - Advances and Applications in Computational Mineral Physics and Geochemistry I](https://agu.confex.com/agu/fm19/meetingapp.cgi/Session/88240)
 
-* Primary Convener
-    * Renata Wentzcovitch Columbia University
-* Conveners 
-    * Bijaya B. Karki, Louisiana State University
-    * Koichiro Umemoto, Tokyo Institute of Technoloty
-    * Han Hsu, NCU National Central University of Taiwan
+Primary Convener
+* Renata Wentzcovitch Columbia University
+
+Conveners 
+* Bijaya B. Karki, Louisiana State University
+* Koichiro Umemoto, Tokyo Institute of Technoloty
+* Han Hsu, NCU National Central University of Taiwan

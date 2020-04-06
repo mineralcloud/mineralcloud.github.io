@@ -1,0 +1,64 @@
+---
+layout: nonenone
+title: "Events"
+permalink: /events/vlab_events.html
+description: "Events in Wentzcovitch Group"
+header-img: static/img/header1.jpg
+---
+<div style="width: 510px;">
+    {% for post in site.categories.events %}
+    <div class="post-preview">
+
+        <div class="row">
+            <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 sidebar-container">
+                <div class="event-img">
+                    {% if post.logo %}<img src="{{ site.baseurl }}/{{ post.logo}}">{% endif %}
+                </div>
+            </div>
+
+            <div class="col-lg-8  col-md-8 col-sm-12 col-xs-12 post-container">
+
+                <div class="event-post">
+                        <h4 class="post-title">
+                            {{ post.title }}
+                        </h4>
+                        {% if post.subtitle %}
+                        <h5 class="post-subtitle">
+                            {{ post.subtitle }}
+                        </h5>
+                        {% endif %}
+                    {% if post.portrait %}
+                    <div class="col-lg-9  col-md-9 col-sm-8 col-xs-8 post-container">
+                        {% else %}
+                        <div>
+                            {% endif %}
+
+                            <div class="post-container font-mini">
+                                {{ post.content}}
+                            </div>
+
+                        </div>
+                        <!-- end of if portrait -->
+
+                    </div>
+                    <!-- end of event-post -->
+
+
+                    {% if post.portrait %}
+                    <div class="col-lg-3  col-md-3 col-sm-4 col-xs-4 post-container">
+                        <div class="event-portrait">
+                            <img src="{{ site.baseurl }}/{{ post.portrait}}">
+                        </div>
+                    </div>
+                    {% endif %}
+
+                </div>
+            </div>
+
+
+        </div>
+        <hr>
+
+        {% endfor %}
+
+    </div>
