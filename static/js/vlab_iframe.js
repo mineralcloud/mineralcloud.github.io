@@ -16,7 +16,7 @@ function load_iframe(iframe_id){
     }
 }
 
-function l(iframe_id){
+function fit_iframe(iframe_id){
     var iFrameID = document.getElementById(iframe_id);
     if (iFrameID) {
         // here you can make the height, I delete it first, then I make it again
