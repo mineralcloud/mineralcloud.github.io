@@ -22,8 +22,9 @@ function fit_iframe(iframe_id){
     var iFrameID = document.getElementById(iframe_id);
     if (iFrameID) {
         iFrameID.height = "";
-        var newHeight = iFrameID.contentWindow.document.body.height;
-        newHeight = parseInt(newHeight) + 60;
+        var newHeight = iFrameID.contentWindow.document.body.scrollHeight;
+        
+        newHeight = newHeight + 60;
         iFrameID.height = newHeight + "px";
     }
 
