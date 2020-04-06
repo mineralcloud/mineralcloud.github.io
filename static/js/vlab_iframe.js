@@ -12,7 +12,9 @@ function load_iframe(iframe_id){
         }
 
         iFrameID.src = dir;
+
         
+        fit_iframe(iframe_id);
     }
 }
 
