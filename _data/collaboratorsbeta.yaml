@@ -73,26 +73,23 @@
       department: Department of Earth and Planetary Sciences, School of Science
 
 
-- university: Beijing Computational Science Research Center
+- university: <br>
   peoplehere:
 
     - name: Dong-Bo Zhang
       portrait: img/collaborators/DBZhang.png
-      department:  Condensed Matter Physics
+      department:  Condensed Matter Physics 
+      miniuni: Beijing Computational Science Research Center
 
-
-- university: University of the Chinese Academy of Sciences
-  peoplehere:
-
-    - name: Tao Sun
-      portrait: 
-      department:  
-
-
-- university: University of Science and Technology of China, Hefei
-  peoplehere:
 
     - name: Zhongqing Wu
       portrait: img/collaborators/ZQWu.jpg
       department:  School of Earth and Space Sciences
+      miniuni: University of Science and Technology of China, Hefei
+
+    - name: Tao Sun
+      portrait: 
+      department:   
+      miniuni: University of the Chinese Academy of Sciences<br><br>
+
 

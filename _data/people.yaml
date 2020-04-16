@@ -20,7 +20,7 @@
 #     linkedin: 
 
 - name: Zhen Zhang
-  position: Ph.D
+  position: PhD Student
   since: 2017
   portrait: img/people/ZhenZhang.jpeg
   department: Department of Applied Physics & Applied Mathematics
@@ -31,7 +31,7 @@
     linkedin: https://github.com/zhenzhang305
 
 - name: Qi Zhang
-  position: Ph.D
+  position: PhD Student
   since: 2017
   portrait: img/people/QiZhang.jpg
   department: Department of Applied Physics & Applied Mathematics
@@ -43,7 +43,7 @@
     resume: 
 
 - name: Jingyi Zhuang
-  position: Ph.D
+  position: PhD Student
   since: 2019
   portrait: img/people/JingyiZhuang.jpg
   department: Department of Earth & Environmental Sciences
@@ -56,7 +56,7 @@
 
 
 - name: Chenxin Luo
-  position: Ph.D
+  position: PhD Student
   since: 2019
   portrait: img/people/ChenxinLuo.jpg
   department: Department of Applied Physics & Applied Mathematics
@@ -68,7 +68,7 @@
     site: https://chazeon.com/
 
 - name: Tianqi Wan
-  position: Ph.D
+  position: PhD Student
   since: 2020
   portrait: img/people/TianqiWan.png
   department: Department of Applied Physics & Applied Mathematics
@@ -91,7 +91,7 @@
 #     site: https://underhill1886.github.io/
 
 - name: Yuanchen Gao
-  position: M.Sc.
+  position: MSc Student
   since: 2019
   portrait: img/people/YuanchenGao.jpg
   department: Department of Applied Physics & Applied Mathematics
@@ -103,7 +103,7 @@
     resume: 
 
 - name: Jiayang Wang
-  position: M.Sc.
+  position: MSc Student
   since: 2019
   portrait: img/people/jiayang.jpg
   department: Department of Applied Physics & Applied Mathematics

@@ -1,3 +1,8 @@
+- name: U.S. Department of Energy
+  logo: static/img/energy.png
+  url:  https://www.energy.gov/science/office-science
+  
+
 - name: National Science Foundation
   logo: static/img/nsf_nobkgd.png
   url: http://www.nsf.gov/
@@ -24,6 +29,7 @@
   logo: static/img/ornl_logo.png
   url: https://www.ornl.gov
   description:
+
 
 
 
