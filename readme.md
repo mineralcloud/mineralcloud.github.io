@@ -44,9 +44,9 @@ index.md    # main index html page in markdown file
 Now the [http://mineralscloud.com](http://mineralscloud.com) is using a few pages in this repo as `iframe` inserted.
 The pages are:
 * People: [http://mineralscloud.com/people/](http://mineralscloud.com/people/), using [https://mineralcloud.github.io/people/vlab_people.html](https://mineralcloud.github.io/people/vlab_people.html), with data `_data/people.yaml`.
-* Alumni: 
+* Alumni:  [http://mineralscloud.com/people/alumni](http://mineralscloud.com/people/), using [https://mineralcloud.github.io/people/vlab_alumni.html](https://mineralcloud.github.io/people/vlab_alumni.html), with data `_data/alumni.yaml`
 * Institutions:
-* News:
+* News: [http://mineralscloud.com/news](http://mineralscloud.com/news),
 * Publications: [http://mineralscloud.com/reports/allpublications/](http://mineralscloud.com/reports/allpublications/), using [https://mineralcloud.github.io/publications/vlab_publications.html](https://mineralcloud.github.io/publications/vlab_publications.html), data in `_data/publcations.yaml`
 * Events: [http://mineralscloud.com/events/](http://mineralscloud.com/events/), using [/events/vlab_events.html](https://mineralcloud.github.io/events/vlab_events.html), data in `_posts/events/*.md` (propagated as posts)
 

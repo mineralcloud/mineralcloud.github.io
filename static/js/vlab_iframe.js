@@ -26,7 +26,7 @@ function load_iframe(iframe_id){
 
         if (iframe_id == "vlab_alumni") {
             var dir = "https://mineralcloud.github.io/people/vlab_alumni.html";
-            var height = 4020;
+            var height = 4050;
         }
 
         iFrameID.src = dir;
