@@ -75,7 +75,11 @@ permalink: /people/vlab_people.html
 
             </div>
         </div>
-
+    <div class="people-case-none" style="text-align: right;">
+        <div>
+                <h4><i class="fas fa-chevron-right"></i>  View our <a href="http://mineralscloud.com/people/alumni">Alumni</a></h4>
+        </div>
+    </div>
 
     </div>
 
@@ -128,16 +132,7 @@ permalink: /people/vlab_people.html
     
     
     <div class="row">
-        {% for org in site.data.organizations %}
-        <div class="col-lg-4 col-md-4  col-sm-6 col-xs-12">
-            <a target="_blank" href="{{org.url}}">
-                <center>
-                    <img src="{{ site.baseurl }}/{{org.logo}}" height="80px">
-                    <p>{{org.name}}</p>
-                </center>
-            </a>
-        </div>
-        {% endfor %}
+        {% include people/institutions.html %}
     </div>
     <hr>
 

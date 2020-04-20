@@ -1,0 +1,50 @@
+<div class="people-case-none">
+    <center>
+        <h3>Institutions</h2>
+            <p>We gratefully acknowledge support from the following institutions and organizations.</p>
+    </center>
+
+</div>
+
+
+<div class="row">
+    {% for org in site.data.organizations.institutions %}
+    <div class="col-lg-12 col-md-12  col-sm-12 col-xs-12">
+        <a target="_blank" href="{{org.url}}">
+            <center>
+                <img src="{{ site.baseurl }}/{{org.logo}}" height="80px">
+            </center>
+        </a>
+        {% if org.school %}
+        <ul>
+            {% for sch in org.school %}
+            <li>
+                {% if sch.logo %}
+                <a target="_blank" href="{{sch.url}}">
+                   <img src="{{ site.baseurl }}/{{sch.logo}}" height="60px" >
+                </a>
+                {% endif %}
+                {% if sch.subdepartment %}
+                    {% for sub in sch.subdepartment %}
+                        <a target="_blank" href="{{sub.url}}"><span style="font-size: medium;"><i class="fas fa-caret-right"></i></span>&nbsp{{sub.name}}&nbsp&nbsp</a>
+                    {% endfor %}
+                {% endif %}
+                </li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+    </div>
+    {% endfor %}
+
+
+    {% for org in site.data.organizations.organizations %}
+    <div class="col-lg-12 col-md-12  col-sm-12 col-xs-12">
+        <a target="_blank" href="{{org.url}}">
+            <center>
+                <img src="{{ site.baseurl }}/{{org.logo}}" height="80px">
+                <p>{{org.name}}</p>
+            </center>
+        </a>
+    </div>
+    {% endfor %}
+</div>

@@ -1,35 +1,64 @@
-- name: U.S. Department of Energy
-  logo: static/img/energy.png
-  url:  https://www.energy.gov/science/office-science
-  
+institutions:
+  - name: Columbia University
+    logo: static/img/columbia-200.jpg
+    url: http://www.columbia.edu/
+    description:
+    school:
+      - name: SEAS
+        logo: static/img/columbia-engineering.jpg
+        url: https://engineering.columbia.edu
+        subdepartment:
+          - name: APAM
+            url: https://apam.columbia.edu
+          - name: CS
+            url: https://www.cs.columbia.edu
 
-- name: National Science Foundation
-  logo: static/img/nsf_nobkgd.png
-  url: http://www.nsf.gov/
-  description:
+      - name: GSAS
+        logo: static/img/columbia-gsas.png
+        url: https://gsas.columbia.edu
+        subdepartment:
+          - name: DEES
+            url: https://apam.columbia.edu
+          - name: Lamont
+            url: https://www.cs.columbia.edu
 
-- name: Columbia University
-  logo: static/img/columbia-200.jpg
-  url: http://www.columbia.edu/
-  description:
+  # - name: Cornell University
+  #   logo: static/img/cornell.png
+  #   url: https://www.cornell.edu
+  #   description:
+  #   school:
+  #     - name: 
+  #       subdepartment:
+  #         - name: EAS
+  #           url: https://www.eas.cornell.edu/eas        
+          
+
+organizations:
+  - name: U.S. Department of Energy
+    logo: static/img/energy.png
+    url:  https://www.energy.gov/science/office-science
+    
+
+  - name: National Science Foundation
+    logo: static/img/nsf_nobkgd.png
+    url: http://www.nsf.gov/
+    description:
 
 
-- name: XSEDE
-  logo: static/img/xsede_logo.gif
-  url: https://www.xsede.org
-  description:
+  - name: XSEDE
+    logo: static/img/xsede_logo.gif
+    url: https://www.xsede.org
+    description:
 
-# - name: Blue Waters
-#   logo: static/img/blue_waters_logo.png
-#   url: https://bluewaters.ncsa.illinois.edu
-#   description:
+  # - name: Blue Waters
+  #   logo: static/img/blue_waters_logo.png
+  #   url: https://bluewaters.ncsa.illinois.edu
+  #   description:
 
-
-- name: Ork Ride National Laboatory
-  logo: static/img/ornl_logo.png
-  url: https://www.ornl.gov
-  description:
-
+  - name: Ork Ride National Laboatory
+    logo: static/img/ornl_logo.png
+    url: https://www.ornl.gov
+    description:
 
 
 
