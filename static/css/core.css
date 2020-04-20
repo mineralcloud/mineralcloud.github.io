@@ -1469,7 +1469,7 @@ min-height:600px;
 
 
 .flex {
-  min-height: 500px;
+  min-height: 400px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1480,12 +1480,18 @@ min-height:600px;
 .card {
   margin: 0px 5px;
   width: 380px;
-  height: 440px;
+  
   position: relative;
   border-radius: 6px;
   overflow: hidden;
   background-color: #FFF;
   box-shadow: 0 19px 48px rgba(0, 0, 0, 0.3), 0 15px 32px rgba(0, 0, 0, 0.22);
+}
+.card.autoheight{
+  height:100%
+}
+.card.fixedheight{
+  height: 440px;
 }
 .card .header {
   height: 200px;
@@ -1546,7 +1552,7 @@ min-height:600px;
   background-repeat: no-repeat;
 }
 .card .content {
-  height: 400px;
+  
   width: 100%;
   overflow-x: hidden;
   padding: 20px 30px 30px 30px;
@@ -1554,6 +1560,9 @@ min-height:600px;
   background-color: #FFF;
   overflow-y: hidden;
   color: #111;
+}
+.card.fixedheight .content{
+  height:400px;
 }
 .card .content video{
   transform: scale(0.33, 0.33);

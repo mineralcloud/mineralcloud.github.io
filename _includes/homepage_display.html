@@ -12,7 +12,7 @@
         <div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
             <a href="{{ post.url  }}">
                 <div class="flex">
-                    <div class="card">
+                    <div class="card fixedheight">
                         <div class="header" style="background-image:url('{{ post.header-img}}')">
                             <div class="title {% if post.type %}{{post.type}}{% endif %}">
                                 <div>
@@ -47,7 +47,7 @@
     <a target="_blank" href="{% if post.link %}{{ post.link  }}{% else %}{{ post.url  }}{% endif %}">
 
         <div class="flex">
-            <div class="card">
+            <div class="card fixedheight">
                 <div class="header" style="background-image:url('{{ post.header-img}}')">
                     <div class="title {% if post.type %}{{post.type}}{% endif %}">
                         <div>
@@ -83,7 +83,7 @@
             <div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
                 <a href="{{ publication.online_url  }}" target="_blank">
                     <div class="flex">
-                        <div class="card">
+                        <div class="card fixedheight">
                         <div class="header" style="background-image:url('{{ site.baseurl }}/static/img/tiny_{{ counter}}.jpg')">
 
                                 <div class="title {% if post.type %}{{post.type}}{% endif %}">
