@@ -78,41 +78,53 @@
   #   github: https://github.com/chazeon
     
 
-# - name: Hongjin Wang
-#   position: M.Sc.
-#   since: 2018
-#   portrait: img/people/HongjinWang.jpg
-#   department: Department of Computer Science
-#   email: hw2626@columbia.edu
-#   description: Previously Master student in Materials Science & Engineering (2017-2019)
-#   socialmedia:
-#     github: https://github.com/underhill1886
-#     linkedin: https://www.linkedin.com/in/hongjin-wang/
-#     site: https://underhill1886.github.io/
-
-- name: Yuanchen Gao
-  position: MSc Student
-  since: 2019
-  portrait: img/people/YuanchenGao.jpg
-  department: Department of Applied Physics & Applied Mathematics
-  email: yg2607@columbia.edu
-  description: 
+- name: Hongjin Wang
+  position: M.Sc.
+  since: 2018
+  portrait: img/people/HongjinWang.jpg
+  department: Department of Computer Science
+  email: hw2626@columbia.edu
+  description: Previously Master student in Materials Science & Engineering (2017-2019)
   socialmedia:
-    github: 
-    linkedin: https://www.linkedin.com/in/yuanchengao/
-    resume: 
+    github: https://github.com/underhill1886
+    linkedin: https://www.linkedin.com/in/hongjin-wang/
+    site: https://underhill1886.github.io/
 
-- name: Jiayang Wang
+- name: Chaoxuan Gu
   position: MSc Student
-  since: 2019
-  portrait: img/people/jiayang.jpg
+  since: 2020
+  portrait: 
   department: Department of Applied Physics & Applied Mathematics
-  email: jw3699@columbia.edu
+  email: cg3166@columbia.edu
   description: 
   socialmedia:
     github: 
     linkedin: 
     resume: 
+
+# - name: Yuanchen Gao
+#   position: MSc Student
+#   since: 2019
+#   portrait: img/people/YuanchenGao.jpg
+#   department: Department of Applied Physics & Applied Mathematics
+#   email: yg2607@columbia.edu
+#   description: 
+#   socialmedia:
+#     github: 
+#     linkedin: https://www.linkedin.com/in/yuanchengao/
+#     resume: 
+
+# - name: Jiayang Wang
+#   position: MSc Student
+#   since: 2019
+#   portrait: img/people/jiayang.jpg
+#   department: Department of Applied Physics & Applied Mathematics
+#   email: jw3699@columbia.edu
+#   description: 
+#   socialmedia:
+#     github: 
+#     linkedin: 
+#     resume: 
 
 # - name: Chenhui Yang
 #   position: M.Sc.
