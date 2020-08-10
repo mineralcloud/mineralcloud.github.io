@@ -1,12 +1,3 @@
-<div class="people-case-none">
-    <center>
-        <h3>Institutions</h2>
-            <p>We gratefully acknowledge support from the following institutions and organizations.</p>
-    </center>
-
-</div>
-
-
 <div class="row">
     {% for org in site.data.organizations.institutions %}
     <div class="col-lg-12 col-md-12  col-sm-12 col-xs-12">
@@ -24,11 +15,11 @@
                    <img src="{{ site.baseurl }}/{{sch.logo}}" height="60px" >
                 </a>
                 {% endif %}
-                {% if sch.subdepartment %}
+                <!-- {% if sch.subdepartment %}
                     {% for sub in sch.subdepartment %}
                         <a target="_blank" href="{{sub.url}}"><span style="font-size: medium;"><i class="fas fa-caret-right"></i></span>&nbsp{{sub.name}}&nbsp&nbsp</a>
                     {% endfor %}
-                {% endif %}
+                {% endif %} -->
                 </li>
             {% endfor %}
         </ul>

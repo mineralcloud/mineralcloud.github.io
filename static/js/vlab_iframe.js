@@ -3,7 +3,7 @@ function load_iframe(iframe_id){
     if (iFrameID) {
         if (iframe_id == "vlab_people"){
             var dir = "https://mineralcloud.github.io/people/vlab_people.html";
-            var height = 5130;
+            var height = 5100;
         }
         if (iframe_id == "vlab_publication") {
             var dir = "https://mineralcloud.github.io/publications/vlab_publications.html";
