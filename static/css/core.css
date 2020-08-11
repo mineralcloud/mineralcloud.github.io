@@ -10,9 +10,7 @@ header{
   
 
 }
-body{
-  /* background-color:#000; */
-}
+
 hr:last-of-type{
   display:none;
 }

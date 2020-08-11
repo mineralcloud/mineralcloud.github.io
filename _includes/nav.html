@@ -3,7 +3,7 @@
     <div class="container white">
     <div class="logo">
     <span>
-        <a href="/" class="logo" id="logo">
+        <a href="{{site.baseurl}}/" class="logo" id="logo">
             Wentzcovitch Group
         </a>
     </span>
@@ -11,27 +11,27 @@
         <nav class="nav">
             <a class="menu-icon" id="menu-icon">{{site.data.svgbase.menu}}</a>
             <ul>
-                <li id="nav-home"><a href="/">Home</a></li>
-                <li id="nav-people"><a href="/people">People</a></li>
+                <li id="nav-home"><a href="{{site.baseurl}}/">Home</a></li>
+                <li id="nav-people"><a href="{{site.baseurl}}/people">People</a></li>
                 
                 <li id="nav-research">
                     
                     <div class="dropdown">
-                        <a  href="/research"><button class="dropbtn">Research</button></a>
+                        <a  href="{{site.baseurl}}/research"><button class="dropbtn">Research</button></a>
                         
                         <div class="dropdown-content">
-                            <a href="/research">Overview</a>
+                            <a href="{{site.baseurl}}/research">Overview</a>
                             {% for post in site.categories.research %}
-                            <a href="{% if post.link %}{{ post.link  }}{% else %}{{ post.url  }}{% endif %}">{{ post.title }}</a>
+                            <a href="{% if post.link %}{{ post.link | relative_url }}{% else %}{{ post.url  | relative_url }}{% endif %}">{{ post.title }}</a>
                             {% endfor %}
                             
                             <a target="_blank" href="https://mineralscloud.github.io/src/index.html">Softwares</a>
                         </div>
                     </div>
                 </li>
-                <li id="nav-publications"><a href="/publications">Publications</a></li>
-                <li id="nav-events"><a href="/events">Events</a></li>
-                <li id="nav-contact"><a href="/contact">Contact</a></li>
+                <li id="nav-publications"><a href="{{site.baseurl}}/publications">Publications</a></li>
+                <li id="nav-events"><a href="{{site.baseurl}}/events">Events</a></li>
+                <li id="nav-contact"><a href="{{site.baseurl}}/contact">Contact</a></li>
                 <li id="nav-community" >
                     <div class="dropdown">
                         <a><button class="dropbtn"">Community</button></a>

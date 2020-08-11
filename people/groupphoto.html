@@ -7,12 +7,12 @@ header-img: static/img/header1.jpg
 
 <div class="container">
     <div class="post-container">
-    <h3><a href="/people">People</a> <i class="fas fa-chevron-right"></i> <a href="/groupphoto">Group Photos</a></h3>
+    <h3><a href="{{site.baseurl}}/people">People</a> <i class="fas fa-chevron-right"></i> <a href="{{site.baseurl}}/groupphoto">Group Photos</a></h3>
     <div class="row">
         {% for post in site.categories.group %}
         <div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
         
-            <a target="_blank" href="{% if post.link %}{{ post.link  }}{% else %}{{ post.url  }}{% endif %}">
+            <a target="_blank" href="{% if post.link %}{{ post.link | relative_url  }}{% else %}{{ post.url | relative_url }}{% endif %}">
 
                 <div class="flex">
                     <div class="card">

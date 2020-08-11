@@ -10,7 +10,7 @@
         {% assign counter=counter | plus:1 %}
         {% if counter <= 3 %}
         <div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
-            <a href="{{ post.url  }}">
+            <a href="{{ post.url | relative_url  }}">
                 <div class="flex">
                     <div class="card fixedheight">
                         <div class="header" style="background-image:url('{{ post.header-img}}')">
@@ -44,7 +44,7 @@
 {% assign counter=counter | plus:1 %}
 {% if counter <= 3 %}
 <div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
-    <a target="_blank" href="{% if post.link %}{{ post.link  }}{% else %}{{ post.url  }}{% endif %}">
+    <a target="_blank" href="{% if post.link %}{{ post.link |relative_url }}{% else %}{{ post.url | relative_url  }}{% endif %}">
 
         <div class="flex">
             <div class="card fixedheight">

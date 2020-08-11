@@ -20,7 +20,7 @@ header-img: static/img/header1.jpg
         <div class="col-lg-8  col-md-8 col-sm-12 col-xs-12 post-container">
 
             <div class="event-post">
-                <a href="{{ post.url  }}">
+                <a href="{{ post.url | relative_url  }}">
                     <h2 class="post-title">
                         {{ post.title }}
                     </h2>

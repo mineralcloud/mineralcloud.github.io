@@ -1,4 +1,4 @@
 - - -
 ## More about us:
-### [Group Photos](/groupphoto)
-### [Alumni](/alumni)
+### [Group Photos]({{site.baseurl}}/groupphoto)
+### [Alumni]({{site.baseurl}}/alumni)
