@@ -9,18 +9,18 @@ function load_iframe(iframe_id){
         if (iframe_id == "vlab_publication") {
             // var dir = "https://mineralcloud.github.io/publications/vlab_publications.html";
             var dir = "/vlab/wgroup/publications/vlab_publications.html";
-            var height = 19770;
+            var height = 18400;
         }
         if (iframe_id == "vlab_events") {
             // var dir = "https://mineralcloud.github.io/events/vlab_events.html";
             var dir = "/vlab/wgroup/events/vlab_events.html";
-            var height = 6400;
+            var height = 6450;
         }
 
         if (iframe_id == "vlab_news") {
             // var dir = "https://mineralcloud.github.io/events/vlab_news.html";
             var dir = "/vlab/wgroup/events/vlab_news.html";
-            var height = 5520;
+            var height = 5570;
         }
 
         if (iframe_id == "vlab_institutions") {
