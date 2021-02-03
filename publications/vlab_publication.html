@@ -29,9 +29,9 @@ header-img: static/img/header1.jpg
                                 {% endif %}
                                 {% if publication.journal %}<span class="publication-journal">, {{publication.journal}}</span>
                                 {% endif %}
-                                {% if publication.prep %}<span>, {{publication.prep}}</span>
-                        {% endif %}
-                        (<span>{{publication.yyyy-mm-dd|date:"%Y"}}</span>)
+                            {% if publication.prep %}<span>, {{publication.prep}}</span>
+                            {% else %}
+                        (<span>{{publication.yyyy-mm-dd|date:"%Y"}}</span>){% endif %}
                             {% if publication.online_url %}<span><a
                                     href="{{publication.online_url}}" target="_blank">
                                     <i class="fas fa-link"></i>online</a></span>

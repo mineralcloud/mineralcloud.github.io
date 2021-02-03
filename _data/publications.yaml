@@ -70,8 +70,9 @@
 
   - title: "Prediction of crystal structures and motifs in the Fe-Mg-O system under earth’s core pressures"
     yyyy-mm-dd: 2021-12-12
-    author: S8.	R. Wang, Y. Sun, R. M. Wentzcovitch, Y. Fang, Z. Wu, Z. Lin, C.-Z. Wang, and K.-M. Ho
+    author: R. Wang, Y. Sun, R. M. Wentzcovitch, Y. Fang, Z. Wu, Z. Lin, C.-Z. Wang, and K.-M. Ho
     journal: New J. Phys
+    prep: Under Review
     pdf_url:
     doi: 
     online_url: 
@@ -80,6 +81,7 @@
     yyyy-mm-dd: 2021-12-12
     author: Z. Zhang, and R. M. Wentzcovitch
     journal: Phys. Rev. B
+    prep: Under Review
     pdf_url:
     doi: 
     online_url: https://arxiv.org/abs/2102.00148 
@@ -88,6 +90,7 @@
     yyyy-mm-dd: 2021-12-12
     author: ​C. Luo, X. Deng, W. Wang, G. Shukla, Z. Wu, and R. M. Wentzcovitch
     journal: Comp. Phys. Comm
+    prep: Under Review
     pdf_url:
     doi: 
     online_url: https://arxiv.org/abs/2101.12596 
@@ -96,6 +99,7 @@
     yyyy-mm-dd: 2021-12-12
     author: ​J. Zhuang, H. Wang, Q. Zhang, R. M. Wentzcovitch
     journal: Phys. Rev. B
+    prep: Under Review
     pdf_url:
     doi: 
     online_url: https://arxiv.org/abs/2102.01040 
@@ -104,6 +108,7 @@
     yyyy-mm-dd: 2021-12-12
     author: ​Z. Zheng, R. M. Wentzcovitch
     journal: Phys. Rev. B
+    prep: Under Review
     pdf_url:
     doi: 
     online_url: https://arxiv.org/abs/2005.08289
@@ -112,6 +117,7 @@
     yyyy-mm-dd: 2021-12-12
     author: ​Z. Zheng, K. Onga, D.-B. Zhang, K. Ohta, K. Hirose, R. M. Wentzcovitch
     journal: Phys. Rev. Lett. 
+    prep: Under Review
     pdf_url:
     doi: 
     online_url: https://arxiv.org/abs/2005.08289
@@ -120,6 +126,7 @@
     yyyy-mm-dd: 2021-05-05
     author: ​G. Sheppard, C. Houser, J. Hernlund, T. Reidar, J. Valencia-Cardona, and R. M. Wentzcovitch
     journal: Nature Communications
+    prep: Under Review
     pdf_url:
     doi: 
     online_url: https://eartharxiv.org/repository/view/133/
@@ -128,6 +135,7 @@
     yyyy-mm-dd: 2021-05-05
     author: ​K. Umemoto and R. M. Wentzcovitch
     journal: Proc. Natl.. Acad. Sc. USA
+    prep: Under Review
     pdf_url:
     doi: 
     online_url: http://arxiv.org/abs/2012.08056
@@ -135,7 +143,8 @@
   - title: "Post-perovskite transition in Al- and Fe-bearing bridgmanite"
     yyyy-mm-dd: 2021-05-05
     author: ​J. Valencia Cardona, G. Shukla, K. Sarkar, and R. M. Wentzcovitch
-    journal: Science Advances
+    journal: Earth & Planet. Sc. Letter
+    prep: Under Review
     pdf_url:
     doi: 
     online_url: 
