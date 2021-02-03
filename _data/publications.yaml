@@ -33,75 +33,107 @@
     doi: 
     online_url: 
 
-- year: In preparation
-  publications_this_year:
-  - title: "Effect of valence, spin state, and site on the iron isotope ratio in bridgmanite"
-    yyyy-mm-dd: 2020-12-12
-    author: ​T. Qin, M. Marcondes, R. M. Wentzcovitch, G. Shukla
-    journal: 
-    prep: in preparation
-    pdf_url:
-    doi: 
-    online_url:
-
-  - title: "Thermodynamic properties of hcp-iron with T-dependent phonons"
-    yyyy-mm-dd: 2020-12-12
-    author: ​J. Zhuang, H. Wang, Q. Zhang, R. M. Wentzcovitch
-    journal: 
-    prep: in preparation
-    pdf_url:
-    doi: 
-    online_url:
+# - year: In preparation
+#   publications_this_year:
+#   - title: "Effect of valence, spin state, and site on the iron isotope ratio in bridgmanite"
+#     yyyy-mm-dd: 2020-12-12
+#     author: ​T. Qin, M. Marcondes, R. M. Wentzcovitch, G. Shukla
+#     journal: 
+#     prep: in preparation
+#     pdf_url:
+#     doi: 
+#     online_url:
 
     
-  - title: "Thermodynamic and thermoelastic properties of the NAL phase"
-    yyyy-mm-dd: 2020-12-12
-    author: ​M. Marcondes, C. Yao, Z. Wu, and R. M. Wentzcovitch
-    journal: 
-    prep: in preparation
-    pdf_url:
-    doi: 
-    online_url:
+#   - title: "Thermodynamic and thermoelastic properties of the NAL phase"
+#     yyyy-mm-dd: 2020-12-12
+#     author: ​M. Marcondes, C. Yao, Z. Wu, and R. M. Wentzcovitch
+#     journal: 
+#     prep: in preparation
+#     pdf_url:
+#     doi: 
+#     online_url:
 
-  - title: "pgm: a phyton package for computation of free-energy using T-dependent phonon frequencies"
-    yyyy-mm-dd: 2020-12-12
-    author: ​J. Zhuang, H. Wang, R. M. Wentzcovitch
-    journal: 
-    prep: in preparation
-    pdf_url:
-    doi: 
-    online_url:
+#   - title: "pgm: a phyton package for computation of free-energy using T-dependent phonon frequencies"
+#     yyyy-mm-dd: 2020-12-12
+#     author: ​J. Zhuang, H. Wang, R. M. Wentzcovitch
+#     journal: 
+#     prep: in preparation
+#     pdf_url:
+#     doi: 
+#     online_url:
 
-  - title: "Thermodynamic propertie of cubic CaSiO<sub>3</sub>-perfovskite at extreme conditions"
-    yyyy-mm-dd: 2020-12-12
-    author: ​Z. Zheng, R. M. Wentzcovitch
-    journal: 
-    prep: in preparation
-    pdf_url:
-    doi: 
-    online_url:
+
     
 - year: Under review
   publications_this_year:
 
-  - title: "Thermal conductivity of cubic CaSiO<sub>3</sub>–perovskite at lower mantle conditions"
-    yyyy-mm-dd: 2020-12-12
-    author: ​Z. Zheng, K. Onga, D.-B. Zhang, K. Ohta, K. Hirose, R. M. Wentzcovitch
-    journal: Nature Communications
-    pdf_url:
-    doi: 
-    online_url:
-
-  - title: "Seismic detection of the iron spin transition in Earth’s lower mantle"
-    yyyy-mm-dd: 2020-05-05
-    author: ​G. Sheppard, C. Houser, J. Hernlund, T. Reidar, J. Valencia-Cardona, and R. M. Wentzcovitch
-    journal: Nature
+  - title: "Prediction of crystal structures and motifs in the Fe-Mg-O system under earth’s core pressures"
+    yyyy-mm-dd: 2021-12-12
+    author: S8.	R. Wang, Y. Sun, R. M. Wentzcovitch, Y. Fang, Z. Wu, Z. Lin, C.-Z. Wang, and K.-M. Ho
+    journal: New J. Phys
     pdf_url:
     doi: 
     online_url: 
 
+  - title: "Thermal conductivity of MgSiO<sub>3</sub> perovskite and post-pervskite at lower mantle conditions"
+    yyyy-mm-dd: 2021-12-12
+    author: Z. Zhang, and R. M. Wentzcovitch
+    journal: Phys. Rev. B
+    pdf_url:
+    doi: 
+    online_url: https://arxiv.org/abs/2102.00148 
+
+  - title: "cij: a phyton code for quasiharmonic thermoelasticity"
+    yyyy-mm-dd: 2021-12-12
+    author: ​C. Luo, X. Deng, W. Wang, G. Shukla, Z. Wu, and R. M. Wentzcovitch
+    journal: Comp. Phys. Comm
+    pdf_url:
+    doi: 
+    online_url: https://arxiv.org/abs/2101.12596 
+
+  - title: "Thermodynamic properties of hcp-iron with T-dependent phonons"
+    yyyy-mm-dd: 2021-12-12
+    author: ​J. Zhuang, H. Wang, Q. Zhang, R. M. Wentzcovitch
+    journal: Phys. Rev. B
+    pdf_url:
+    doi: 
+    online_url: https://arxiv.org/abs/2102.01040 
+
+  - title: "Thermodynamic propertie of cubic CaSiO<sub>3</sub>-perfovskite at extreme conditions"
+    yyyy-mm-dd: 2021-12-12
+    author: ​Z. Zheng, R. M. Wentzcovitch
+    journal: Phys. Rev. B
+    pdf_url:
+    doi: 
+    online_url: https://arxiv.org/abs/2005.08289
+
+  - title: "Thermal conductivity of cubic CaSiO<sub>3</sub>–perovskite at lower mantle conditions"
+    yyyy-mm-dd: 2021-12-12
+    author: ​Z. Zheng, K. Onga, D.-B. Zhang, K. Ohta, K. Hirose, R. M. Wentzcovitch
+    journal: Phys. Rev. Lett. 
+    pdf_url:
+    doi: 
+    online_url: https://arxiv.org/abs/2005.08289
+
+  - title: "Seismic detection of the iron spin transition in Earth’s lower mantle"
+    yyyy-mm-dd: 2021-05-05
+    author: ​G. Sheppard, C. Houser, J. Hernlund, T. Reidar, J. Valencia-Cardona, and R. M. Wentzcovitch
+    journal: Nature Communications
+    pdf_url:
+    doi: 
+    online_url: https://eartharxiv.org/repository/view/133/
+
+  - title: "Ab initio prediction of an order-disorder transition in Mg<sub>2</sub>GeO<sub>4</sub>: implication for the nature of Super-Earth’s mantles"
+    yyyy-mm-dd: 2021-05-05
+    author: ​K. Umemoto and R. M. Wentzcovitch
+    journal: Proc. Natl.. Acad. Sc. USA
+    pdf_url:
+    doi: 
+    online_url: http://arxiv.org/abs/2012.08056
+
   - title: "Post-perovskite transition in Al- and Fe-bearing bridgmanite"
-    yyyy-mm-dd: 2020-05-05
+    yyyy-mm-dd: 2021-05-05
     author: ​J. Valencia Cardona, G. Shukla, K. Sarkar, and R. M. Wentzcovitch
     journal: Science Advances
     pdf_url:
@@ -112,6 +144,14 @@
 
 - year: 2020
   publications_this_year:
+  - title: "Toward an international practical pressure scale: A proposal for an IPPS ruby gauge (IPPS-Ruby2020)"
+    yyyy-mm-dd: 2020-11-05
+    author: G. Shen, Y. Wang, A. Dewaele, K. Syassen, C. Wu, D. E. Fratanduono, J. Eggert, S. Klotz, K. F. Dziubek, P. Loubeyre, O. V. Fat’yanov, P. D. Asimow, T. Mashimo, R. Wentzcovitch, other members of the IPPS task group
+    journal: High Pressure Research
+    pdf_url:
+    doi: 10.1016/j.pepi.2020.106552 
+    online_url: https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=ghpr20
+
 
   - title: "Discriminating lower mantle composition"
     yyyy-mm-dd: 2020-11-05
