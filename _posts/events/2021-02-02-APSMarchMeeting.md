@@ -21,7 +21,7 @@ header-img: img/events/20-02-11-APS2020.png
 8. [<span style="color:#F67B50">P19.00001</span> - ``Cij``: A Python code for thermoelasticity](http://meetings.aps.org/Meeting/MAR21/Session/P19.1){:target="_blank"}
 9. [<span style="color:#F67B50">P19.00003</span> - ``pgm``: A Python package for free energy calculation](http://meetings.aps.org/Meeting/MAR21/Session/P19.3){:target="_blank"}
 10. [<span style="color:#F67B50">P19.00008</span> - ``Express``: nonstop calculations with Quantum ESPRESSO](http://meetings.aps.org/Meeting/MAR21/Session/P19.8){:target="_blank"}
-11. [<span style="color:#FBC490">V20.00009</span> - Thermal Conductivity of CaSiO<sub>3</sub> Perovskite at Lower Mantle Conditions **(Invited)**](http://meetings.aps.org/Meeting/MAR21/Session/V10.9){:target="_blank"}
+11. [<span style="color:#67595E">V20.00009</span> - Thermal Conductivity of CaSiO<sub>3</sub> Perovskite at Lower Mantle Conditions **(Invited)**](http://meetings.aps.org/Meeting/MAR21/Session/V10.9){:target="_blank"}
 
 ### [Workshop for the US-Africa Initiative in Electronic Structure](https://march.aps.org/events/workshop-for-the-us-africa-initiative-in-electronic-structure/){:target="_blank"}
 
