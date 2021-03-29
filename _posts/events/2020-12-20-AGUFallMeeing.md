@@ -17,6 +17,9 @@ header-img: img/events/19-12-30-AGU2019.jpg
 3. [``Express``: nonstop calculations with ab initio software](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/755665){:target="_blank"}
 4. [Anharmonic thermodynamic properties of cubic CaSiO3 perovskite from phonon quasiparticles](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/688972){:target="_blank"}
 5. [Spin State and Structural Stability of Ferropericlase up to 30 Mbar](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/705209){:target="_blank"}
+6. [_Ab initio_ prediction of a temperature-induced phase transition in Mg<sub>2</sub>GeO<sub>4</sub>](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/677592){:target="_blank"}
+7. [Detection of the spin crossover in ferropericlase in the Earth’s lower mantle; an interdisciplinary approach. **(Invited)**](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/692138){:target="_blank"}
+
 
 #### Sessions co-organized by Renata Wentzcovitch 
 
