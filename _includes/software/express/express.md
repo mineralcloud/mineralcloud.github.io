@@ -30,7 +30,7 @@ Please cite the following work: [link](#)
 
 # **Available workflows**
 
-![](/img/research/express/workflows.png)
+![]({{ site.baseurl }}/img/research/express/workflows.png)
 <center>
 [Figure: Schematic representation of the workflows]
 </center>
@@ -43,7 +43,7 @@ As mentioned, the workflows are highly modularized so that they can be separated
 
 ### Equation-of-state fitting workflow
 
-![](/img/research/express/eos.png)
+![]({{ site.baseurl }}/img/research/express/eos.png)
 <center>
 [Figure: Schematic representation of the equation-of-state fitting workflow (I).]
 </center>
@@ -62,7 +62,7 @@ The legends share the same meanings in the following two diagrams.
 
 ### Phonon workflow
 
-![](/img/research/express/phonon.png)
+![]({{ site.baseurl }}/img/research/express/phonon.png)
 <center>
 [Figure: Schematic representation of the phonon workflow.]
 </center>
@@ -79,7 +79,7 @@ The current phonon workflow is based on the DFPT method, instead of small displa
 ### Thermodynamics using QHA workflow
 
 
-![](/img/research/express/qha.png)
+![]({{ site.baseurl }}/img/research/express/qha.png)
 <center>
 [Figure: Schematic representation of the QHA workflow]
 </center>
