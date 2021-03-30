@@ -35,6 +35,12 @@ function load_iframe(iframe_id){
             var height = 4160;
         }
 
+        if (iframe_id == "vlab_express") {
+            // var dir = "https://mineralcloud.github.io/people/vlab_alumni.html";
+            var dir = "/vlab/wgroup/research/express.html";
+            var height = 3800;
+        }
+
         iFrameID.src = dir;
         iFrameID.height = height + "px";
 
