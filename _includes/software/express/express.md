@@ -8,7 +8,7 @@ Various materials properties can be computed in Express, e.g., static and therma
 2. processing: submitting, monitoring jobs, and retrieving output from the computing resources;
 3. post-processing: analyzing results and handling errors, such as rerunning failed jobs.
 
-The workflows are highly modularized that can be separated, chained, and customized according to practical needs. It is achieved by tracking the provenance of each step.
+The workflows are highly modularized that can be separated, chained, and customized according to practical needs. It is achieved by tracking the provenance of each step. ([Manuscript draft](http://mineralscloud.com/projects/express_pdf){:target="_blank"})
 
 Written in language Julia, Express is thus born to be performant, extensible, and run on numerous high-performance platforms.
 
@@ -20,13 +20,13 @@ Written in language Julia, Express is thus born to be performant, extensible, an
 
 ## Installation
 
-The express project contains more than one packages, but thanks to Julia’s builtin package manager, users do not have to worry about downloading them manually. A required package is Express.jl ([https://github.com/MineralsCloud/Express.jl](https://github.com/MineralsCloud/Express.jl)), and users can install one or many plugins to work with their software.
+The express project contains more than one packages, but thanks to Julia’s builtin package manager, users do not have to worry about downloading them manually. A required package is Express.jl ([https://github.com/MineralsCloud/Express.jl](https://github.com/MineralsCloud/Express.jl){:target="_blank"}), and users can install one or many plugins to work with their software.
 
-We provide a more detailed documentation on our website for troubleshoot- ing. And please submit an issue on our GitHub repository ([https://github.com/MineralsCloud/Express.jl/issues/new/choose](https://github.com/MineralsCloud/Express.jl/issues/new/choose)) if you have anything unclear or unsolvable.
+We provide a more detailed documentation on our website for troubleshooting. And please submit an issue on our GitHub repository ([https://github.com/MineralsCloud/Express.jl/issues/new/choose](https://github.com/MineralsCloud/Express.jl/issues/new/choose){:target="_blank"}) if you have anything unclear or unsolvable.
 
 ## Cite us
 
-Please cite the following work: [link](#)
+Please cite the following work: [link](#){:target="_blank"}
 
 # **Available workflows**
 
@@ -35,7 +35,7 @@ Please cite the following work: [link](#)
 [Figure: Schematic representation of the workflows]
 </center>
 
-This figure presents a high-level overview of the workflows we shipped in express. Each light-gray block denotes a workflow that we have and will be docu- mented below. The static elasticity block, is not currently contained in express but will be added in the near future. The white blocks mean the results ob- tained from these workflows. Starting from the equation of state (EOS) fitting workflow, we get a series of equilibrium structures. We could either then do a phonon workflow to obtain harmonic frequencies followed by a quasihar- monic (QHA) workflow to get thermodynamic properties of a material, or we could obtain static elasticity by the static elasticity workflow, and then com- bined with the QHA workflow to get thermoelastic properties where the algorithm is proposed in reference [2].
+This figure presents a high-level overview of the workflows we shipped in express. Each light-gray block denotes a workflow that we have and will be documented below. The static elasticity block, is not currently contained in express but will be added in the near future. The white blocks mean the results obtained from these workflows. Starting from the equation of state (EOS) fitting workflow, we get a series of equilibrium structures. We could either then do a phonon workflow to obtain harmonic frequencies followed by a quasiharmonic (QHA) workflow to get thermodynamic properties of a material, or we could obtain static elasticity by the static elasticity workflow, and then combined with the QHA workflow to get thermoelastic properties where the algorithm is proposed in reference [2].
 
 As mentioned, the workflows are highly modularized so that they can be separated, chained, and customized according to practical needs. For example, we could join the EOS, phonon, and QHA workflow into one workflow. Each workflow can have more than one implementation, as we will explain this in the following subsections.
 
@@ -49,8 +49,8 @@ As mentioned, the workflows are highly modularized so that they can be separated
 </center>
 This figure shows the EOS fitting workflow, which is a zoomed-in view of the corresponding block in figure 4, denoted by “equation of state (EOS) block”. The complete procedure is:
 
-1. Given a set of crude equation of state parameters (could be a guess or from papers), and user-desired pressures, calculate the volumes corre- sponding to these pressures.
-2. Generateaseriesofinputsofself-consistent(scf)calculationsatthesevol- umes based on a template input file, send them to QUANTUM ESPRESSO.
+1. Given a set of crude equation of state parameters (could be a guess or from papers), and userdesired pressures, calculate the volumes corresponding to these pressures.
+2. Generate a series of inputs of self-consistent(scf) calculations at these volumes based on a template input file, send them to QUANTUM ESPRESSO.
 3. Collect the outputs, extract pressures vs volumes from them and fit an approximate equation of state.
 4. Similar to 1, find the volumes corresponding to user-desired pressures using the new approximate equation of state.
 5. Similarto2,generateaseriesofinputsofstructureoptimizationsatthese volumes and send them to QUANTUM ESPRESSO.
