@@ -1,6 +1,6 @@
 # What is Express?
 
-Ab initio mineral physics studies' intrinsic complexity inspired the development of workflows to automate long and extensive sequences of the ab initio calculations [1]. Here we introduce Express, a new generation of workflows designed to facilitate calculations of the thermodynamic properties of materials. These workflows are exquisitely designed and well-tested, inspired by their predecessor that is known as VLab [1].
+_Ab initio_ mineral physics studies' intrinsic complexity inspired the development of workflows to automate long and extensive sequences of the _ab initio_ calculations [1]. Here we introduce Express, a new generation of workflows designed to facilitate calculations of the thermodynamic properties of materials. These workflows are exquisitely designed and well-tested, inspired by their predecessor that is known as VLab [1].
 
 Various materials properties can be computed in Express, e.g., static and thermal equations of state, phonon density of states, and thermodynamic properties. Each workflow consists of three steps:
 
@@ -8,9 +8,9 @@ Various materials properties can be computed in Express, e.g., static and therma
 2. processing: submitting, monitoring jobs, and retrieving output from the computing resources;
 3. post-processing: analyzing results and handling errors, such as rerunning failed jobs.
 
-The workflows are highly modularized that can be separated, chained, and customized according to practical needs. It is achieved by tracking the provenance of each step. ([Manuscript draft](http://mineralscloud.com/projects/express_pdf){:target="_blank"})
+The workflows are highly modularized that can be separated, chained, and customized according to practical needs. It is achieved by tracking the provenance of each step. 
 
-Written in language Julia, Express is thus born to be performant, extensible, and run on numerous high-performance platforms.
+Written in language Julia, Express is thus born to be performant, extensible, and run on numerous high-performance platforms. ([Manuscript draft](http://mineralscloud.com/projects/express_pdf){:target="_blank"})
 
 *Supported by DOE grant DESC0019759.
 
@@ -26,7 +26,7 @@ We provide a more detailed documentation on our website for troubleshooting. And
 
 ## Cite us
 
-Please cite the following work: [link](#){:target="_blank"}
+Please cite the following work: <a>(the link will be updated when available)</a>
 
 # **Available workflows**
 
@@ -34,6 +34,7 @@ Please cite the following work: [link](#){:target="_blank"}
 <center>
 [Figure: Schematic representation of the workflows]
 </center>
+<br>
 
 This figure presents a high-level overview of the workflows we shipped in express. Each light-gray block denotes a workflow that we have and will be documented below. The static elasticity block, is not currently contained in express but will be added in the near future. The white blocks mean the results obtained from these workflows. Starting from the equation of state (EOS) fitting workflow, we get a series of equilibrium structures. We could either then do a phonon workflow to obtain harmonic frequencies followed by a quasiharmonic (QHA) workflow to get thermodynamic properties of a material, or we could obtain static elasticity by the static elasticity workflow, and then combined with the QHA workflow to get thermoelastic properties where the algorithm is proposed in reference [2].
 
@@ -47,6 +48,8 @@ As mentioned, the workflows are highly modularized so that they can be separated
 <center>
 [Figure: Schematic representation of the equation-of-state fitting workflow (I).]
 </center>
+<br>
+
 This figure shows the EOS fitting workflow, which is a zoomed-in view of the corresponding block in figure 4, denoted by “equation of state (EOS) block”. The complete procedure is:
 
 1. Given a set of crude equation of state parameters (could be a guess or from papers), and userdesired pressures, calculate the volumes corresponding to these pressures.
@@ -66,6 +69,7 @@ The legends share the same meanings in the following two diagrams.
 <center>
 [Figure: Schematic representation of the phonon workflow.]
 </center>
+<br>
 
 The graph of phonon workflow is similar to that of the EOS workflow. The procedure of the phonon workflow is:
 
@@ -83,6 +87,7 @@ The current phonon workflow is based on the DFPT method, instead of small displa
 <center>
 [Figure: Schematic representation of the QHA workflow]
 </center>
+<br>
 
 The rough steps of a QHA workflow are
 

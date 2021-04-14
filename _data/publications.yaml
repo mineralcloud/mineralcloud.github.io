@@ -68,6 +68,16 @@
 - year: Under review
   publications_this_year:
 
+  - title: "Unconventional iron-magnesium compounds at TPa pressures"
+    yyyy-mm-dd: 2021-12-12
+    author: Y. Fang, Y. Sun, R. Wang, F. Zheng, S. Wu, C.-Z. Wang, R. M. Wentzcovitch, K.-M. Ho
+    journal: Phys. Rev.B
+    prep: Under Review
+    pdf_url:
+    doi: 
+    online_url: 
+
+
   - title: "Prediction of crystal structures and motifs in the Fe-Mg-O system under earth’s core pressures"
     yyyy-mm-dd: 2021-12-12
     author: R. Wang, Y. Sun, R. M. Wentzcovitch, Y. Fang, Z. Wu, Z. Lin, C.-Z. Wang, and K.-M. Ho
@@ -77,15 +87,6 @@
     doi: 
     online_url: 
 
-  - title: "Thermal conductivity of MgSiO<sub>3</sub> perovskite and post-pervskite at lower mantle conditions"
-    yyyy-mm-dd: 2021-12-12
-    author: Z. Zhang, and R. M. Wentzcovitch
-    journal: Phys. Rev. B
-    prep: Under Review
-    pdf_url:
-    doi: 
-    online_url: https://arxiv.org/abs/2102.00148 
-
   - title: "cij: a phyton code for quasiharmonic thermoelasticity"
     yyyy-mm-dd: 2021-12-12
     author: ​C. Luo, X. Deng, W. Wang, G. Shukla, Z. Wu, and R. M. Wentzcovitch
@@ -94,24 +95,6 @@
     pdf_url:
     doi: 
     online_url: https://arxiv.org/abs/2101.12596 
-
-  - title: "Thermodynamic properties of hcp-iron with T-dependent phonons"
-    yyyy-mm-dd: 2021-12-12
-    author: ​J. Zhuang, H. Wang, Q. Zhang, R. M. Wentzcovitch
-    journal: Phys. Rev. B
-    prep: Under Review
-    pdf_url:
-    doi: 
-    online_url: https://arxiv.org/abs/2102.01040 
-
-  - title: "Thermodynamic propertie of cubic CaSiO<sub>3</sub>-perfovskite at extreme conditions"
-    yyyy-mm-dd: 2021-12-12
-    author: ​Z. Zheng, R. M. Wentzcovitch
-    journal: Phys. Rev. B
-    prep: Under Review
-    pdf_url:
-    doi: 
-    online_url: https://arxiv.org/abs/2011.12681
 
   - title: "Thermal conductivity of cubic CaSiO<sub>3</sub>–perovskite at lower mantle conditions"
     yyyy-mm-dd: 2021-12-12
@@ -149,7 +132,32 @@
     doi: 
     online_url: 
 
-  
+
+- year: 2021
+  publications_this_year:
+  - title: "Thermodynamic properties of ε-Fe with thermal electronic excitation effects on vibrational spectra"
+    yyyy-mm-dd: 2021-12-12
+    author: ​J. Zhuang, H. Wang, Q. Zhang, R. M. Wentzcovitch
+    journal: Phys. Rev. B
+    pdf_url:
+    doi: 10.1103/PhysRevB.103.144102
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.144102 
+
+  - title: "Thermal conductivity of MgSiO<sub>3</sub> perovskite and post-pervskite at lower mantle conditions"
+    yyyy-mm-dd: 2021-12-12
+    author: Z. Zhang, and R. M. Wentzcovitch
+    journal: Phys. Rev. B
+    pdf_url:
+    doi: 10.1103/PhysRevB.103.144103
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.144103
+
+  - title: "Thermodynamic propertie of cubic CaSiO<sub>3</sub>-perfovskite at extreme conditions"
+    yyyy-mm-dd: 2021-12-12
+    author: ​Z. Zheng, R. M. Wentzcovitch
+    journal: Phys. Rev. B
+    pdf_url:
+    doi: 10.1103/PhysRevB.103.104108
+    online_url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.104108
 
 - year: 2020
   publications_this_year:
